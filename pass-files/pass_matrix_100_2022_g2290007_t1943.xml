@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2022 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        gslopta-djobq03.nexus.opta.net
+     production time:    20220803T125051,691Z
+     production module:  Opta::Feed::XML::Soccer::F27
+-->
+<SoccerFeed act_minute="96" act_period="2" act_second="6" away_team_id="1943" away_team_name="Randers FC" competition_id="100" competition_name="Danish Superligaen" game_date="2022-07-31 13:00:00" game_id="2290007" home_team_id="420" home_team_name="AGF Aarhus" season_id="2022" season_name="Season 2022/2023" team_id="1943" team_name="Randers FC">
+  <Player cross_lost="0" cross_success="0" jersey_num="40" pass_lost="3" pass_success="7" player_id="509036" player_name="Filip Bundgaard" position="Substitute" position_id="5" sub_on="45" x="58.58" y="51.04">
+    <Player player_id="89226" player_name="Jakob Ankersen">1</Player>
+    <Player player_id="50647" player_name="Björn Kopplin">1</Player>
+    <Player player_id="482537" player_name="Tobias Klysner">1</Player>
+    <Player player_id="204165" player_name="Adam Andersson">1</Player>
+    <Player player_id="85200" player_name="Nicolai Brock-Madsen">1</Player>
+    <Player player_id="176293" player_name="Tosin Kehinde">2</Player>
+  </Player>
+  <Player cross_lost="4" cross_success="0" jersey_num="10" pass_lost="8" pass_success="18" player_id="176293" player_name="Tosin Kehinde" position="Midfielder" position_id="3" sub_off="77" x="61.42" y="51.06">
+    <Player player_id="89226" player_name="Jakob Ankersen">2</Player>
+    <Player player_id="478157" player_name="Lasse Johnsen">3</Player>
+    <Player player_id="204165" player_name="Adam Andersson">6</Player>
+    <Player player_id="75970" player_name="Daniel Høegh">1</Player>
+    <Player player_id="186663" player_name="Marvin Egho">1</Player>
+    <Player player_id="226927" player_name="Hugo Andersson">1</Player>
+    <Player player_id="424835" player_name="Stephen Odey">4</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="1" pass_lost="14" pass_success="15" player_id="167040" player_name="Patrik Carlgren" position="Goalkeeper" position_id="1" x="9.48" y="51.09">
+    <Player player_id="204165" player_name="Adam Andersson">1</Player>
+    <Player player_id="478157" player_name="Lasse Johnsen">4</Player>
+    <Player player_id="89226" player_name="Jakob Ankersen">1</Player>
+    <Player player_id="50647" player_name="Björn Kopplin">2</Player>
+    <Player player_id="75970" player_name="Daniel Høegh">4</Player>
+    <Player player_id="533579" player_name="Mads Enggård">1</Player>
+    <Player player_id="186663" player_name="Marvin Egho">2</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="90" pass_lost="6" pass_success="10" player_id="424835" player_name="Stephen Odey" position="Forward" position_id="4" sub_off="45" x="57.22" y="47.91">
+    <Player player_id="533579" player_name="Mads Enggård">1</Player>
+    <Player player_id="478157" player_name="Lasse Johnsen">1</Player>
+    <Player player_id="89226" player_name="Jakob Ankersen">3</Player>
+    <Player player_id="176293" player_name="Tosin Kehinde">4</Player>
+    <Player player_id="204165" player_name="Adam Andersson">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="5" pass_lost="3" pass_success="18" player_id="226927" player_name="Hugo Andersson" position="Defender" position_id="2" sub_off="45" x="32.45" y="37.34">
+    <Player player_id="176293" player_name="Tosin Kehinde">1</Player>
+    <Player player_id="167040" player_name="Patrik Carlgren">3</Player>
+    <Player player_id="424835" player_name="Stephen Odey">1</Player>
+    <Player player_id="75970" player_name="Daniel Høegh">4</Player>
+    <Player player_id="533579" player_name="Mads Enggård">1</Player>
+    <Player player_id="204165" player_name="Adam Andersson">4</Player>
+    <Player player_id="50647" player_name="Björn Kopplin">1</Player>
+    <Player player_id="478157" player_name="Lasse Johnsen">3</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="45" pass_lost="3" pass_success="3" player_id="186663" player_name="Marvin Egho" position="Forward" position_id="4" sub_off="77" x="60.57" y="48.73">
+    <Player player_id="424835" player_name="Stephen Odey">2</Player>
+    <Player player_id="478157" player_name="Lasse Johnsen">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="2" pass_lost="3" pass_success="8" player_id="446023" player_name="Simon Graves" position="Substitute" position_id="5" sub_on="45" x="33.86" y="34.39">
+    <Player player_id="50647" player_name="Björn Kopplin">1</Player>
+    <Player player_id="75970" player_name="Daniel Høegh">2</Player>
+    <Player player_id="533579" player_name="Mads Enggård">1</Player>
+    <Player player_id="204165" player_name="Adam Andersson">4</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="16" pass_lost="3" pass_success="20" player_id="533579" player_name="Mads Enggård" position="Midfielder" position_id="3" sub_off="83" x="50.90" y="53.99">
+    <Player player_id="176293" player_name="Tosin Kehinde">1</Player>
+    <Player player_id="509036" player_name="Filip Bundgaard">1</Player>
+    <Player player_id="424835" player_name="Stephen Odey">2</Player>
+    <Player player_id="167040" player_name="Patrik Carlgren">1</Player>
+    <Player player_id="226927" player_name="Hugo Andersson">3</Player>
+    <Player player_id="75970" player_name="Daniel Høegh">2</Player>
+    <Player player_id="204165" player_name="Adam Andersson">2</Player>
+    <Player player_id="50647" player_name="Björn Kopplin">2</Player>
+    <Player player_id="89226" player_name="Jakob Ankersen">2</Player>
+    <Player player_id="478157" player_name="Lasse Johnsen">4</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="3" pass_lost="9" pass_success="38" player_id="75970" player_name="Daniel Høegh" position="Defender" position_id="2" x="36.02" y="68.30">
+    <Player player_id="509036" player_name="Filip Bundgaard">1</Player>
+    <Player player_id="167040" player_name="Patrik Carlgren">4</Player>
+    <Player player_id="424835" player_name="Stephen Odey">1</Player>
+    <Player player_id="226927" player_name="Hugo Andersson">2</Player>
+    <Player player_id="446023" player_name="Simon Graves">2</Player>
+    <Player player_id="533579" player_name="Mads Enggård">2</Player>
+    <Player player_id="204165" player_name="Adam Andersson">2</Player>
+    <Player player_id="50647" player_name="Björn Kopplin">11</Player>
+    <Player player_id="89226" player_name="Jakob Ankersen">2</Player>
+    <Player player_id="482537" player_name="Tobias Klysner">1</Player>
+    <Player player_id="478157" player_name="Lasse Johnsen">10</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="44" pass_lost="1" pass_success="2" player_id="85200" player_name="Nicolai Brock-Madsen" position="Substitute" position_id="5" sub_on="77" x="74.99" y="69.13">
+    <Player player_id="482537" player_name="Tobias Klysner">1</Player>
+    <Player player_id="89226" player_name="Jakob Ankersen">1</Player>
+  </Player>
+  <Player cross_lost="6" cross_success="1" jersey_num="8" pass_lost="15" pass_success="32" player_id="204165" player_name="Adam Andersson" position="Defender" position_id="2" x="46.89" y="16.76">
+    <Player player_id="167040" player_name="Patrik Carlgren">1</Player>
+    <Player player_id="424835" player_name="Stephen Odey">1</Player>
+    <Player player_id="509036" player_name="Filip Bundgaard">1</Player>
+    <Player player_id="176293" player_name="Tosin Kehinde">2</Player>
+    <Player player_id="226927" player_name="Hugo Andersson">4</Player>
+    <Player player_id="533579" player_name="Mads Enggård">1</Player>
+    <Player player_id="186663" player_name="Marvin Egho">3</Player>
+    <Player player_id="446023" player_name="Simon Graves">3</Player>
+    <Player cross="1" player_id="75970" player_name="Daniel Høegh">0</Player>
+    <Player player_id="85200" player_name="Nicolai Brock-Madsen">1</Player>
+    <Player player_id="478157" player_name="Lasse Johnsen">13</Player>
+    <Player player_id="89226" player_name="Jakob Ankersen">2</Player>
+  </Player>
+  <Player cross_lost="3" cross_success="0" jersey_num="9" pass_lost="7" pass_success="21" player_id="89226" player_name="Jakob Ankersen" position="Midfielder" position_id="3" x="56.40" y="62.57">
+    <Player player_id="509036" player_name="Filip Bundgaard">3</Player>
+    <Player player_id="176293" player_name="Tosin Kehinde">4</Player>
+    <Player player_id="424835" player_name="Stephen Odey">2</Player>
+    <Player player_id="204165" player_name="Adam Andersson">3</Player>
+    <Player player_id="226927" player_name="Hugo Andersson">1</Player>
+    <Player player_id="533579" player_name="Mads Enggård">1</Player>
+    <Player player_id="50647" player_name="Björn Kopplin">3</Player>
+    <Player player_id="478157" player_name="Lasse Johnsen">4</Player>
+  </Player>
+  <Player cross_lost="2" cross_success="1" jersey_num="15" pass_lost="13" pass_success="24" player_id="50647" player_name="Björn Kopplin" position="Defender" position_id="2" x="46.86" y="84.68">
+    <Player player_id="167040" player_name="Patrik Carlgren">2</Player>
+    <Player player_id="424835" player_name="Stephen Odey">2</Player>
+    <Player player_id="509036" player_name="Filip Bundgaard">1</Player>
+    <Player player_id="176293" player_name="Tosin Kehinde">5</Player>
+    <Player cross="1" player_id="226927" player_name="Hugo Andersson">0</Player>
+    <Player player_id="533579" player_name="Mads Enggård">1</Player>
+    <Player player_id="446023" player_name="Simon Graves">1</Player>
+    <Player player_id="75970" player_name="Daniel Høegh">3</Player>
+    <Player player_id="204165" player_name="Adam Andersson">1</Player>
+    <Player player_id="478157" player_name="Lasse Johnsen">3</Player>
+    <Player player_id="89226" player_name="Jakob Ankersen">5</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="18" pass_lost="2" pass_success="2" player_id="482537" player_name="Tobias Klysner" position="Substitute" position_id="5" sub_on="83" x="56.11" y="70.84">
+    <Player player_id="171158" player_name="Edgar Babayan">1</Player>
+    <Player player_id="509036" player_name="Filip Bundgaard">1</Player>
+  </Player>
+  <Player cross_lost="1" cross_success="1" jersey_num="11" pass_lost="0" pass_success="2" player_id="171158" player_name="Edgar Babayan" position="Substitute" position_id="5" sub_on="77" x="58.39" y="45.89">
+    <Player cross="1" player_id="85200" player_name="Nicolai Brock-Madsen">0</Player>
+    <Player player_id="50647" player_name="Björn Kopplin">1</Player>
+    <Player player_id="478157" player_name="Lasse Johnsen">1</Player>
+  </Player>
+  <Player cross_lost="1" cross_success="0" jersey_num="6" pass_lost="5" pass_success="61" player_id="478157" player_name="Lasse Johnsen" position="Midfielder" position_id="3" x="49.04" y="40.25">
+    <Player player_id="446023" player_name="Simon Graves">2</Player>
+    <Player player_id="186663" player_name="Marvin Egho">1</Player>
+    <Player player_id="533579" player_name="Mads Enggård">4</Player>
+    <Player player_id="75970" player_name="Daniel Høegh">9</Player>
+    <Player player_id="176293" player_name="Tosin Kehinde">9</Player>
+    <Player player_id="509036" player_name="Filip Bundgaard">2</Player>
+    <Player player_id="424835" player_name="Stephen Odey">1</Player>
+    <Player player_id="167040" player_name="Patrik Carlgren">1</Player>
+    <Player player_id="226927" player_name="Hugo Andersson">6</Player>
+    <Player player_id="89226" player_name="Jakob Ankersen">6</Player>
+    <Player player_id="50647" player_name="Björn Kopplin">5</Player>
+    <Player player_id="204165" player_name="Adam Andersson">15</Player>
+  </Player>
+</SoccerFeed>
+

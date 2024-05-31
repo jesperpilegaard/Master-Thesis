@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2022 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        gslopta-djobq05.nexus.opta.net
+     production time:    20220720T091531,839Z
+     production module:  Opta::Feed::XML::Soccer::F27
+-->
+<SoccerFeed act_minute="95" act_period="2" act_second="5" away_team_id="401" away_team_name="Aalborg BK" competition_id="100" competition_name="Danish Superligaen" game_date="2022-07-17 13:00:00" game_id="2288345" home_team_id="547" home_team_name="Viborg FF" season_id="2022" season_name="Season 2022/2023" team_id="547" team_name="Viborg FF">
+  <Player cross_lost="1" cross_success="0" jersey_num="17" pass_lost="3" pass_success="44" player_id="485355" player_name="Jakob Bonde" position="Midfielder" position_id="3" x="55.24" y="66.05">
+    <Player player_id="495068" player_name="Ibrahim Said">2</Player>
+    <Player player_id="192249" player_name="Nicolas Bürgy">4</Player>
+    <Player player_id="167076" player_name="Clint Leemans">2</Player>
+    <Player player_id="222684" player_name="Justin Lonwijk">1</Player>
+    <Player player_id="98079" player_name="Christian Sørensen">13</Player>
+    <Player player_id="481406" player_name="Lucas Lund">1</Player>
+    <Player player_id="485358" player_name="Tobias Bech">1</Player>
+    <Player player_id="165922" player_name="Jeppe Grønning">9</Player>
+    <Player player_id="216228" player_name="Mads Lauritsen">6</Player>
+    <Player player_id="204642" player_name="Jay-Roy Grot">2</Player>
+    <Player player_id="443251" player_name="Marokhy Ndione">2</Player>
+    <Player player_id="227701" player_name="Daniel Anyembe">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="19" pass_lost="4" pass_success="7" player_id="420922" player_name="Jan Zamburek" position="Substitute" position_id="5" sub_on="71" x="61.58" y="29.48">
+    <Player player_id="495068" player_name="Ibrahim Said">2</Player>
+    <Player player_id="227701" player_name="Daniel Anyembe">2</Player>
+    <Player player_id="485358" player_name="Tobias Bech">1</Player>
+    <Player player_id="165922" player_name="Jeppe Grønning">1</Player>
+    <Player player_id="98079" player_name="Christian Sørensen">1</Player>
+  </Player>
+  <Player cross_lost="1" cross_success="0" jersey_num="30" pass_lost="2" pass_success="10" player_id="495068" player_name="Ibrahim Said" position="Substitute" position_id="5" sub_off="90+3" sub_on="57" x="59.85" y="65.61">
+    <Player player_id="485355" player_name="Jakob Bonde">2</Player>
+    <Player player_id="420922" player_name="Jan Zamburek">2</Player>
+    <Player player_id="165922" player_name="Jeppe Grønning">2</Player>
+    <Player player_id="485358" player_name="Tobias Bech">1</Player>
+    <Player player_id="227701" player_name="Daniel Anyembe">1</Player>
+    <Player player_id="98079" player_name="Christian Sørensen">2</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="4" pass_lost="8" pass_success="74" player_id="192249" player_name="Nicolas Bürgy" position="Defender" position_id="2" x="36.34" y="34.13">
+    <Player player_id="485355" player_name="Jakob Bonde">5</Player>
+    <Player player_id="227701" player_name="Daniel Anyembe">23</Player>
+    <Player player_id="216228" player_name="Mads Lauritsen">16</Player>
+    <Player player_id="165922" player_name="Jeppe Grønning">2</Player>
+    <Player player_id="485358" player_name="Tobias Bech">1</Player>
+    <Player player_id="481406" player_name="Lucas Lund">9</Player>
+    <Player player_id="222684" player_name="Justin Lonwijk">4</Player>
+    <Player player_id="167076" player_name="Clint Leemans">14</Player>
+  </Player>
+  <Player cross_lost="5" cross_success="0" jersey_num="8" pass_lost="8" pass_success="21" player_id="222684" player_name="Justin Lonwijk" position="Forward" position_id="4" sub_off="71" x="67.38" y="19.32">
+    <Player player_id="485355" player_name="Jakob Bonde">2</Player>
+    <Player player_id="227701" player_name="Daniel Anyembe">3</Player>
+    <Player player_id="443251" player_name="Marokhy Ndione">3</Player>
+    <Player player_id="204642" player_name="Jay-Roy Grot">2</Player>
+    <Player player_id="165922" player_name="Jeppe Grønning">2</Player>
+    <Player player_id="98079" player_name="Christian Sørensen">3</Player>
+    <Player player_id="167076" player_name="Clint Leemans">6</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="1" pass_lost="8" pass_success="31" player_id="481406" player_name="Lucas Lund" position="Goalkeeper" position_id="1" x="8.95" y="48.36">
+    <Player player_id="204642" player_name="Jay-Roy Grot">1</Player>
+    <Player player_id="216228" player_name="Mads Lauritsen">7</Player>
+    <Player player_id="165922" player_name="Jeppe Grønning">2</Player>
+    <Player player_id="485358" player_name="Tobias Bech">1</Player>
+    <Player player_id="227701" player_name="Daniel Anyembe">1</Player>
+    <Player player_id="167076" player_name="Clint Leemans">3</Player>
+    <Player player_id="98079" player_name="Christian Sørensen">4</Player>
+    <Player player_id="192249" player_name="Nicolas Bürgy">10</Player>
+    <Player player_id="485355" player_name="Jakob Bonde">2</Player>
+  </Player>
+  <Player cross_lost="12" cross_success="3" jersey_num="7" pass_lost="5" pass_success="32" player_id="98079" player_name="Christian Sørensen" position="Defender" position_id="2" x="50.79" y="80.80">
+    <Player player_id="485355" player_name="Jakob Bonde">11</Player>
+    <Player player_id="192249" player_name="Nicolas Bürgy">2</Player>
+    <Player player_id="495068" player_name="Ibrahim Said">2</Player>
+    <Player player_id="222684" player_name="Justin Lonwijk">3</Player>
+    <Player cross="3" player_id="216228" player_name="Mads Lauritsen">3</Player>
+    <Player player_id="204642" player_name="Jay-Roy Grot">6</Player>
+    <Player player_id="165922" player_name="Jeppe Grønning">5</Player>
+  </Player>
+  <Player cross_lost="1" cross_success="0" jersey_num="14" pass_lost="5" pass_success="40" player_id="167076" player_name="Clint Leemans" position="Midfielder" position_id="3" sub_off="71" x="56.95" y="23.40">
+    <Player player_id="222684" player_name="Justin Lonwijk">7</Player>
+    <Player player_id="481406" player_name="Lucas Lund">1</Player>
+    <Player player_id="98079" player_name="Christian Sørensen">1</Player>
+    <Player player_id="227701" player_name="Daniel Anyembe">10</Player>
+    <Player player_id="165922" player_name="Jeppe Grønning">2</Player>
+    <Player player_id="204642" player_name="Jay-Roy Grot">2</Player>
+    <Player player_id="443251" player_name="Marokhy Ndione">2</Player>
+    <Player player_id="216228" player_name="Mads Lauritsen">2</Player>
+    <Player player_id="485355" player_name="Jakob Bonde">2</Player>
+    <Player player_id="192249" player_name="Nicolas Bürgy">11</Player>
+  </Player>
+  <Player cross_lost="2" cross_success="0" jersey_num="24" pass_lost="5" pass_success="50" player_id="227701" player_name="Daniel Anyembe" position="Defender" position_id="2" x="48.47" y="15.87">
+    <Player player_id="216228" player_name="Mads Lauritsen">3</Player>
+    <Player player_id="443251" player_name="Marokhy Ndione">2</Player>
+    <Player player_id="165922" player_name="Jeppe Grønning">8</Player>
+    <Player player_id="167076" player_name="Clint Leemans">10</Player>
+    <Player player_id="481406" player_name="Lucas Lund">6</Player>
+    <Player player_id="222684" player_name="Justin Lonwijk">7</Player>
+    <Player player_id="192249" player_name="Nicolas Bürgy">9</Player>
+    <Player player_id="485355" player_name="Jakob Bonde">3</Player>
+    <Player player_id="420922" player_name="Jan Zamburek">2</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="13" pass_lost="10" pass_success="39" player_id="165922" player_name="Jeppe Grønning" position="Midfielder" position_id="3" x="49.12" y="48.64">
+    <Player player_id="167076" player_name="Clint Leemans">4</Player>
+    <Player player_id="481406" player_name="Lucas Lund">1</Player>
+    <Player player_id="98079" player_name="Christian Sørensen">5</Player>
+    <Player player_id="222684" player_name="Justin Lonwijk">2</Player>
+    <Player player_id="204642" player_name="Jay-Roy Grot">2</Player>
+    <Player player_id="216228" player_name="Mads Lauritsen">1</Player>
+    <Player player_id="485358" player_name="Tobias Bech">1</Player>
+    <Player player_id="227701" player_name="Daniel Anyembe">3</Player>
+    <Player player_id="420922" player_name="Jan Zamburek">2</Player>
+    <Player player_id="485355" player_name="Jakob Bonde">9</Player>
+    <Player player_id="192249" player_name="Nicolas Bürgy">6</Player>
+    <Player player_id="495068" player_name="Ibrahim Said">3</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="5" pass_lost="0" pass_success="0" player_id="457221" player_name="Zan Zaletel" position="Substitute" position_id="5" sub_on="90+3" x="0" y="0" />
+  <Player cross_lost="0" cross_success="0" jersey_num="31" pass_lost="3" pass_success="4" player_id="485358" player_name="Tobias Bech" position="Substitute" position_id="5" sub_on="71" x="66.23" y="28.49">
+    <Player player_id="420922" player_name="Jan Zamburek">2</Player>
+    <Player player_id="485355" player_name="Jakob Bonde">1</Player>
+    <Player player_id="204642" player_name="Jay-Roy Grot">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="9" pass_lost="5" pass_success="6" player_id="443251" player_name="Marokhy Ndione" position="Forward" position_id="4" sub_off="57" x="57.77" y="46.83">
+    <Player player_id="222684" player_name="Justin Lonwijk">3</Player>
+    <Player player_id="485355" player_name="Jakob Bonde">1</Player>
+    <Player player_id="167076" player_name="Clint Leemans">1</Player>
+    <Player player_id="227701" player_name="Daniel Anyembe">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="3" pass_lost="6" pass_success="48" player_id="216228" player_name="Mads Lauritsen" position="Defender" position_id="2" sent_off="90+1" x="31.85" y="63.10">
+    <Player player_id="495068" player_name="Ibrahim Said">1</Player>
+    <Player player_id="192249" player_name="Nicolas Bürgy">18</Player>
+    <Player player_id="485355" player_name="Jakob Bonde">3</Player>
+    <Player player_id="165922" player_name="Jeppe Grønning">4</Player>
+    <Player player_id="204642" player_name="Jay-Roy Grot">1</Player>
+    <Player player_id="443251" player_name="Marokhy Ndione">1</Player>
+    <Player player_id="227701" player_name="Daniel Anyembe">1</Player>
+    <Player player_id="167076" player_name="Clint Leemans">2</Player>
+    <Player player_id="222684" player_name="Justin Lonwijk">1</Player>
+    <Player player_id="481406" player_name="Lucas Lund">5</Player>
+    <Player player_id="98079" player_name="Christian Sørensen">11</Player>
+  </Player>
+  <Player cross_lost="1" cross_success="0" jersey_num="11" pass_lost="4" pass_success="8" player_id="204642" player_name="Jay-Roy Grot" position="Forward" position_id="4" x="65.87" y="60.08">
+    <Player player_id="227701" player_name="Daniel Anyembe">1</Player>
+    <Player player_id="165922" player_name="Jeppe Grønning">2</Player>
+    <Player player_id="98079" player_name="Christian Sørensen">1</Player>
+    <Player player_id="485355" player_name="Jakob Bonde">3</Player>
+    <Player player_id="167076" player_name="Clint Leemans">1</Player>
+  </Player>
+</SoccerFeed>
+

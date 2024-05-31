@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2022 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        gslopta-djobq01.nexus.opta.net
+     production time:    20220812T121530,685Z
+     production module:  Opta::Feed::XML::Soccer::F27
+-->
+<SoccerFeed act_minute="94" act_period="2" act_second="9" away_team_id="545" away_team_name="Odense Boldklub" competition_id="100" competition_name="Danish Superligaen" game_date="2022-07-24 13:00:00" game_id="2288352" home_team_id="1943" home_team_name="Randers FC" season_id="2022" season_name="Season 2022/2023" team_id="545" team_name="Odense Boldklub">
+  <Player cross_lost="0" cross_success="0" jersey_num="13" pass_lost="13" pass_success="14" player_id="466362" player_name="Hans Christian Bernat" position="Goalkeeper" position_id="1" x="9.12" y="49.02">
+    <Player player_id="161268" player_name="Sander Svendsen">1</Player>
+    <Player player_id="63800" player_name="Jørgen Skjelvik">3</Player>
+    <Player player_id="428442" player_name="Nicholas Mickelson">1</Player>
+    <Player player_id="423803" player_name="Ayo Simon Okosun">2</Player>
+    <Player player_id="454656" player_name="Mads Frökjaer-Jensen">1</Player>
+    <Player player_id="78897" player_name="Bjørn Paulsen">1</Player>
+    <Player player_id="192100" player_name="Jeppe Tverskov">2</Player>
+    <Player player_id="91125" player_name="Kasper Larsen">1</Player>
+    <Player player_id="585646" player_name="Luca Kjerrumgaard">1</Player>
+    <Player player_id="573252" player_name="Charly Horneman">1</Player>
+  </Player>
+  <Player cross_lost="3" cross_success="1" jersey_num="10" pass_lost="7" pass_success="19" player_id="161268" player_name="Sander Svendsen" position="Midfielder" position_id="3" x="50.41" y="63.07">
+    <Player player_id="85028" player_name="Bashkim Kadrii">1</Player>
+    <Player player_id="454656" player_name="Mads Frökjaer-Jensen">3</Player>
+    <Player player_id="423803" player_name="Ayo Simon Okosun">2</Player>
+    <Player player_id="63800" player_name="Jørgen Skjelvik">4</Player>
+    <Player player_id="97533" player_name="Aron Thrándarson">3</Player>
+    <Player player_id="192100" player_name="Jeppe Tverskov">1</Player>
+    <Player cross="1" player_id="78897" player_name="Bjørn Paulsen">0</Player>
+    <Player player_id="91125" player_name="Kasper Larsen">1</Player>
+    <Player player_id="508144" player_name="Jakob Breum">1</Player>
+    <Player player_id="573252" player_name="Charly Horneman">2</Player>
+    <Player player_id="585646" player_name="Luca Kjerrumgaard">1</Player>
+  </Player>
+  <Player cross_lost="2" cross_success="0" jersey_num="16" pass_lost="9" pass_success="29" player_id="63800" player_name="Jørgen Skjelvik" position="Defender" position_id="2" x="35.48" y="82.20">
+    <Player player_id="423803" player_name="Ayo Simon Okosun">7</Player>
+    <Player player_id="454656" player_name="Mads Frökjaer-Jensen">4</Player>
+    <Player player_id="85028" player_name="Bashkim Kadrii">2</Player>
+    <Player player_id="97533" player_name="Aron Thrándarson">1</Player>
+    <Player player_id="161268" player_name="Sander Svendsen">3</Player>
+    <Player player_id="466362" player_name="Hans Christian Bernat">1</Player>
+    <Player player_id="573252" player_name="Charly Horneman">1</Player>
+    <Player player_id="78897" player_name="Bjørn Paulsen">7</Player>
+    <Player player_id="192100" player_name="Jeppe Tverskov">3</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="19" pass_lost="1" pass_success="4" player_id="97533" player_name="Aron Thrándarson" position="Substitute" position_id="5" sub_on="70" x="47.86" y="44.55">
+    <Player player_id="161268" player_name="Sander Svendsen">1</Player>
+    <Player player_id="508144" player_name="Jakob Breum">2</Player>
+    <Player player_id="585646" player_name="Luca Kjerrumgaard">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="9" pass_lost="3" pass_success="7" player_id="85028" player_name="Bashkim Kadrii" position="Forward" position_id="4" sub_off="70" x="60.12" y="51.23">
+    <Player player_id="573252" player_name="Charly Horneman">2</Player>
+    <Player player_id="192100" player_name="Jeppe Tverskov">1</Player>
+    <Player player_id="78897" player_name="Bjørn Paulsen">1</Player>
+    <Player player_id="454656" player_name="Mads Frökjaer-Jensen">2</Player>
+    <Player player_id="161268" player_name="Sander Svendsen">1</Player>
+  </Player>
+  <Player cross_lost="3" cross_success="1" jersey_num="2" pass_lost="7" pass_success="13" player_id="428442" player_name="Nicholas Mickelson" position="Defender" position_id="2" x="52.60" y="11.99">
+    <Player player_id="454656" player_name="Mads Frökjaer-Jensen">1</Player>
+    <Player player_id="423803" player_name="Ayo Simon Okosun">1</Player>
+    <Player cross="1" player_id="161268" player_name="Sander Svendsen">1</Player>
+    <Player player_id="508144" player_name="Jakob Breum">2</Player>
+    <Player player_id="91125" player_name="Kasper Larsen">4</Player>
+    <Player player_id="573252" player_name="Charly Horneman">2</Player>
+    <Player player_id="192100" player_name="Jeppe Tverskov">2</Player>
+  </Player>
+  <Player cross_lost="1" cross_success="0" jersey_num="29" pass_lost="8" pass_success="14" player_id="454656" player_name="Mads Frökjaer-Jensen" position="Midfielder" position_id="3" sub_off="70" x="58.06" y="54.24">
+    <Player player_id="63800" player_name="Jørgen Skjelvik">2</Player>
+    <Player player_id="85028" player_name="Bashkim Kadrii">1</Player>
+    <Player player_id="423803" player_name="Ayo Simon Okosun">2</Player>
+    <Player player_id="428442" player_name="Nicholas Mickelson">2</Player>
+    <Player player_id="161268" player_name="Sander Svendsen">2</Player>
+    <Player player_id="573252" player_name="Charly Horneman">1</Player>
+    <Player player_id="508144" player_name="Jakob Breum">2</Player>
+    <Player player_id="192100" player_name="Jeppe Tverskov">2</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="20" pass_lost="4" pass_success="29" player_id="423803" player_name="Ayo Simon Okosun" position="Midfielder" position_id="3" x="41.53" y="48.83">
+    <Player player_id="85028" player_name="Bashkim Kadrii">2</Player>
+    <Player player_id="428442" player_name="Nicholas Mickelson">4</Player>
+    <Player player_id="454656" player_name="Mads Frökjaer-Jensen">2</Player>
+    <Player player_id="97533" player_name="Aron Thrándarson">1</Player>
+    <Player player_id="63800" player_name="Jørgen Skjelvik">6</Player>
+    <Player player_id="161268" player_name="Sander Svendsen">6</Player>
+    <Player player_id="585646" player_name="Luca Kjerrumgaard">1</Player>
+    <Player player_id="573252" player_name="Charly Horneman">1</Player>
+    <Player player_id="91125" player_name="Kasper Larsen">1</Player>
+    <Player player_id="78897" player_name="Bjørn Paulsen">1</Player>
+    <Player player_id="192100" player_name="Jeppe Tverskov">4</Player>
+  </Player>
+  <Player cross_lost="2" cross_success="0" jersey_num="6" pass_lost="8" pass_success="38" player_id="192100" player_name="Jeppe Tverskov" position="Midfielder" position_id="3" x="41.64" y="41.93">
+    <Player player_id="78897" player_name="Bjørn Paulsen">5</Player>
+    <Player player_id="585646" player_name="Luca Kjerrumgaard">2</Player>
+    <Player player_id="573252" player_name="Charly Horneman">1</Player>
+    <Player player_id="91125" player_name="Kasper Larsen">6</Player>
+    <Player player_id="508144" player_name="Jakob Breum">2</Player>
+    <Player player_id="466362" player_name="Hans Christian Bernat">2</Player>
+    <Player player_id="161268" player_name="Sander Svendsen">1</Player>
+    <Player player_id="97533" player_name="Aron Thrándarson">1</Player>
+    <Player player_id="63800" player_name="Jørgen Skjelvik">5</Player>
+    <Player player_id="85028" player_name="Bashkim Kadrii">2</Player>
+    <Player player_id="428442" player_name="Nicholas Mickelson">3</Player>
+    <Player player_id="454656" player_name="Mads Frökjaer-Jensen">2</Player>
+    <Player player_id="423803" player_name="Ayo Simon Okosun">6</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="4" pass_lost="9" pass_success="23" player_id="78897" player_name="Bjørn Paulsen" position="Defender" position_id="2" x="32.02" y="59.44">
+    <Player player_id="192100" player_name="Jeppe Tverskov">2</Player>
+    <Player player_id="91125" player_name="Kasper Larsen">6</Player>
+    <Player player_id="466362" player_name="Hans Christian Bernat">3</Player>
+    <Player player_id="161268" player_name="Sander Svendsen">2</Player>
+    <Player player_id="63800" player_name="Jørgen Skjelvik">5</Player>
+    <Player player_id="85028" player_name="Bashkim Kadrii">1</Player>
+    <Player player_id="454656" player_name="Mads Frökjaer-Jensen">1</Player>
+    <Player player_id="423803" player_name="Ayo Simon Okosun">2</Player>
+    <Player player_id="428442" player_name="Nicholas Mickelson">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="5" pass_lost="11" pass_success="21" player_id="91125" player_name="Kasper Larsen" position="Defender" position_id="2" x="33.04" y="33.33">
+    <Player player_id="78897" player_name="Bjørn Paulsen">4</Player>
+    <Player player_id="192100" player_name="Jeppe Tverskov">4</Player>
+    <Player player_id="508144" player_name="Jakob Breum">1</Player>
+    <Player player_id="63800" player_name="Jørgen Skjelvik">1</Player>
+    <Player player_id="428442" player_name="Nicholas Mickelson">5</Player>
+    <Player player_id="423803" player_name="Ayo Simon Okosun">3</Player>
+    <Player player_id="454656" player_name="Mads Frökjaer-Jensen">3</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="8" pass_lost="5" pass_success="14" player_id="508144" player_name="Jakob Breum" position="Substitute" position_id="5" sub_on="55" x="49.85" y="27.79">
+    <Player player_id="63800" player_name="Jørgen Skjelvik">1</Player>
+    <Player player_id="97533" player_name="Aron Thrándarson">2</Player>
+    <Player player_id="454656" player_name="Mads Frökjaer-Jensen">1</Player>
+    <Player player_id="428442" player_name="Nicholas Mickelson">1</Player>
+    <Player player_id="423803" player_name="Ayo Simon Okosun">2</Player>
+    <Player player_id="85028" player_name="Bashkim Kadrii">1</Player>
+    <Player player_id="161268" player_name="Sander Svendsen">3</Player>
+    <Player player_id="192100" player_name="Jeppe Tverskov">3</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="21" pass_lost="3" pass_success="7" player_id="573252" player_name="Charly Horneman" position="Midfielder" position_id="3" sub_off="55" x="55.76" y="43.39">
+    <Player player_id="192100" player_name="Jeppe Tverskov">2</Player>
+    <Player player_id="85028" player_name="Bashkim Kadrii">3</Player>
+    <Player player_id="428442" player_name="Nicholas Mickelson">1</Player>
+    <Player player_id="454656" player_name="Mads Frökjaer-Jensen">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="17" pass_lost="1" pass_success="8" player_id="585646" player_name="Luca Kjerrumgaard" position="Substitute" position_id="5" sub_on="70" x="59.55" y="49.23">
+    <Player player_id="91125" player_name="Kasper Larsen">2</Player>
+    <Player player_id="428442" player_name="Nicholas Mickelson">1</Player>
+    <Player player_id="508144" player_name="Jakob Breum">4</Player>
+    <Player player_id="97533" player_name="Aron Thrándarson">1</Player>
+  </Player>
+</SoccerFeed>
+

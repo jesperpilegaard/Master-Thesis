@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2022 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        gslopta-djobq03.nexus.opta.net
+     production time:    20220803T105343,902Z
+     production module:  Opta::Feed::XML::Soccer::F27
+-->
+<SoccerFeed act_minute="93" act_period="2" act_second="51" away_team_id="239" away_team_name="Brøndby IF" competition_id="100" competition_name="Danish Superligaen" game_date="2022-07-31 17:00:00" game_id="2290009" home_team_id="418" home_team_name="Silkeborg IF" season_id="2022" season_name="Season 2022/2023" team_id="418" team_name="Silkeborg IF">
+  <Player cross_lost="0" cross_success="0" jersey_num="24" pass_lost="3" pass_success="15" player_id="112446" player_name="Andreas Oggesen" position="Substitute" position_id="5" sub_on="68" x="45.18" y="38.06">
+    <Player player_id="486867" player_name="Rasmus Carstensen">5</Player>
+    <Player player_id="225005" player_name="Joel Felix">1</Player>
+    <Player player_id="228054" player_name="Mads Kaalund Larsen">1</Player>
+    <Player player_id="486465" player_name="Søren Tengstedt">1</Player>
+    <Player player_id="508653" player_name="Anders Klynge">1</Player>
+    <Player player_id="205123" player_name="Tobias Salquist">4</Player>
+    <Player player_id="179459" player_name="Mark Brink">2</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="10" pass_lost="1" pass_success="11" player_id="486465" player_name="Søren Tengstedt" position="Substitute" position_id="5" sub_on="68" x="66.34" y="45.44">
+    <Player player_id="228054" player_name="Mads Kaalund Larsen">2</Player>
+    <Player player_id="179459" player_name="Mark Brink">2</Player>
+    <Player player_id="112446" player_name="Andreas Oggesen">5</Player>
+    <Player player_id="486867" player_name="Rasmus Carstensen">2</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="11" pass_lost="9" pass_success="21" player_id="83572" player_name="Nicklas Helenius" position="Forward" position_id="4" x="63.84" y="51.97">
+    <Player player_id="508653" player_name="Anders Klynge">3</Player>
+    <Player player_id="179459" player_name="Mark Brink">1</Player>
+    <Player player_id="486465" player_name="Søren Tengstedt">1</Player>
+    <Player player_id="486871" player_name="Nicolai Vallys">3</Player>
+    <Player player_id="486868" player_name="Sebastian Jørgensen">3</Player>
+    <Player player_id="228054" player_name="Mads Kaalund Larsen">2</Player>
+    <Player player_id="486867" player_name="Rasmus Carstensen">8</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="20" pass_lost="6" pass_success="51" player_id="205123" player_name="Tobias Salquist" position="Defender" position_id="2" x="34.67" y="24.68">
+    <Player player_id="508653" player_name="Anders Klynge">3</Player>
+    <Player player_id="179459" player_name="Mark Brink">6</Player>
+    <Player player_id="112446" player_name="Andreas Oggesen">1</Player>
+    <Player player_id="486465" player_name="Søren Tengstedt">2</Player>
+    <Player player_id="422179" player_name="Stefán Thórdarson">6</Player>
+    <Player player_id="486868" player_name="Sebastian Jørgensen">4</Player>
+    <Player player_id="486871" player_name="Nicolai Vallys">2</Player>
+    <Player player_id="225005" player_name="Joel Felix">10</Player>
+    <Player player_id="486867" player_name="Rasmus Carstensen">12</Player>
+    <Player player_id="84490" player_name="Nicolai Larsen">5</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="14" pass_lost="4" pass_success="66" player_id="179459" player_name="Mark Brink" position="Midfielder" position_id="3" sub_off="90+2" x="40.96" y="47.43">
+    <Player player_id="83572" player_name="Nicklas Helenius">1</Player>
+    <Player player_id="486465" player_name="Søren Tengstedt">2</Player>
+    <Player player_id="508653" player_name="Anders Klynge">11</Player>
+    <Player player_id="205123" player_name="Tobias Salquist">12</Player>
+    <Player player_id="517521" player_name="Lukas Ahlefeld Engel">2</Player>
+    <Player player_id="486867" player_name="Rasmus Carstensen">9</Player>
+    <Player player_id="422179" player_name="Stefán Thórdarson">8</Player>
+    <Player player_id="486868" player_name="Sebastian Jørgensen">2</Player>
+    <Player player_id="486871" player_name="Nicolai Vallys">6</Player>
+    <Player player_id="225005" player_name="Joel Felix">11</Player>
+    <Player player_id="228054" player_name="Mads Kaalund Larsen">2</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="19" pass_lost="0" pass_success="0" player_id="513791" player_name="Frederik Carstensen" position="Substitute" position_id="5" sub_on="90+2" x="0" y="0" />
+  <Player cross_lost="0" cross_success="0" jersey_num="6" pass_lost="0" pass_success="0" player_id="486864" player_name="Pelle Mattsson" position="Substitute" position_id="5" sub_on="90+2" x="12.40" y="87.40" />
+  <Player cross_lost="1" cross_success="2" jersey_num="21" pass_lost="5" pass_success="47" player_id="508653" player_name="Anders Klynge" position="Midfielder" position_id="3" sub_off="90+2" x="50.38" y="69.29">
+    <Player player_id="225005" player_name="Joel Felix">6</Player>
+    <Player player_id="228054" player_name="Mads Kaalund Larsen">3</Player>
+    <Player player_id="486868" player_name="Sebastian Jørgensen">3</Player>
+    <Player player_id="486871" player_name="Nicolai Vallys">2</Player>
+    <Player player_id="422179" player_name="Stefán Thórdarson">3</Player>
+    <Player player_id="517521" player_name="Lukas Ahlefeld Engel">14</Player>
+    <Player player_id="84490" player_name="Nicolai Larsen">1</Player>
+    <Player player_id="486867" player_name="Rasmus Carstensen">1</Player>
+    <Player player_id="179459" player_name="Mark Brink">4</Player>
+    <Player cross="1" player_id="205123" player_name="Tobias Salquist">4</Player>
+    <Player cross="1" player_id="83572" player_name="Nicklas Helenius">4</Player>
+    <Player player_id="112446" player_name="Andreas Oggesen">2</Player>
+  </Player>
+  <Player cross_lost="5" cross_success="1" jersey_num="2" pass_lost="14" pass_success="52" player_id="486867" player_name="Rasmus Carstensen" position="Defender" position_id="2" x="48.59" y="12.24">
+    <Player player_id="84490" player_name="Nicolai Larsen">1</Player>
+    <Player player_id="225005" player_name="Joel Felix">1</Player>
+    <Player player_id="486871" player_name="Nicolai Vallys">2</Player>
+    <Player player_id="486868" player_name="Sebastian Jørgensen">7</Player>
+    <Player player_id="422179" player_name="Stefán Thórdarson">7</Player>
+    <Player player_id="486465" player_name="Søren Tengstedt">4</Player>
+    <Player cross="1" player_id="83572" player_name="Nicklas Helenius">4</Player>
+    <Player player_id="508653" player_name="Anders Klynge">1</Player>
+    <Player player_id="205123" player_name="Tobias Salquist">10</Player>
+    <Player player_id="179459" player_name="Mark Brink">15</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="1" pass_lost="3" pass_success="30" player_id="84490" player_name="Nicolai Larsen" position="Goalkeeper" position_id="1" x="10.98" y="50.88">
+    <Player player_id="517521" player_name="Lukas Ahlefeld Engel">5</Player>
+    <Player player_id="486867" player_name="Rasmus Carstensen">5</Player>
+    <Player player_id="225005" player_name="Joel Felix">6</Player>
+    <Player player_id="422179" player_name="Stefán Thórdarson">2</Player>
+    <Player player_id="112446" player_name="Andreas Oggesen">1</Player>
+    <Player player_id="508653" player_name="Anders Klynge">2</Player>
+    <Player player_id="179459" player_name="Mark Brink">3</Player>
+    <Player player_id="205123" player_name="Tobias Salquist">6</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="29" pass_lost="12" pass_success="37" player_id="517521" player_name="Lukas Ahlefeld Engel" position="Defender" position_id="2" x="46.53" y="84.71">
+    <Player player_id="84490" player_name="Nicolai Larsen">2</Player>
+    <Player player_id="225005" player_name="Joel Felix">9</Player>
+    <Player player_id="228054" player_name="Mads Kaalund Larsen">1</Player>
+    <Player player_id="486868" player_name="Sebastian Jørgensen">1</Player>
+    <Player player_id="486871" player_name="Nicolai Vallys">5</Player>
+    <Player player_id="422179" player_name="Stefán Thórdarson">2</Player>
+    <Player player_id="112446" player_name="Andreas Oggesen">1</Player>
+    <Player player_id="83572" player_name="Nicklas Helenius">4</Player>
+    <Player player_id="508653" player_name="Anders Klynge">7</Player>
+    <Player player_id="179459" player_name="Mark Brink">5</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="8" pass_lost="4" pass_success="43" player_id="422179" player_name="Stefán Thórdarson" position="Midfielder" position_id="3" sub_off="68" x="43.34" y="32.30">
+    <Player player_id="179459" player_name="Mark Brink">7</Player>
+    <Player player_id="205123" player_name="Tobias Salquist">8</Player>
+    <Player player_id="508653" player_name="Anders Klynge">4</Player>
+    <Player player_id="83572" player_name="Nicklas Helenius">1</Player>
+    <Player player_id="486871" player_name="Nicolai Vallys">2</Player>
+    <Player player_id="486868" player_name="Sebastian Jørgensen">4</Player>
+    <Player player_id="225005" player_name="Joel Felix">2</Player>
+    <Player player_id="486867" player_name="Rasmus Carstensen">10</Player>
+    <Player player_id="517521" player_name="Lukas Ahlefeld Engel">5</Player>
+  </Player>
+  <Player cross_lost="1" cross_success="1" jersey_num="27" pass_lost="3" pass_success="31" player_id="486868" player_name="Sebastian Jørgensen" position="Forward" position_id="4" sub_off="68" x="56.78" y="29.70">
+    <Player cross="1" player_id="205123" player_name="Tobias Salquist">1</Player>
+    <Player player_id="179459" player_name="Mark Brink">2</Player>
+    <Player player_id="508653" player_name="Anders Klynge">1</Player>
+    <Player player_id="83572" player_name="Nicklas Helenius">4</Player>
+    <Player player_id="422179" player_name="Stefán Thórdarson">7</Player>
+    <Player player_id="486871" player_name="Nicolai Vallys">5</Player>
+    <Player player_id="486867" player_name="Rasmus Carstensen">11</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="7" pass_lost="8" pass_success="29" player_id="486871" player_name="Nicolai Vallys" position="Forward" position_id="4" sub_off="79" x="54.49" y="68.42">
+    <Player player_id="83572" player_name="Nicklas Helenius">3</Player>
+    <Player player_id="205123" player_name="Tobias Salquist">1</Player>
+    <Player player_id="179459" player_name="Mark Brink">2</Player>
+    <Player player_id="508653" player_name="Anders Klynge">6</Player>
+    <Player player_id="486867" player_name="Rasmus Carstensen">3</Player>
+    <Player player_id="84490" player_name="Nicolai Larsen">1</Player>
+    <Player player_id="517521" player_name="Lukas Ahlefeld Engel">4</Player>
+    <Player player_id="422179" player_name="Stefán Thórdarson">3</Player>
+    <Player player_id="486868" player_name="Sebastian Jørgensen">2</Player>
+    <Player player_id="225005" player_name="Joel Felix">4</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="17" pass_lost="2" pass_success="9" player_id="228054" player_name="Mads Kaalund Larsen" position="Substitute" position_id="5" sub_on="79" x="57.26" y="66.55">
+    <Player player_id="112446" player_name="Andreas Oggesen">2</Player>
+    <Player player_id="486465" player_name="Søren Tengstedt">1</Player>
+    <Player player_id="83572" player_name="Nicklas Helenius">2</Player>
+    <Player player_id="508653" player_name="Anders Klynge">1</Player>
+    <Player player_id="179459" player_name="Mark Brink">2</Player>
+    <Player player_id="517521" player_name="Lukas Ahlefeld Engel">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="4" pass_lost="12" pass_success="50" player_id="225005" player_name="Joel Felix" position="Defender" position_id="2" x="31.92" y="66.89">
+    <Player player_id="508653" player_name="Anders Klynge">1</Player>
+    <Player player_id="205123" player_name="Tobias Salquist">5</Player>
+    <Player player_id="179459" player_name="Mark Brink">6</Player>
+    <Player player_id="83572" player_name="Nicklas Helenius">1</Player>
+    <Player player_id="486465" player_name="Søren Tengstedt">1</Player>
+    <Player player_id="486868" player_name="Sebastian Jørgensen">2</Player>
+    <Player player_id="486871" player_name="Nicolai Vallys">9</Player>
+    <Player player_id="422179" player_name="Stefán Thórdarson">5</Player>
+    <Player player_id="517521" player_name="Lukas Ahlefeld Engel">13</Player>
+    <Player player_id="84490" player_name="Nicolai Larsen">4</Player>
+    <Player player_id="486867" player_name="Rasmus Carstensen">3</Player>
+  </Player>
+</SoccerFeed>
+

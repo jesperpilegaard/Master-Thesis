@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2022 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        gslopta-djobq02.nexus.opta.net
+     production time:    20220728T084933,959Z
+     production module:  Opta::Feed::XML::Soccer::F27
+-->
+<SoccerFeed act_minute="95" act_period="2" act_second="2" away_team_id="272" away_team_name="Lyngby BK" competition_id="100" competition_name="Danish Superligaen" game_date="2022-07-25 18:00:00" game_id="2288355" home_team_id="2289" home_team_name="AC Horsens" season_id="2022" season_name="Season 2022/2023" team_id="2289" team_name="AC Horsens">
+  <Player cross_lost="0" cross_success="0" jersey_num="14" pass_lost="0" pass_success="2" player_id="171191" player_name="Jonas Gemmer" position="Substitute" position_id="5" sub_on="71" x="41.93" y="78.67">
+    <Player player_id="423804" player_name="Moses Opondo">1</Player>
+    <Player player_id="501341" player_name="Magnus Jensen">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="7" pass_lost="1" pass_success="1" player_id="514437" player_name="Lirim Qamili" position="Substitute" position_id="5" sub_on="85" x="38.08" y="42.13">
+    <Player player_id="544928" player_name="Thomas Santos">1</Player>
+  </Player>
+  <Player cross_lost="1" cross_success="1" jersey_num="23" pass_lost="4" pass_success="21" player_id="515742" player_name="David Kruse" position="Midfielder" position_id="3" x="47.40" y="53.24">
+    <Player player_id="423804" player_name="Moses Opondo">3</Player>
+    <Player player_id="172946" player_name="Aron Sigurdarson">3</Player>
+    <Player player_id="502432" player_name="James Gomez">5</Player>
+    <Player player_id="486789" player_name="Malte Kiilerich">1</Player>
+    <Player player_id="3489" player_name="Anders Jacobsen">1</Player>
+    <Player player_id="185920" player_name="Lubambo Musonda">3</Player>
+    <Player player_id="544928" player_name="Thomas Santos">1</Player>
+    <Player cross="1" player_id="501341" player_name="Magnus Jensen">3</Player>
+    <Player player_id="505457" player_name="Marcus Hannesbo">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="19" pass_lost="1" pass_success="1" player_id="505457" player_name="Marcus Hannesbo" position="Substitute" position_id="5" sub_on="85" x="16.42" y="69.98">
+    <Player player_id="501341" player_name="Magnus Jensen">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="18" pass_lost="9" pass_success="9" player_id="544928" player_name="Thomas Santos" position="Defender" position_id="2" x="41.42" y="16.28">
+    <Player player_id="68250" player_name="Matej Delac">1</Player>
+    <Player player_id="477682" player_name="Casper Tengstedt">1</Player>
+    <Player player_id="423804" player_name="Moses Opondo">2</Player>
+    <Player player_id="501341" player_name="Magnus Jensen">3</Player>
+    <Player player_id="3489" player_name="Anders Jacobsen">2</Player>
+  </Player>
+  <Player cross_lost="1" cross_success="0" jersey_num="3" pass_lost="10" pass_success="28" player_id="501341" player_name="Magnus Jensen" position="Defender" position_id="2" x="36.43" y="35.39">
+    <Player player_id="423804" player_name="Moses Opondo">6</Player>
+    <Player player_id="477682" player_name="Casper Tengstedt">4</Player>
+    <Player player_id="172946" player_name="Aron Sigurdarson">2</Player>
+    <Player player_id="68250" player_name="Matej Delac">1</Player>
+    <Player player_id="3489" player_name="Anders Jacobsen">1</Player>
+    <Player player_id="502432" player_name="James Gomez">2</Player>
+    <Player player_id="486789" player_name="Malte Kiilerich">6</Player>
+    <Player player_id="185920" player_name="Lubambo Musonda">1</Player>
+    <Player player_id="544928" player_name="Thomas Santos">2</Player>
+    <Player player_id="515742" player_name="David Kruse">3</Player>
+  </Player>
+  <Player cross_lost="2" cross_success="1" jersey_num="24" pass_lost="6" pass_success="22" player_id="185920" player_name="Lubambo Musonda" position="Defender" position_id="2" sub_off="85" x="46.66" y="80.64">
+    <Player player_id="171191" player_name="Jonas Gemmer">1</Player>
+    <Player player_id="515742" player_name="David Kruse">6</Player>
+    <Player player_id="501341" player_name="Magnus Jensen">1</Player>
+    <Player player_id="3489" player_name="Anders Jacobsen">1</Player>
+    <Player player_id="502432" player_name="James Gomez">3</Player>
+    <Player player_id="172946" player_name="Aron Sigurdarson">7</Player>
+    <Player cross="1" player_id="477682" player_name="Casper Tengstedt">2</Player>
+    <Player player_id="423804" player_name="Moses Opondo">1</Player>
+  </Player>
+  <Player cross_lost="1" cross_success="0" jersey_num="9" pass_lost="3" pass_success="4" player_id="3489" player_name="Anders Jacobsen" position="Forward" position_id="4" sub_off="85" x="54.37" y="54.44">
+    <Player player_id="172946" player_name="Aron Sigurdarson">1</Player>
+    <Player player_id="502432" player_name="James Gomez">1</Player>
+    <Player player_id="185920" player_name="Lubambo Musonda">2</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="21" pass_lost="13" pass_success="37" player_id="502432" player_name="James Gomez" position="Defender" position_id="2" x="32.54" y="61.52">
+    <Player player_id="185920" player_name="Lubambo Musonda">10</Player>
+    <Player player_id="486789" player_name="Malte Kiilerich">3</Player>
+    <Player player_id="3489" player_name="Anders Jacobsen">1</Player>
+    <Player player_id="514437" player_name="Lirim Qamili">1</Player>
+    <Player player_id="68250" player_name="Matej Delac">6</Player>
+    <Player player_id="515742" player_name="David Kruse">3</Player>
+    <Player player_id="172946" player_name="Aron Sigurdarson">5</Player>
+    <Player player_id="501341" player_name="Magnus Jensen">4</Player>
+    <Player player_id="423804" player_name="Moses Opondo">4</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="4" pass_lost="5" pass_success="26" player_id="486789" player_name="Malte Kiilerich" position="Defender" position_id="2" x="32.02" y="49.08">
+    <Player player_id="68250" player_name="Matej Delac">2</Player>
+    <Player player_id="172946" player_name="Aron Sigurdarson">1</Player>
+    <Player player_id="423804" player_name="Moses Opondo">3</Player>
+    <Player player_id="477682" player_name="Casper Tengstedt">1</Player>
+    <Player player_id="431113" player_name="Samson Iyede">1</Player>
+    <Player player_id="515742" player_name="David Kruse">1</Player>
+    <Player player_id="544928" player_name="Thomas Santos">1</Player>
+    <Player player_id="501341" player_name="Magnus Jensen">6</Player>
+    <Player player_id="185920" player_name="Lubambo Musonda">1</Player>
+    <Player player_id="502432" player_name="James Gomez">9</Player>
+  </Player>
+  <Player cross_lost="6" cross_success="0" jersey_num="11" pass_lost="4" pass_success="14" player_id="172946" player_name="Aron Sigurdarson" position="Midfielder" position_id="3" sub_off="71" x="55.70" y="77.84">
+    <Player player_id="423804" player_name="Moses Opondo">4</Player>
+    <Player player_id="477682" player_name="Casper Tengstedt">1</Player>
+    <Player player_id="68250" player_name="Matej Delac">1</Player>
+    <Player player_id="3489" player_name="Anders Jacobsen">2</Player>
+    <Player player_id="486789" player_name="Malte Kiilerich">1</Player>
+    <Player player_id="502432" player_name="James Gomez">2</Player>
+    <Player player_id="501341" player_name="Magnus Jensen">1</Player>
+    <Player player_id="515742" player_name="David Kruse">2</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="1" pass_lost="27" pass_success="15" player_id="68250" player_name="Matej Delac" position="Goalkeeper" position_id="1" x="7.95" y="52.22">
+    <Player player_id="514437" player_name="Lirim Qamili">2</Player>
+    <Player player_id="501341" player_name="Magnus Jensen">4</Player>
+    <Player player_id="185920" player_name="Lubambo Musonda">1</Player>
+    <Player player_id="3489" player_name="Anders Jacobsen">1</Player>
+    <Player player_id="486789" player_name="Malte Kiilerich">1</Player>
+    <Player player_id="502432" player_name="James Gomez">3</Player>
+    <Player player_id="172946" player_name="Aron Sigurdarson">1</Player>
+    <Player player_id="423804" player_name="Moses Opondo">1</Player>
+    <Player player_id="477682" player_name="Casper Tengstedt">1</Player>
+  </Player>
+  <Player cross_lost="1" cross_success="0" jersey_num="10" pass_lost="8" pass_success="5" player_id="477682" player_name="Casper Tengstedt" position="Forward" position_id="4" sub_off="71" x="66.45" y="50.59">
+    <Player player_id="544928" player_name="Thomas Santos">1</Player>
+    <Player player_id="501341" player_name="Magnus Jensen">2</Player>
+    <Player player_id="3489" player_name="Anders Jacobsen">1</Player>
+    <Player player_id="502432" player_name="James Gomez">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="6" pass_lost="9" pass_success="33" player_id="423804" player_name="Moses Opondo" position="Midfielder" position_id="3" x="46.88" y="39.12">
+    <Player player_id="172946" player_name="Aron Sigurdarson">2</Player>
+    <Player player_id="477682" player_name="Casper Tengstedt">4</Player>
+    <Player player_id="185920" player_name="Lubambo Musonda">6</Player>
+    <Player player_id="502432" player_name="James Gomez">6</Player>
+    <Player player_id="486789" player_name="Malte Kiilerich">2</Player>
+    <Player player_id="515742" player_name="David Kruse">3</Player>
+    <Player player_id="171191" player_name="Jonas Gemmer">1</Player>
+    <Player player_id="544928" player_name="Thomas Santos">2</Player>
+    <Player player_id="501341" player_name="Magnus Jensen">6</Player>
+    <Player player_id="505457" player_name="Marcus Hannesbo">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="26" pass_lost="1" pass_success="3" player_id="431113" player_name="Samson Iyede" position="Substitute" position_id="5" sub_on="71" x="33.24" y="37.28">
+    <Player player_id="423804" player_name="Moses Opondo">2</Player>
+    <Player player_id="514437" player_name="Lirim Qamili">1</Player>
+  </Player>
+</SoccerFeed>
+

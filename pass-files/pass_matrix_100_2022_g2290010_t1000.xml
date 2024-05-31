@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2022 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        gslopta-djobq06.nexus.opta.net
+     production time:    20220812T132247,211Z
+     production module:  Opta::Feed::XML::Soccer::F27
+-->
+<SoccerFeed act_minute="91" act_period="2" act_second="3" away_team_id="1000" away_team_name="FC Midtjylland" competition_id="100" competition_name="Danish Superligaen" game_date="2022-07-29 18:00:00" game_id="2290010" home_team_id="545" home_team_name="Odense Boldklub" season_id="2022" season_name="Season 2022/2023" team_id="1000" team_name="FC Midtjylland">
+  <Player cross_lost="0" cross_success="0" jersey_num="35" pass_lost="4" pass_success="11" player_id="230921" player_name="Charles" position="Substitute" position_id="5" sub_on="66" x="53.32" y="57.50">
+    <Player player_id="423651" player_name="Edward Chilufya">1</Player>
+    <Player player_id="142276" player_name="Pione Sisto">2</Player>
+    <Player player_id="209987" player_name="Anders Dreyer">1</Player>
+    <Player player_id="247161" player_name="Paulinho">4</Player>
+    <Player player_id="204164" player_name="Joel Andersson">1</Player>
+    <Player player_id="213551" player_name="Juninho">2</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="29" pass_lost="2" pass_success="25" player_id="247161" player_name="Paulinho" position="Substitute" position_id="5" sub_on="66" x="39.46" y="76.31">
+    <Player player_id="449903" player_name="Nikolas Dyhr">4</Player>
+    <Player player_id="142276" player_name="Pione Sisto">1</Player>
+    <Player player_id="60479" player_name="Henrik Dalsgaard">5</Player>
+    <Player player_id="230921" player_name="Charles">3</Player>
+    <Player player_id="430901" player_name="Elias Ólafsson">1</Player>
+    <Player player_id="503548" player_name="Raphael Onyedika">4</Player>
+    <Player player_id="213551" player_name="Juninho">7</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="73" pass_lost="6" pass_success="46" player_id="213551" player_name="Juninho" position="Defender" position_id="2" x="39.77" y="68.56">
+    <Player player_id="61527" player_name="Erik Sviatchenko">11</Player>
+    <Player player_id="449903" player_name="Nikolas Dyhr">5</Player>
+    <Player player_id="246703" player_name="Sory Kaba">2</Player>
+    <Player player_id="60479" player_name="Henrik Dalsgaard">10</Player>
+    <Player player_id="494784" player_name="Oliver Sørensen">2</Player>
+    <Player player_id="503548" player_name="Raphael Onyedika">5</Player>
+    <Player player_id="449896" player_name="Gustav Isaksen">3</Player>
+    <Player player_id="247161" player_name="Paulinho">6</Player>
+    <Player player_id="430901" player_name="Elias Ólafsson">2</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="16" pass_lost="6" pass_success="16" player_id="430901" player_name="Elias Ólafsson" position="Goalkeeper" position_id="1" x="9.04" y="47.30">
+    <Player player_id="449896" player_name="Gustav Isaksen">1</Player>
+    <Player player_id="213551" player_name="Juninho">5</Player>
+    <Player player_id="60479" player_name="Henrik Dalsgaard">6</Player>
+    <Player player_id="209987" player_name="Anders Dreyer">1</Player>
+    <Player player_id="219009" player_name="Mads Dohr Thychosen">1</Player>
+    <Player player_id="503548" player_name="Raphael Onyedika">1</Player>
+    <Player player_id="494784" player_name="Oliver Sørensen">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="7" pass_lost="2" pass_success="8" player_id="142276" player_name="Pione Sisto" position="Substitute" position_id="5" sub_on="56" x="65.93" y="64.15">
+    <Player player_id="449903" player_name="Nikolas Dyhr">2</Player>
+    <Player player_id="60479" player_name="Henrik Dalsgaard">1</Player>
+    <Player player_id="209987" player_name="Anders Dreyer">1</Player>
+    <Player player_id="230921" player_name="Charles">3</Player>
+    <Player player_id="213551" player_name="Juninho">1</Player>
+  </Player>
+  <Player cross_lost="2" cross_success="0" jersey_num="11" pass_lost="4" pass_success="11" player_id="449896" player_name="Gustav Isaksen" position="Forward" position_id="4" sub_off="56" x="69.61" y="73.01">
+    <Player player_id="213551" player_name="Juninho">1</Player>
+    <Player player_id="209987" player_name="Anders Dreyer">1</Player>
+    <Player player_id="246703" player_name="Sory Kaba">1</Player>
+    <Player player_id="503548" player_name="Raphael Onyedika">1</Player>
+    <Player player_id="494784" player_name="Oliver Sørensen">5</Player>
+    <Player player_id="61527" player_name="Erik Sviatchenko">1</Player>
+    <Player player_id="449903" player_name="Nikolas Dyhr">1</Player>
+  </Player>
+  <Player cross_lost="1" cross_success="2" jersey_num="36" pass_lost="7" pass_success="18" player_id="209987" player_name="Anders Dreyer" position="Forward" position_id="4" x="56.25" y="34.84">
+    <Player player_id="230921" player_name="Charles">1</Player>
+    <Player player_id="247161" player_name="Paulinho">1</Player>
+    <Player cross="2" player_id="213551" player_name="Juninho">0</Player>
+    <Player player_id="142276" player_name="Pione Sisto">1</Player>
+    <Player player_id="60479" player_name="Henrik Dalsgaard">5</Player>
+    <Player player_id="246703" player_name="Sory Kaba">2</Player>
+    <Player player_id="204164" player_name="Joel Andersson">2</Player>
+    <Player player_id="503548" player_name="Raphael Onyedika">1</Player>
+    <Player player_id="219009" player_name="Mads Dohr Thychosen">1</Player>
+    <Player player_id="61527" player_name="Erik Sviatchenko">1</Player>
+    <Player player_id="449903" player_name="Nikolas Dyhr">2</Player>
+    <Player player_id="423651" player_name="Edward Chilufya">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="9" pass_lost="3" pass_success="12" player_id="246703" player_name="Sory Kaba" position="Forward" position_id="4" sub_off="66" x="60.91" y="40.73">
+    <Player player_id="209987" player_name="Anders Dreyer">3</Player>
+    <Player player_id="503548" player_name="Raphael Onyedika">4</Player>
+    <Player player_id="204164" player_name="Joel Andersson">1</Player>
+    <Player player_id="449896" player_name="Gustav Isaksen">4</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="14" pass_lost="16" pass_success="46" player_id="60479" player_name="Henrik Dalsgaard" position="Defender" position_id="2" x="34.66" y="27.04">
+    <Player player_id="246703" player_name="Sory Kaba">2</Player>
+    <Player player_id="209987" player_name="Anders Dreyer">5</Player>
+    <Player player_id="503548" player_name="Raphael Onyedika">4</Player>
+    <Player player_id="219009" player_name="Mads Dohr Thychosen">2</Player>
+    <Player player_id="204164" player_name="Joel Andersson">10</Player>
+    <Player player_id="494784" player_name="Oliver Sørensen">1</Player>
+    <Player player_id="61527" player_name="Erik Sviatchenko">4</Player>
+    <Player player_id="449903" player_name="Nikolas Dyhr">2</Player>
+    <Player player_id="423651" player_name="Edward Chilufya">1</Player>
+    <Player player_id="247161" player_name="Paulinho">6</Player>
+    <Player player_id="213551" player_name="Juninho">5</Player>
+    <Player player_id="430901" player_name="Elias Ólafsson">3</Player>
+    <Player player_id="142276" player_name="Pione Sisto">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="17" pass_lost="1" pass_success="3" player_id="219009" player_name="Mads Dohr Thychosen" position="Substitute" position_id="5" sub_on="77" x="52.24" y="20.91">
+    <Player player_id="60479" player_name="Henrik Dalsgaard">2</Player>
+    <Player player_id="230921" player_name="Charles">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="15" pass_lost="4" pass_success="49" player_id="503548" player_name="Raphael Onyedika" position="Midfielder" position_id="3" x="42.90" y="41.98">
+    <Player player_id="230921" player_name="Charles">1</Player>
+    <Player player_id="247161" player_name="Paulinho">4</Player>
+    <Player player_id="213551" player_name="Juninho">7</Player>
+    <Player player_id="142276" player_name="Pione Sisto">1</Player>
+    <Player player_id="449896" player_name="Gustav Isaksen">5</Player>
+    <Player player_id="60479" player_name="Henrik Dalsgaard">7</Player>
+    <Player player_id="209987" player_name="Anders Dreyer">4</Player>
+    <Player player_id="246703" player_name="Sory Kaba">5</Player>
+    <Player player_id="204164" player_name="Joel Andersson">6</Player>
+    <Player player_id="494784" player_name="Oliver Sørensen">5</Player>
+    <Player player_id="449903" player_name="Nikolas Dyhr">2</Player>
+    <Player player_id="61527" player_name="Erik Sviatchenko">2</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="24" pass_lost="3" pass_success="21" player_id="494784" player_name="Oliver Sørensen" position="Midfielder" position_id="3" sub_off="66" x="53.51" y="59.07">
+    <Player player_id="449896" player_name="Gustav Isaksen">4</Player>
+    <Player player_id="213551" player_name="Juninho">1</Player>
+    <Player player_id="61527" player_name="Erik Sviatchenko">2</Player>
+    <Player player_id="449903" player_name="Nikolas Dyhr">4</Player>
+    <Player player_id="209987" player_name="Anders Dreyer">4</Player>
+    <Player player_id="503548" player_name="Raphael Onyedika">4</Player>
+    <Player player_id="204164" player_name="Joel Andersson">2</Player>
+  </Player>
+  <Player cross_lost="1" cross_success="0" jersey_num="6" pass_lost="9" pass_success="21" player_id="204164" player_name="Joel Andersson" position="Midfielder" position_id="3" sub_off="77" x="44.96" y="20.49">
+    <Player player_id="449903" player_name="Nikolas Dyhr">1</Player>
+    <Player player_id="60479" player_name="Henrik Dalsgaard">3</Player>
+    <Player player_id="209987" player_name="Anders Dreyer">4</Player>
+    <Player player_id="246703" player_name="Sory Kaba">2</Player>
+    <Player player_id="503548" player_name="Raphael Onyedika">8</Player>
+    <Player player_id="494784" player_name="Oliver Sørensen">2</Player>
+    <Player player_id="213551" player_name="Juninho">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="2" jersey_num="44" pass_lost="3" pass_success="23" player_id="449903" player_name="Nikolas Dyhr" position="Midfielder" position_id="3" x="57.66" y="84.95">
+    <Player player_id="494784" player_name="Oliver Sørensen">2</Player>
+    <Player cross="1" player_id="204164" player_name="Joel Andersson">0</Player>
+    <Player cross="1" player_id="246703" player_name="Sory Kaba">0</Player>
+    <Player player_id="209987" player_name="Anders Dreyer">2</Player>
+    <Player player_id="430901" player_name="Elias Ólafsson">1</Player>
+    <Player player_id="213551" player_name="Juninho">3</Player>
+    <Player player_id="230921" player_name="Charles">2</Player>
+    <Player player_id="247161" player_name="Paulinho">4</Player>
+    <Player player_id="449896" player_name="Gustav Isaksen">6</Player>
+    <Player player_id="142276" player_name="Pione Sisto">3</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="28" pass_lost="4" pass_success="27" player_id="61527" player_name="Erik Sviatchenko" position="Defender" position_id="2" sub_off="66" x="38.17" y="50.60">
+    <Player player_id="213551" player_name="Juninho">6</Player>
+    <Player player_id="430901" player_name="Elias Ólafsson">4</Player>
+    <Player player_id="449896" player_name="Gustav Isaksen">1</Player>
+    <Player player_id="503548" player_name="Raphael Onyedika">3</Player>
+    <Player player_id="204164" player_name="Joel Andersson">2</Player>
+    <Player player_id="494784" player_name="Oliver Sørensen">1</Player>
+    <Player player_id="209987" player_name="Anders Dreyer">1</Player>
+    <Player player_id="60479" player_name="Henrik Dalsgaard">8</Player>
+    <Player player_id="449903" player_name="Nikolas Dyhr">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="18" pass_lost="1" pass_success="5" player_id="423651" player_name="Edward Chilufya" position="Substitute" position_id="5" sub_on="66" x="62.59" y="27.56">
+    <Player player_id="142276" player_name="Pione Sisto">1</Player>
+    <Player player_id="209987" player_name="Anders Dreyer">2</Player>
+    <Player player_id="60479" player_name="Henrik Dalsgaard">1</Player>
+    <Player player_id="219009" player_name="Mads Dohr Thychosen">1</Player>
+  </Player>
+</SoccerFeed>
+

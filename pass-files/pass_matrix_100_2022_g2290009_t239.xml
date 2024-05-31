@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2022 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        gslopta-djobq03.nexus.opta.net
+     production time:    20220803T105343,909Z
+     production module:  Opta::Feed::XML::Soccer::F27
+-->
+<SoccerFeed act_minute="93" act_period="2" act_second="51" away_team_id="239" away_team_name="Brøndby IF" competition_id="100" competition_name="Danish Superligaen" game_date="2022-07-31 17:00:00" game_id="2290009" home_team_id="418" home_team_name="Silkeborg IF" season_id="2022" season_name="Season 2022/2023" team_id="239" team_name="Brøndby IF">
+  <Player cross_lost="2" cross_success="2" jersey_num="6" pass_lost="7" pass_success="58" player_id="218337" player_name="Joe Bell" position="Midfielder" position_id="3" x="44.50" y="46.12">
+    <Player player_id="467189" player_name="Mads Hermansen">3</Player>
+    <Player cross="1" player_id="508868" player_name="Henrik Heggheim">8</Player>
+    <Player player_id="502821" player_name="Sebastian Sebulonsen">9</Player>
+    <Player player_id="192647" player_name="Mathias Greve">3</Player>
+    <Player player_id="430789" player_name="Marko Divkovic">1</Player>
+    <Player cross="1" player_id="206557" player_name="Sigurd Rosted">7</Player>
+    <Player player_id="214538" player_name="Blás Riveros">9</Player>
+    <Player player_id="486708" player_name="Peter Bjur">5</Player>
+    <Player player_id="114591" player_name="Simon Hedlund">2</Player>
+    <Player player_id="425086" player_name="Christian Cappis">4</Player>
+    <Player player_id="504198" player_name="Anis Slimane">7</Player>
+  </Player>
+  <Player cross_lost="2" cross_success="3" jersey_num="2" pass_lost="11" pass_success="29" player_id="502821" player_name="Sebastian Sebulonsen" position="Defender" position_id="2" x="54.26" y="15.73">
+    <Player cross="1" player_id="214538" player_name="Blás Riveros">0</Player>
+    <Player cross="2" player_id="430789" player_name="Marko Divkovic">0</Player>
+    <Player player_id="504198" player_name="Anis Slimane">1</Player>
+    <Player player_id="425086" player_name="Christian Cappis">1</Player>
+    <Player player_id="114591" player_name="Simon Hedlund">4</Player>
+    <Player player_id="486708" player_name="Peter Bjur">5</Player>
+    <Player player_id="508868" player_name="Henrik Heggheim">11</Player>
+    <Player player_id="467189" player_name="Mads Hermansen">3</Player>
+    <Player player_id="192647" player_name="Mathias Greve">1</Player>
+    <Player player_id="218337" player_name="Joe Bell">3</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="8" pass_lost="5" pass_success="25" player_id="192647" player_name="Mathias Greve" position="Midfielder" position_id="3" sub_off="64" x="54.32" y="70.96">
+    <Player player_id="430789" player_name="Marko Divkovic">3</Player>
+    <Player player_id="206557" player_name="Sigurd Rosted">3</Player>
+    <Player player_id="214538" player_name="Blás Riveros">3</Player>
+    <Player player_id="486708" player_name="Peter Bjur">2</Player>
+    <Player player_id="114591" player_name="Simon Hedlund">2</Player>
+    <Player player_id="504198" player_name="Anis Slimane">6</Player>
+    <Player player_id="467189" player_name="Mads Hermansen">1</Player>
+    <Player player_id="508868" player_name="Henrik Heggheim">1</Player>
+    <Player player_id="502821" player_name="Sebastian Sebulonsen">1</Player>
+    <Player player_id="218337" player_name="Joe Bell">3</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="3" pass_lost="4" pass_success="65" player_id="508868" player_name="Henrik Heggheim" position="Defender" position_id="2" x="40.08" y="32.67">
+    <Player player_id="214538" player_name="Blás Riveros">8</Player>
+    <Player player_id="206557" player_name="Sigurd Rosted">21</Player>
+    <Player player_id="430789" player_name="Marko Divkovic">2</Player>
+    <Player player_id="504198" player_name="Anis Slimane">5</Player>
+    <Player player_id="114591" player_name="Simon Hedlund">2</Player>
+    <Player player_id="467189" player_name="Mads Hermansen">6</Player>
+    <Player player_id="218337" player_name="Joe Bell">7</Player>
+    <Player player_id="502821" player_name="Sebastian Sebulonsen">14</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="38" pass_lost="0" pass_success="1" player_id="543221" player_name="Yousef Salech" position="Substitute" position_id="5" sub_on="83" x="75.69" y="36.83">
+    <Player player_id="502821" player_name="Sebastian Sebulonsen">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="1" pass_lost="5" pass_success="33" player_id="467189" player_name="Mads Hermansen" position="Goalkeeper" position_id="1" x="13.21" y="49.69">
+    <Player player_id="192647" player_name="Mathias Greve">3</Player>
+    <Player player_id="218337" player_name="Joe Bell">1</Player>
+    <Player player_id="502821" player_name="Sebastian Sebulonsen">2</Player>
+    <Player player_id="508868" player_name="Henrik Heggheim">5</Player>
+    <Player player_id="504198" player_name="Anis Slimane">1</Player>
+    <Player player_id="486708" player_name="Peter Bjur">1</Player>
+    <Player player_id="214538" player_name="Blás Riveros">13</Player>
+    <Player player_id="206557" player_name="Sigurd Rosted">6</Player>
+    <Player player_id="430789" player_name="Marko Divkovic">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="25" pass_lost="8" pass_success="45" player_id="504198" player_name="Anis Slimane" position="Midfielder" position_id="3" x="61.28" y="55.82">
+    <Player player_id="486708" player_name="Peter Bjur">2</Player>
+    <Player player_id="425086" player_name="Christian Cappis">1</Player>
+    <Player player_id="114591" player_name="Simon Hedlund">5</Player>
+    <Player player_id="492654" player_name="Mathias Kvistgaarden">1</Player>
+    <Player player_id="430789" player_name="Marko Divkovic">1</Player>
+    <Player player_id="214538" player_name="Blás Riveros">10</Player>
+    <Player player_id="206557" player_name="Sigurd Rosted">2</Player>
+    <Player player_id="218337" player_name="Joe Bell">9</Player>
+    <Player player_id="502821" player_name="Sebastian Sebulonsen">6</Player>
+    <Player player_id="192647" player_name="Mathias Greve">5</Player>
+    <Player player_id="467189" player_name="Mads Hermansen">1</Player>
+    <Player player_id="543221" player_name="Yousef Salech">1</Player>
+    <Player player_id="508868" player_name="Henrik Heggheim">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="36" pass_lost="2" pass_success="2" player_id="492654" player_name="Mathias Kvistgaarden" position="Substitute" position_id="5" sub_on="64" x="63.72" y="41.77">
+    <Player player_id="214538" player_name="Blás Riveros">1</Player>
+    <Player player_id="114591" player_name="Simon Hedlund">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="29" pass_lost="3" pass_success="16" player_id="486708" player_name="Peter Bjur" position="Midfielder" position_id="3" sub_off="64" x="63.48" y="39.51">
+    <Player player_id="430789" player_name="Marko Divkovic">1</Player>
+    <Player player_id="214538" player_name="Blás Riveros">1</Player>
+    <Player player_id="114591" player_name="Simon Hedlund">2</Player>
+    <Player player_id="504198" player_name="Anis Slimane">5</Player>
+    <Player player_id="508868" player_name="Henrik Heggheim">1</Player>
+    <Player player_id="192647" player_name="Mathias Greve">1</Player>
+    <Player player_id="502821" player_name="Sebastian Sebulonsen">3</Player>
+    <Player player_id="218337" player_name="Joe Bell">2</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="23" pass_lost="2" pass_success="9" player_id="425086" player_name="Christian Cappis" position="Substitute" position_id="5" sub_on="64" x="55.00" y="44.72">
+    <Player player_id="206557" player_name="Sigurd Rosted">1</Player>
+    <Player player_id="214538" player_name="Blás Riveros">2</Player>
+    <Player player_id="430789" player_name="Marko Divkovic">2</Player>
+    <Player player_id="504198" player_name="Anis Slimane">1</Player>
+    <Player player_id="502821" player_name="Sebastian Sebulonsen">1</Player>
+    <Player player_id="218337" player_name="Joe Bell">2</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="1" jersey_num="27" pass_lost="8" pass_success="20" player_id="114591" player_name="Simon Hedlund" position="Forward" position_id="4" x="73.83" y="54.22">
+    <Player player_id="218337" player_name="Joe Bell">1</Player>
+    <Player player_id="502821" player_name="Sebastian Sebulonsen">4</Player>
+    <Player player_id="192647" player_name="Mathias Greve">1</Player>
+    <Player player_id="508868" player_name="Henrik Heggheim">1</Player>
+    <Player player_id="543221" player_name="Yousef Salech">1</Player>
+    <Player player_id="467189" player_name="Mads Hermansen">1</Player>
+    <Player player_id="504198" player_name="Anis Slimane">3</Player>
+    <Player player_id="486708" player_name="Peter Bjur">1</Player>
+    <Player player_id="425086" player_name="Christian Cappis">1</Player>
+    <Player player_id="214538" player_name="Blás Riveros">3</Player>
+    <Player cross="1" player_id="206557" player_name="Sigurd Rosted">3</Player>
+  </Player>
+  <Player cross_lost="4" cross_success="1" jersey_num="15" pass_lost="10" pass_success="74" player_id="214538" player_name="Blás Riveros" position="Defender" position_id="2" x="52.97" y="87.17">
+    <Player player_id="504198" player_name="Anis Slimane">14</Player>
+    <Player player_id="492654" player_name="Mathias Kvistgaarden">2</Player>
+    <Player player_id="486708" player_name="Peter Bjur">1</Player>
+    <Player player_id="425086" player_name="Christian Cappis">3</Player>
+    <Player player_id="114591" player_name="Simon Hedlund">7</Player>
+    <Player player_id="206557" player_name="Sigurd Rosted">21</Player>
+    <Player player_id="430789" player_name="Marko Divkovic">4</Player>
+    <Player player_id="218337" player_name="Joe Bell">13</Player>
+    <Player cross="1" player_id="502821" player_name="Sebastian Sebulonsen">1</Player>
+    <Player player_id="192647" player_name="Mathias Greve">3</Player>
+    <Player player_id="508868" player_name="Henrik Heggheim">3</Player>
+    <Player player_id="543221" player_name="Yousef Salech">1</Player>
+    <Player player_id="467189" player_name="Mads Hermansen">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="4" pass_lost="1" pass_success="75" player_id="206557" player_name="Sigurd Rosted" position="Defender" position_id="2" x="36.45" y="64.76">
+    <Player player_id="504198" player_name="Anis Slimane">2</Player>
+    <Player player_id="114591" player_name="Simon Hedlund">3</Player>
+    <Player player_id="192647" player_name="Mathias Greve">4</Player>
+    <Player player_id="218337" player_name="Joe Bell">9</Player>
+    <Player player_id="214538" player_name="Blás Riveros">31</Player>
+    <Player player_id="508868" player_name="Henrik Heggheim">21</Player>
+    <Player player_id="467189" player_name="Mads Hermansen">5</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="24" pass_lost="1" pass_success="18" player_id="430789" player_name="Marko Divkovic" position="Forward" position_id="4" sub_off="83" x="69.06" y="51.48">
+    <Player player_id="504198" player_name="Anis Slimane">1</Player>
+    <Player player_id="114591" player_name="Simon Hedlund">2</Player>
+    <Player player_id="486708" player_name="Peter Bjur">3</Player>
+    <Player player_id="214538" player_name="Blás Riveros">5</Player>
+    <Player player_id="192647" player_name="Mathias Greve">3</Player>
+    <Player player_id="502821" player_name="Sebastian Sebulonsen">1</Player>
+    <Player player_id="218337" player_name="Joe Bell">1</Player>
+    <Player player_id="508868" player_name="Henrik Heggheim">2</Player>
+  </Player>
+</SoccerFeed>
+

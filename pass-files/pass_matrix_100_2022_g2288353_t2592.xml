@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2022 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        gslopta-djobq04.nexus.opta.net
+     production time:    20220727T161931,968Z
+     production module:  Opta::Feed::XML::Soccer::F27
+-->
+<SoccerFeed act_minute="95" act_period="2" act_second="1" away_team_id="2592" away_team_name="FC Nordsjælland" competition_id="100" competition_name="Danish Superligaen" game_date="2022-07-24 15:00:00" game_id="2288353" home_team_id="239" home_team_name="Brøndby IF" season_id="2022" season_name="Season 2022/2023" team_id="2592" team_name="FC Nordsjælland">
+  <Player cross_lost="0" cross_success="0" jersey_num="18" pass_lost="9" pass_success="40" player_id="481405" player_name="Mads Bidstrup" position="Midfielder" position_id="3" x="45.67" y="60.05">
+    <Player player_id="249864" player_name="Martin Frese">11</Player>
+    <Player player_id="504586" player_name="Mohammed Diomande">3</Player>
+    <Player player_id="449952" player_name="Benjamin Nygren">2</Player>
+    <Player player_id="564992" player_name="Ernest Nuamah">2</Player>
+    <Player player_id="534223" player_name="Adamo Nagalo">7</Player>
+    <Player player_id="57059" player_name="Kian Hansen">4</Player>
+    <Player player_id="449904" player_name="Oliver Villadsen">3</Player>
+    <Player player_id="477689" player_name="Mads Hansen">1</Player>
+    <Player player_id="449897" player_name="Jacob Christensen">2</Player>
+    <Player player_id="489853" player_name="Andreas Schjelderup">2</Player>
+    <Player player_id="544908" player_name="Lasso Coulibaly">1</Player>
+    <Player player_id="120736" player_name="Andreas Hansen">1</Player>
+    <Player player_id="477075" player_name="Oliver Antman">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="37" pass_lost="1" pass_success="8" player_id="564992" player_name="Ernest Nuamah" position="Forward" position_id="4" sub_off="72" x="60.31" y="57.13">
+    <Player player_id="477075" player_name="Oliver Antman">1</Player>
+    <Player player_id="504586" player_name="Mohammed Diomande">5</Player>
+    <Player player_id="449904" player_name="Oliver Villadsen">1</Player>
+    <Player player_id="489853" player_name="Andreas Schjelderup">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="9" pass_lost="1" pass_success="4" player_id="449952" player_name="Benjamin Nygren" position="Substitute" position_id="5" sub_on="72" x="55.83" y="52.15">
+    <Player player_id="477075" player_name="Oliver Antman">1</Player>
+    <Player player_id="249864" player_name="Martin Frese">1</Player>
+    <Player player_id="521052" player_name="Daniel Svensson">1</Player>
+    <Player player_id="449904" player_name="Oliver Villadsen">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="1" jersey_num="10" pass_lost="3" pass_success="35" player_id="504586" player_name="Mohammed Diomande" position="Midfielder" position_id="3" sub_off="84" x="43.59" y="57.27">
+    <Player player_id="249864" player_name="Martin Frese">5</Player>
+    <Player player_id="564992" player_name="Ernest Nuamah">1</Player>
+    <Player player_id="481405" player_name="Mads Bidstrup">8</Player>
+    <Player cross="1" player_id="57059" player_name="Kian Hansen">2</Player>
+    <Player player_id="534223" player_name="Adamo Nagalo">3</Player>
+    <Player player_id="449897" player_name="Jacob Christensen">6</Player>
+    <Player player_id="449904" player_name="Oliver Villadsen">3</Player>
+    <Player player_id="544908" player_name="Lasso Coulibaly">1</Player>
+    <Player player_id="120736" player_name="Andreas Hansen">1</Player>
+    <Player player_id="489853" player_name="Andreas Schjelderup">5</Player>
+  </Player>
+  <Player cross_lost="1" cross_success="0" jersey_num="5" pass_lost="10" pass_success="44" player_id="249864" player_name="Martin Frese" position="Defender" position_id="2" x="37.76" y="82.02">
+    <Player player_id="481405" player_name="Mads Bidstrup">4</Player>
+    <Player player_id="564992" player_name="Ernest Nuamah">2</Player>
+    <Player player_id="504586" player_name="Mohammed Diomande">7</Player>
+    <Player player_id="534223" player_name="Adamo Nagalo">15</Player>
+    <Player player_id="57059" player_name="Kian Hansen">1</Player>
+    <Player player_id="489853" player_name="Andreas Schjelderup">5</Player>
+    <Player player_id="120736" player_name="Andreas Hansen">5</Player>
+    <Player player_id="477689" player_name="Mads Hansen">1</Player>
+    <Player player_id="521052" player_name="Daniel Svensson">1</Player>
+    <Player player_id="449897" player_name="Jacob Christensen">3</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="15" pass_lost="1" pass_success="0" player_id="60724" player_name="Erik Marxen" position="Substitute" position_id="5" sub_on="84" x="15.55" y="57.90" />
+  <Player cross_lost="0" cross_success="0" jersey_num="4" pass_lost="9" pass_success="36" player_id="57059" player_name="Kian Hansen" position="Defender" position_id="2" x="32.16" y="38.86">
+    <Player player_id="481405" player_name="Mads Bidstrup">3</Player>
+    <Player player_id="564992" player_name="Ernest Nuamah">4</Player>
+    <Player player_id="449952" player_name="Benjamin Nygren">1</Player>
+    <Player player_id="504586" player_name="Mohammed Diomande">3</Player>
+    <Player player_id="249864" player_name="Martin Frese">3</Player>
+    <Player player_id="534223" player_name="Adamo Nagalo">7</Player>
+    <Player player_id="120736" player_name="Andreas Hansen">4</Player>
+    <Player player_id="544908" player_name="Lasso Coulibaly">2</Player>
+    <Player player_id="449897" player_name="Jacob Christensen">4</Player>
+    <Player player_id="449904" player_name="Oliver Villadsen">3</Player>
+    <Player player_id="477689" player_name="Mads Hansen">2</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="39" pass_lost="4" pass_success="56" player_id="534223" player_name="Adamo Nagalo" position="Defender" position_id="2" x="25.58" y="63.70">
+    <Player player_id="477075" player_name="Oliver Antman">1</Player>
+    <Player player_id="449904" player_name="Oliver Villadsen">1</Player>
+    <Player player_id="449897" player_name="Jacob Christensen">7</Player>
+    <Player player_id="489853" player_name="Andreas Schjelderup">2</Player>
+    <Player player_id="544908" player_name="Lasso Coulibaly">1</Player>
+    <Player player_id="120736" player_name="Andreas Hansen">10</Player>
+    <Player player_id="57059" player_name="Kian Hansen">8</Player>
+    <Player player_id="249864" player_name="Martin Frese">10</Player>
+    <Player player_id="504586" player_name="Mohammed Diomande">7</Player>
+    <Player player_id="449952" player_name="Benjamin Nygren">1</Player>
+    <Player player_id="481405" player_name="Mads Bidstrup">8</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="28" pass_lost="1" pass_success="2" player_id="544908" player_name="Lasso Coulibaly" position="Substitute" position_id="5" sub_on="72" x="48.01" y="44.42">
+    <Player player_id="449904" player_name="Oliver Villadsen">1</Player>
+    <Player player_id="534223" player_name="Adamo Nagalo">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="13" pass_lost="14" pass_success="33" player_id="120736" player_name="Andreas Hansen" position="Goalkeeper" position_id="1" x="9.74" y="50.10">
+    <Player player_id="449897" player_name="Jacob Christensen">4</Player>
+    <Player player_id="521052" player_name="Daniel Svensson">1</Player>
+    <Player player_id="477689" player_name="Mads Hansen">2</Player>
+    <Player player_id="449904" player_name="Oliver Villadsen">1</Player>
+    <Player player_id="489853" player_name="Andreas Schjelderup">1</Player>
+    <Player player_id="57059" player_name="Kian Hansen">4</Player>
+    <Player player_id="534223" player_name="Adamo Nagalo">12</Player>
+    <Player player_id="504586" player_name="Mohammed Diomande">1</Player>
+    <Player player_id="249864" player_name="Martin Frese">6</Player>
+    <Player player_id="564992" player_name="Ernest Nuamah">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="7" pass_lost="3" pass_success="22" player_id="489853" player_name="Andreas Schjelderup" position="Forward" position_id="4" sub_off="72" x="59.01" y="55.79">
+    <Player player_id="449904" player_name="Oliver Villadsen">3</Player>
+    <Player player_id="477689" player_name="Mads Hansen">6</Player>
+    <Player player_id="449897" player_name="Jacob Christensen">2</Player>
+    <Player player_id="504586" player_name="Mohammed Diomande">3</Player>
+    <Player player_id="249864" player_name="Martin Frese">4</Player>
+    <Player player_id="564992" player_name="Ernest Nuamah">2</Player>
+    <Player player_id="481405" player_name="Mads Bidstrup">2</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="6" pass_lost="6" pass_success="35" player_id="449897" player_name="Jacob Christensen" position="Midfielder" position_id="3" sub_off="84" x="42.19" y="43.47">
+    <Player player_id="504586" player_name="Mohammed Diomande">1</Player>
+    <Player player_id="249864" player_name="Martin Frese">4</Player>
+    <Player player_id="481405" player_name="Mads Bidstrup">6</Player>
+    <Player player_id="564992" player_name="Ernest Nuamah">1</Player>
+    <Player player_id="534223" player_name="Adamo Nagalo">5</Player>
+    <Player player_id="57059" player_name="Kian Hansen">8</Player>
+    <Player player_id="477689" player_name="Mads Hansen">1</Player>
+    <Player player_id="449904" player_name="Oliver Villadsen">1</Player>
+    <Player player_id="489853" player_name="Andreas Schjelderup">5</Player>
+    <Player player_id="120736" player_name="Andreas Hansen">2</Player>
+    <Player player_id="477075" player_name="Oliver Antman">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="27" pass_lost="2" pass_success="2" player_id="521052" player_name="Daniel Svensson" position="Substitute" position_id="5" sub_on="84" x="37.87" y="88.48">
+    <Player player_id="477075" player_name="Oliver Antman">1</Player>
+    <Player player_id="249864" player_name="Martin Frese">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="1" jersey_num="23" pass_lost="11" pass_success="22" player_id="449904" player_name="Oliver Villadsen" position="Defender" position_id="2" x="36.92" y="18.70">
+    <Player player_id="449952" player_name="Benjamin Nygren">1</Player>
+    <Player player_id="481405" player_name="Mads Bidstrup">1</Player>
+    <Player cross="1" player_id="564992" player_name="Ernest Nuamah">0</Player>
+    <Player player_id="504586" player_name="Mohammed Diomande">5</Player>
+    <Player player_id="534223" player_name="Adamo Nagalo">1</Player>
+    <Player player_id="57059" player_name="Kian Hansen">3</Player>
+    <Player player_id="489853" player_name="Andreas Schjelderup">3</Player>
+    <Player player_id="120736" player_name="Andreas Hansen">2</Player>
+    <Player player_id="477689" player_name="Mads Hansen">1</Player>
+    <Player player_id="449897" player_name="Jacob Christensen">4</Player>
+    <Player player_id="477075" player_name="Oliver Antman">1</Player>
+  </Player>
+  <Player cross_lost="3" cross_success="3" jersey_num="11" pass_lost="1" pass_success="11" player_id="477689" player_name="Mads Hansen" position="Forward" position_id="4" sub_off="57" x="67.09" y="26.59">
+    <Player player_id="489853" player_name="Andreas Schjelderup">1</Player>
+    <Player player_id="449904" player_name="Oliver Villadsen">2</Player>
+    <Player cross="1" player_id="564992" player_name="Ernest Nuamah">1</Player>
+    <Player player_id="481405" player_name="Mads Bidstrup">2</Player>
+    <Player player_id="504586" player_name="Mohammed Diomande">2</Player>
+    <Player cross="1" player_id="249864" player_name="Martin Frese">0</Player>
+    <Player player_id="534223" player_name="Adamo Nagalo">1</Player>
+    <Player cross="1" player_id="57059" player_name="Kian Hansen">2</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="1" jersey_num="22" pass_lost="2" pass_success="4" player_id="477075" player_name="Oliver Antman" position="Substitute" position_id="5" sub_on="57" x="51.99" y="41.20">
+    <Player cross="1" player_id="57059" player_name="Kian Hansen">1</Player>
+    <Player player_id="449897" player_name="Jacob Christensen">2</Player>
+    <Player player_id="504586" player_name="Mohammed Diomande">1</Player>
+  </Player>
+</SoccerFeed>
+

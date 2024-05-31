@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2022 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        gslopta-djobq04.nexus.opta.net
+     production time:    20220720T104512,617Z
+     production module:  Opta::Feed::XML::Soccer::F27
+-->
+<SoccerFeed act_minute="93" act_period="2" act_second="57" away_team_id="420" away_team_name="AGF Aarhus" competition_id="100" competition_name="Danish Superligaen" game_date="2022-07-17 17:00:00" game_id="2288348" home_team_id="239" home_team_name="Brøndby IF" season_id="2022" season_name="Season 2022/2023" team_id="420" team_name="AGF Aarhus">
+  <Player cross_lost="0" cross_success="0" jersey_num="37" pass_lost="6" pass_success="8" player_id="249137" player_name="Sebastian Hausner" position="Defender" position_id="2" sub_off="45" x="26.25" y="21.51">
+    <Player player_id="221234" player_name="Frederik Tingager">1</Player>
+    <Player player_id="244449" player_name="Mikael Anderson">1</Player>
+    <Player player_id="453905" player_name="Tobias Henriksen">2</Player>
+    <Player player_id="221242" player_name="Sigurd Haugen">1</Player>
+    <Player player_id="85050" player_name="Patrick Mortensen">1</Player>
+    <Player player_id="144301" player_name="Nicolai Poulsen">2</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="23" pass_lost="6" pass_success="21" player_id="513425" player_name="Thomas Kristensen" position="Substitute" position_id="5" sub_on="45" x="46.02" y="31.27">
+    <Player player_id="422348" player_name="Gift Links">3</Player>
+    <Player player_id="453905" player_name="Tobias Henriksen">7</Player>
+    <Player player_id="428573" player_name="Frederik Brandhof">1</Player>
+    <Player player_id="51705" player_name="Jesper Hansen">1</Player>
+    <Player player_id="438261" player_name="Yann Bisseck">1</Player>
+    <Player player_id="493824" player_name="Eric Kahl">1</Player>
+    <Player player_id="221234" player_name="Frederik Tingager">2</Player>
+    <Player player_id="494779" player_name="Albert Grønbæk">1</Player>
+    <Player player_id="235120" player_name="Mads Emil Madsen">3</Player>
+    <Player player_id="221242" player_name="Sigurd Haugen">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="1" jersey_num="9" pass_lost="6" pass_success="22" player_id="85050" player_name="Patrick Mortensen" position="Forward" position_id="4" x="62.82" y="41.50">
+    <Player player_id="144301" player_name="Nicolai Poulsen">3</Player>
+    <Player player_id="235120" player_name="Mads Emil Madsen">4</Player>
+    <Player player_id="221242" player_name="Sigurd Haugen">2</Player>
+    <Player player_id="453905" player_name="Tobias Henriksen">5</Player>
+    <Player player_id="428573" player_name="Frederik Brandhof">1</Player>
+    <Player player_id="244449" player_name="Mikael Anderson">1</Player>
+    <Player player_id="438261" player_name="Yann Bisseck">3</Player>
+    <Player cross="1" player_id="493824" player_name="Eric Kahl">2</Player>
+    <Player player_id="221234" player_name="Frederik Tingager">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="2" jersey_num="6" pass_lost="5" pass_success="26" player_id="144301" player_name="Nicolai Poulsen" position="Midfielder" position_id="3" sub_off="83" x="46.55" y="47.24">
+    <Player player_id="513425" player_name="Thomas Kristensen">2</Player>
+    <Player player_id="249137" player_name="Sebastian Hausner">1</Player>
+    <Player player_id="85050" player_name="Patrick Mortensen">3</Player>
+    <Player player_id="221242" player_name="Sigurd Haugen">2</Player>
+    <Player player_id="235120" player_name="Mads Emil Madsen">3</Player>
+    <Player player_id="494779" player_name="Albert Grønbæk">1</Player>
+    <Player cross="1" player_id="453905" player_name="Tobias Henriksen">0</Player>
+    <Player player_id="221234" player_name="Frederik Tingager">4</Player>
+    <Player cross="1" player_id="493824" player_name="Eric Kahl">3</Player>
+    <Player player_id="438261" player_name="Yann Bisseck">3</Player>
+    <Player player_id="244449" player_name="Mikael Anderson">2</Player>
+    <Player player_id="51705" player_name="Jesper Hansen">2</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="26" pass_lost="3" pass_success="3" player_id="226184" player_name="Anthony D'Alberto" position="Substitute" position_id="5" sub_on="89" x="34.46" y="19.94">
+    <Player player_id="51705" player_name="Jesper Hansen">2</Player>
+    <Player player_id="85050" player_name="Patrick Mortensen">1</Player>
+  </Player>
+  <Player cross_lost="1" cross_success="0" jersey_num="10" pass_lost="5" pass_success="9" player_id="221242" player_name="Sigurd Haugen" position="Forward" position_id="4" x="65.44" y="45.60">
+    <Player player_id="235120" player_name="Mads Emil Madsen">3</Player>
+    <Player player_id="493824" player_name="Eric Kahl">1</Player>
+    <Player player_id="85050" player_name="Patrick Mortensen">1</Player>
+    <Player player_id="453905" player_name="Tobias Henriksen">4</Player>
+  </Player>
+  <Player cross_lost="6" cross_success="1" jersey_num="7" pass_lost="5" pass_success="34" player_id="235120" player_name="Mads Emil Madsen" position="Midfielder" position_id="3" x="56.76" y="33.41">
+    <Player player_id="244449" player_name="Mikael Anderson">1</Player>
+    <Player player_id="221234" player_name="Frederik Tingager">1</Player>
+    <Player player_id="493824" player_name="Eric Kahl">5</Player>
+    <Player player_id="438261" player_name="Yann Bisseck">3</Player>
+    <Player player_id="422348" player_name="Gift Links">3</Player>
+    <Player player_id="453905" player_name="Tobias Henriksen">7</Player>
+    <Player player_id="494779" player_name="Albert Grønbæk">3</Player>
+    <Player player_id="221242" player_name="Sigurd Haugen">2</Player>
+    <Player player_id="226184" player_name="Anthony D'Alberto">1</Player>
+    <Player player_id="144301" player_name="Nicolai Poulsen">3</Player>
+    <Player player_id="513425" player_name="Thomas Kristensen">2</Player>
+    <Player player_id="249137" player_name="Sebastian Hausner">1</Player>
+    <Player cross="1" player_id="85050" player_name="Patrick Mortensen">2</Player>
+  </Player>
+  <Player cross_lost="2" cross_success="0" jersey_num="27" pass_lost="3" pass_success="7" player_id="494779" player_name="Albert Grønbæk" position="Substitute" position_id="5" sub_on="67" x="74.11" y="57.92">
+    <Player player_id="422348" player_name="Gift Links">1</Player>
+    <Player player_id="453905" player_name="Tobias Henriksen">1</Player>
+    <Player player_id="144301" player_name="Nicolai Poulsen">2</Player>
+    <Player player_id="235120" player_name="Mads Emil Madsen">3</Player>
+  </Player>
+  <Player cross_lost="2" cross_success="1" jersey_num="14" pass_lost="13" pass_success="25" player_id="453905" player_name="Tobias Henriksen" position="Defender" position_id="2" sub_off="89" x="51.71" y="14.04">
+    <Player player_id="428573" player_name="Frederik Brandhof">1</Player>
+    <Player player_id="438261" player_name="Yann Bisseck">1</Player>
+    <Player player_id="235120" player_name="Mads Emil Madsen">5</Player>
+    <Player player_id="221242" player_name="Sigurd Haugen">5</Player>
+    <Player player_id="144301" player_name="Nicolai Poulsen">2</Player>
+    <Player cross="1" player_id="85050" player_name="Patrick Mortensen">7</Player>
+    <Player player_id="513425" player_name="Thomas Kristensen">3</Player>
+    <Player player_id="249137" player_name="Sebastian Hausner">1</Player>
+  </Player>
+  <Player cross_lost="3" cross_success="0" jersey_num="11" pass_lost="2" pass_success="6" player_id="422348" player_name="Gift Links" position="Substitute" position_id="5" sub_on="83" x="71.77" y="89.48">
+    <Player player_id="438261" player_name="Yann Bisseck">2</Player>
+    <Player player_id="494779" player_name="Albert Grønbæk">4</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="5" pass_lost="8" pass_success="25" player_id="221234" player_name="Frederik Tingager" position="Defender" position_id="2" x="28.16" y="51.97">
+    <Player player_id="453905" player_name="Tobias Henriksen">1</Player>
+    <Player player_id="422348" player_name="Gift Links">3</Player>
+    <Player player_id="493824" player_name="Eric Kahl">1</Player>
+    <Player player_id="438261" player_name="Yann Bisseck">2</Player>
+    <Player player_id="244449" player_name="Mikael Anderson">1</Player>
+    <Player player_id="51705" player_name="Jesper Hansen">5</Player>
+    <Player player_id="513425" player_name="Thomas Kristensen">6</Player>
+    <Player player_id="249137" player_name="Sebastian Hausner">1</Player>
+    <Player player_id="85050" player_name="Patrick Mortensen">1</Player>
+    <Player player_id="144301" player_name="Nicolai Poulsen">1</Player>
+    <Player player_id="226184" player_name="Anthony D'Alberto">1</Player>
+    <Player player_id="235120" player_name="Mads Emil Madsen">2</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="4" pass_lost="11" pass_success="23" player_id="438261" player_name="Yann Bisseck" position="Defender" position_id="2" x="36.66" y="73.72">
+    <Player player_id="51705" player_name="Jesper Hansen">7</Player>
+    <Player player_id="428573" player_name="Frederik Brandhof">1</Player>
+    <Player player_id="494779" player_name="Albert Grønbæk">2</Player>
+    <Player player_id="493824" player_name="Eric Kahl">3</Player>
+    <Player player_id="235120" player_name="Mads Emil Madsen">2</Player>
+    <Player player_id="221234" player_name="Frederik Tingager">5</Player>
+    <Player player_id="144301" player_name="Nicolai Poulsen">1</Player>
+    <Player player_id="513425" player_name="Thomas Kristensen">2</Player>
+  </Player>
+  <Player cross_lost="2" cross_success="0" jersey_num="19" pass_lost="10" pass_success="17" player_id="493824" player_name="Eric Kahl" position="Defender" position_id="2" sub_off="83" x="56.10" y="82.33">
+    <Player player_id="453905" player_name="Tobias Henriksen">1</Player>
+    <Player player_id="244449" player_name="Mikael Anderson">6</Player>
+    <Player player_id="51705" player_name="Jesper Hansen">2</Player>
+    <Player player_id="438261" player_name="Yann Bisseck">2</Player>
+    <Player player_id="144301" player_name="Nicolai Poulsen">3</Player>
+    <Player player_id="85050" player_name="Patrick Mortensen">1</Player>
+    <Player player_id="221242" player_name="Sigurd Haugen">1</Player>
+    <Player player_id="235120" player_name="Mads Emil Madsen">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="8" pass_lost="4" pass_success="9" player_id="244449" player_name="Mikael Anderson" position="Midfielder" position_id="3" sub_off="67" x="56.84" y="60.85">
+    <Player player_id="249137" player_name="Sebastian Hausner">1</Player>
+    <Player player_id="85050" player_name="Patrick Mortensen">1</Player>
+    <Player player_id="144301" player_name="Nicolai Poulsen">1</Player>
+    <Player player_id="221234" player_name="Frederik Tingager">1</Player>
+    <Player player_id="221242" player_name="Sigurd Haugen">1</Player>
+    <Player player_id="493824" player_name="Eric Kahl">4</Player>
+  </Player>
+  <Player cross_lost="1" cross_success="0" jersey_num="29" pass_lost="1" pass_success="4" player_id="428573" player_name="Frederik Brandhof" position="Substitute" position_id="5" sub_on="83" x="65.29" y="22.36">
+    <Player player_id="453905" player_name="Tobias Henriksen">2</Player>
+    <Player player_id="513425" player_name="Thomas Kristensen">1</Player>
+    <Player player_id="85050" player_name="Patrick Mortensen">1</Player>
+  </Player>
+  <Player cross_lost="0" cross_success="0" jersey_num="1" pass_lost="14" pass_success="25" player_id="51705" player_name="Jesper Hansen" position="Goalkeeper" position_id="1" x="8.85" y="49.89">
+    <Player player_id="85050" player_name="Patrick Mortensen">1</Player>
+    <Player player_id="249137" player_name="Sebastian Hausner">1</Player>
+    <Player player_id="513425" player_name="Thomas Kristensen">3</Player>
+    <Player player_id="494779" player_name="Albert Grønbæk">1</Player>
+    <Player player_id="235120" player_name="Mads Emil Madsen">1</Player>
+    <Player player_id="226184" player_name="Anthony D'Alberto">2</Player>
+    <Player player_id="221242" player_name="Sigurd Haugen">2</Player>
+    <Player player_id="453905" player_name="Tobias Henriksen">5</Player>
+    <Player player_id="438261" player_name="Yann Bisseck">4</Player>
+    <Player player_id="493824" player_name="Eric Kahl">2</Player>
+    <Player player_id="221234" player_name="Frederik Tingager">3</Player>
+  </Player>
+</SoccerFeed>
+
