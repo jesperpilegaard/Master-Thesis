@@ -1,0 +1,244 @@
+Question,Answer,Response Time (s)
+Which team has scored most goals from Matchday 1 to Matchday 3?,"The team that has scored the most goals from Matchday 1 to Matchday 3 is FC Midtjylland with a total of 7 goals.
+
+Here is the breakdown of goals scored by each team:
+
+- **Randers FC**: 1 (Matchday 1) + 2 (Matchday 2) + 0 (Matchday 3) = 3 goals
+- **FC Midtjylland**: 1 (Matchday 1) + 1 (Matchday 2) + 5 (Matchday 3) = 7 goals
+- **Viborg FF**: 2 (Matchday 1) + 1 (Matchday 2) + 4 (Matchday 3) = 7 goals
+- **Aalborg BK**: 1 (Matchday 1) + 1 (Matchday 2) + 0 (Matchday 3) = 2 goals
+- **Silkeborg IF**: 2 (Matchday 1) + 3 (Matchday 2) + 2 (Matchday 3) = 7 goals
+- **Lyngby BK**: 2 (Matchday 1) + 0 (Matchday 2) + 1 (Matchday 3) = 3 goals
+- **AC Horsens**: 1 (Matchday 1) + 1 (Matchday 2) + 0 (Matchday 3) = 2 goals
+- **FC København**: 0 (Matchday 1) + 3 (Matchday 2) + 2 (Matchday 3) = 5 goals
+- **AGF Aarhus**: 0 (Matchday 1) + 3 (Matchday 2) + 0 (Matchday 3) = 3 goals
+- **Brøndby IF**: 1 (Matchday 1) + 1 (Matchday 2) + 0 (Matchday 3) = 2 goals
+- **FC Nordsjælland**: 2 (Matchday 1) + 3 (Matchday 2) + 2 (Matchday 3) = 7 goals
+- **Odense Boldklub**: 0 (Matchday 1) + 2 (Matchday 2) + 0 (Matchday 3) = 2 goals
+
+Therefore, FC Midtjylland has the highest total with 7 goals.",11.6270170211792
+Which player has had most shots from Matchday 1 to Matchday 3?,"Based on the event data provided, the player with the most shots from Matchday 1 to Matchday 3 is from FC Midtjylland with a total of 34 shots. Here is the breakdown:
+
+- Matchday 1: 9 shots (9 Successful Shot off target + 1 Successful Goal)
+- Matchday 2: 6 shots (6 Successful Shot off target + 1 Successful Goal)
+- Matchday 3: 9 shots (4 Successful Shot off target + 5 Successful Goal)
+
+Total: 9 + 6 + 9 + 1 + 1 + 5 = 34 shots",3.5604629516601562
+Which team has most saves from Matchday 1 to Matchday 3?,"The team with the most saves from Matchday 1 to Matchday 3 is **Viborg FF** with a total of 28 saves.
+
+Here is the breakdown of saves for each team:
+
+- **Randers FC**: 10 (Matchday 1) + 7 (Matchday 2) + 9 (Matchday 3) = 26 saves
+- **FC Midtjylland**: 6 (Matchday 1) + 1 (Matchday 2) + 6 (Matchday 3) = 13 saves
+- **Viborg FF**: 9 (Matchday 1) + 4 (Matchday 2) + 15 (Matchday 3) = 28 saves
+- **Aalborg BK**: 9 (Matchday 1) + 6 (Matchday 2) + 7 (Matchday 3) = 22 saves
+- **Silkeborg IF**: 1 (Matchday 1) + 2 (Matchday 2) + 6 (Matchday 3) = 9 saves
+- **Lyngby BK**: 5 (Matchday 1) + 7 (Matchday 2) + 4 (Matchday 3) = 16 saves
+- **AC Horsens**: 10 (Matchday 1) + 4 (Matchday 2) + 14 (Matchday 3) = 28 saves
+- **FC København**: 5 (Matchday 1) + 4 (Matchday 2) + 4 (Matchday 3) = 13 saves
+- **AGF Aarhus**: 7 (Matchday 1) + 4 (Matchday 2) + 3 (Matchday 3) = 14 saves
+- **Brøndby IF**: 7 (Matchday 1) + 7 (Matchday 2) + 9 (Matchday 3) = 23 saves
+- **FC Nordsjælland**: 6 (Matchday 1) + 4 (Matchday 2) + 5 (Matchday 3) = 15 saves
+- **Odense Boldklub**: 10 (Matchday 1) + 14 (Matchday 2) + 2 (Matchday 3) = 26 saves",12.618523836135864
+Which player has most interceptions from Matchday 1 to Matchday 3?,"Based on the provided event data, the player with the most interceptions from Matchday 1 to Matchday 3 is from the team **Randers FC** with a total of **39 interceptions** (15 on Matchday 1, 5 on Matchday 2, and 19 on Matchday 3).",2.119040012359619
+Which team has most corners awarded from Matchday 1 to Matchday 3?,"To determine which team has the most corners awarded from Matchday 1 to Matchday 3, we need to sum up the ""Successful Corner Awarded"" events for each team across all three matchdays.
+
+Here are the totals for each team:
+
+- **Randers FC**: 2 (MD1) + 11 (MD2) + 5 (MD3) = 18
+- **FC Midtjylland**: 8 (MD1) + 12 (MD2) + 2 (MD3) = 22
+- **Viborg FF**: 6 (MD1) + 0 (MD2) + 4 (MD3) = 10
+- **Aalborg BK**: 3 (MD1) + 10 (MD2) + 10 (MD3) = 23
+- **Silkeborg IF**: 4 (MD1) + 2 (MD2) + 5 (MD3) = 11
+- **Lyngby BK**: 7 (MD1) + 8 (MD2) + 3 (MD3) = 18
+- **AC Horsens**: 1 (MD1) + 2 (MD2) + 1 (MD3) = 4
+- **FC København**: 11 (MD1) + 6 (MD2) + 9 (MD3) = 26
+- **AGF Aarhus**: 5 (MD1) + 6 (MD2) + 7 (MD3) = 18
+- **Brøndby IF**: 15 (MD1) + 6 (MD2) + 5 (MD3) = 26
+- **FC Nordsjælland**: 5 (MD1) + 6 (MD2) + 4 (MD3) = 15
+- **Odense Boldklub**: 2 (MD1) + 2 (MD2) + 0 (MD3) = 4
+
+The team with the most corners awarded from Matchday 1 to Matchday 3 is **FC København** and **Brøndby IF**, both with 26 successful corners awarded.",10.399332046508789
+Which player received most cards from Matchday 1 to Matchday 3?,"Based on the event data provided, the player who received the most cards from Matchday 1 to Matchday 3 is from Viborg FF, with a total of 9 successful card events.",1.6103789806365967
+Which 10 players received most cards from Matchday 1 to Matchday 3?,"To determine which 10 players received the most cards from Matchday 1 to Matchday 3, we need to count the total number of card events for each team across all matchdays. Here is the breakdown:
+
+1. **Randers FC**
+   - Matchday 1: 1 card
+   - Matchday 2: 1 card
+   - Matchday 3: 2 cards
+   - **Total: 4 cards**
+
+2. **FC Midtjylland**
+   - Matchday 1: 4 cards
+   - Matchday 2: 1 card
+   - Matchday 3: 2 cards
+   - **Total: 7 cards**
+
+3. **Viborg FF**
+   - Matchday 1: 5 cards
+   - Matchday 2: 0 cards
+   - Matchday 3: 2 cards
+   - **Total: 7 cards**
+
+4. **Aalborg BK**
+   - Matchday 1: 2 cards
+   - Matchday 2: 2 cards
+   - Matchday 3: 3 cards
+   - **Total: 7 cards**
+
+5. **Silkeborg IF**
+   - Matchday 1: 2 cards
+   - Matchday 2: 2 cards
+   - Matchday 3: 1 card
+   - **Total: 5 cards**
+
+6. **Lyngby BK**
+   - Matchday 1: 1 card
+   - Matchday 2: 3 cards
+   - Matchday 3: 3 cards
+   - **Total: 7 cards**
+
+7. **AC Horsens**
+   - Matchday 1: 3 cards
+   - Matchday 2: 4 cards
+   - Matchday 3: 2 cards
+   - **Total: 9 cards**
+
+8. **FC København**
+   - Matchday 1: 1 card
+   - Matchday 2: 4 cards
+   - Matchday 3: 2 cards
+   - **Total: 7 cards**
+
+9. **AGF Aarhus**
+   - Matchday 1: 2 cards
+   - Matchday 2: 2 cards
+   - Matchday 3: 3 cards
+   - **Total: 7 cards**
+
+10. **Brøndby IF**
+    - Matchday 1: 2 cards
+    - Matchday 2: 3 cards
+    - Matchday 3: 3 cards
+    - **Total: 8 cards**
+
+11. **FC Nordsjælland**
+    - Matchday 1: 3 cards
+    - Matchday 2: 2 cards
+    - Matchday 3: 2 cards
+    - **Total: 7 cards**
+
+12. **Odense Boldklub**
+    - Matchday 1: 2 cards
+    - Matchday 2: 0 cards
+    - Matchday 3: 1 card
+    - **Total: 3 cards**
+
+Based on the total number of cards received, the 10 teams with the most cards are:
+
+1. AC Horsens: 9 cards
+2. Brøndby IF: 8 cards
+3. FC Midtjylland: 7 cards
+4. Viborg FF: 7 cards
+5. Aalborg BK: 7 cards
+6. Lyngby BK: 7 cards
+7. FC København: 7 cards
+8. AGF Aarhus: 7 cards
+9. FC Nordsjælland: 7 cards
+10. Silkeborg IF: 5 cards
+
+These teams represent the players who received the most cards from Matchday 1 to Matchday 3.",17.816638946533203
+Which teams played each other in Matchday 1?,"In Matchday 1, the teams that played each other were:
+
+1. Randers FC vs. FC Midtjylland
+2. Viborg FF vs. Aalborg BK
+3. Silkeborg IF vs. Lyngby BK
+4. AC Horsens vs. FC København
+5. AGF Aarhus vs. Brøndby IF
+6. FC Nordsjælland vs. Odense Boldklub",2.7650749683380127
+How did FC Midtjylland perform from Matchday 1 to Matchday 3?,"FC Midtjylland's performance from Matchday 1 to Matchday 3 can be summarized as follows:
+
+### Matchday 1:
+- **Defensive Actions:**
+  - Successful Interceptions: 9
+  - Successful Tackles: 8
+  - Successful Clearances: 14
+- **Shots:**
+  - Successful Shot Saved: 10
+  - Successful Shot Off Target: 9
+  - Successful Goal: 1
+- **Other Notable Actions:**
+  - Successful Corner Awarded: 8
+  - Successful Foul: 12
+  - Successful Save: 6
+  - Successful Card: 4
+
+### Matchday 2:
+- **Defensive Actions:**
+  - Successful Interceptions: 11
+  - Successful Tackles: 6
+  - Successful Clearances: 4
+- **Shots:**
+  - Successful Shot Saved: 2
+  - Successful Shot Off Target: 6
+  - Successful Goal: 1
+- **Other Notable Actions:**
+  - Successful Corner Awarded: 12
+  - Successful Foul: 5
+  - Successful Save: 1
+  - Successful Card: 1
+
+### Matchday 3:
+- **Defensive Actions:**
+  - Successful Interceptions: 13
+  - Successful Tackles: 5
+  - Successful Clearances: 9
+- **Shots:**
+  - Successful Shot Saved: 2
+  - Successful Shot Off Target: 4
+  - Successful Goal: 5
+- **Other Notable Actions:**
+  - Successful Corner Awarded: 2
+  - Successful Foul: 9
+  - Successful Save: 6
+  - Successful Card: 2
+
+### Summary:
+- **Goals Scored:**
+  - Matchday 1: 1 goal
+  - Matchday 2: 1 goal
+  - Matchday 3: 5 goals
+
+- **Defensive Actions:**
+  - Interceptions: Consistently high with 9, 11, and 13 successful interceptions.
+  - Tackles: Moderate performance with 8, 6, and 5 successful tackles.
+  - Clearances: Varied performance with 14, 4, and 9 successful clearances.
+
+- **Shots:**
+  - Total Shots (including goals, shots saved, and shots off target): 
+    - Matchday 1: 20 shots (1 goal, 10 shots saved, 9 shots off target)
+    - Matchday 2: 9 shots (1 goal, 2 shots saved, 6 shots off target)
+    - Matchday 3: 11 shots (5 goals, 2 shots saved, 4 shots off target)
+
+FC Midtjylland showed a strong offensive performance on Matchday 3 with 5 goals, while their defensive actions were consistent throughout the three matchdays.",14.744714736938477
+Which team had the most offside passes from Matchday 1 to Matchday 3?,"The team with the most offside passes from Matchday 1 to Matchday 3 is Brøndby IF, with a total of 10 successful offside passes.",1.2296960353851318
+Which team had the most successful passes from Matchday 1 to Matchday 3?,"The provided event data does not include information on successful passes. Therefore, it is not possible to determine which team had the most successful passes from Matchday 1 to Matchday 3 based on the given data.",1.725804090499878
+How many chances did Odense Boldklub create from Matchday 1 to Matchday 3?,Odense Boldklub created 2 chances from Matchday 1 to Matchday 3.,1.1432201862335205
+What was the result of Brøndby IF's matches from Matchday 1 to Matchday 3?,"Here are the results of Brøndby IF's matches from Matchday 1 to Matchday 3:
+
+- **Matchday 1:**
+  - Brøndby IF: 1 goal
+  - Opponent: Not specified in the query
+  - Result: Not enough information to determine the opponent's score.
+
+- **Matchday 2:**
+  - Brøndby IF: 1 goal
+  - Opponent: Not specified in the query
+  - Result: Not enough information to determine the opponent's score.
+
+- **Matchday 3:**
+  - Brøndby IF: 0 goals
+  - Opponent: Not specified in the query
+  - Result: Not enough information to determine the opponent's score.
+
+Without the opponent's goal data, the exact results of the matches cannot be fully determined. However, Brøndby IF scored 1 goal in both Matchday 1 and Matchday 2, and 0 goals in Matchday 3.",5.426086187362671
