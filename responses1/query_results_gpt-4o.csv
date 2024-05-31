@@ -1,0 +1,426 @@
+Question,Answer,Response Time (s)
+How many successful passes did each team have?,"Aalborg BK had 333 successful passes.
+
+Viborg FF had 410 successful passes.",1.1732861995697021
+How many unsuccessful passes were made by each team?,"Aalborg BK made 101 unsuccessful passes.
+Viborg FF made 97 unsuccessful passes.",1.2701642513275146
+Which team had the most offside passes?,"Viborg FF had the most offside passes with 2 successful offside pass events, compared to Aalborg BK, which had 1 successful offside pass event.",1.8436150550842285
+How many fouls were committed by each team?,"Aalborg BK committed a total of 18 fouls (11 successful fouls and 7 unsuccessful fouls).
+
+Viborg FF committed a total of 17 fouls (7 successful fouls and 10 unsuccessful fouls).",1.7412819862365723
+Which team was awarded the most corners?,Viborg FF was awarded the most corners with a total of 6 successful corner awarded events. Aalborg BK had 3 successful corner awarded events.,1.13614821434021
+How many shots did each team have?,"Based on the event data provided:
+
+### Aalborg BK:
+- **Successful Shot saved events:** 9
+- **Successful Shot off target events:** 3
+- **Successful Goal events:** 1
+
+Total shots for Aalborg BK: **9 + 3 + 1 = 13**
+
+### Viborg FF:
+- **Successful Shot saved events:** 6
+- **Successful Shot off target events:** 5
+- **Successful Shot on post events:** 2
+- **Successful Goal events:** 2
+
+Total shots for Viborg FF: **6 + 5 + 2 + 2 = 15**
+
+### Summary:
+- **Aalborg BK:** 13 shots
+- **Viborg FF:** 15 shots",3.5734808444976807
+Which team created the most chances?,"To determine which team created the most chances, we can look at the number of successful shots (both on target and off target), successful shots saved, and successful shots on post, as these events typically represent goal-scoring opportunities.
+
+### Aalborg BK:
+- Successful Shot saved events: 9
+- Successful Shot off target events: 3
+- Successful Goal events: 1
+- Successful Shot on post events: 0
+
+Total chances created by Aalborg BK: 9 + 3 + 1 + 0 = 13
+
+### Viborg FF:
+- Successful Shot saved events: 6
+- Successful Shot off target events: 5
+- Successful Goal events: 2
+- Successful Shot on post events: 2
+
+Total chances created by Viborg FF: 6 + 5 + 2 + 2 = 15
+
+### Conclusion:
+Viborg FF created the most chances with a total of 15 chances compared to Aalborg BK's 13 chances.",5.80140495300293
+What was the result of the match?,"Based on the event data provided, the result of the match was a 2-1 victory for Viborg FF over Aalborg BK. Viborg FF scored two goals (42' by Mads Lauritsen and 84' by Tobias Bech), while Aalborg BK scored one goal (76' by Anders Hagelskjær).",2.4929590225219727
+How many successful defensive actions did each team have?,"To determine the number of successful defensive actions for each team, we will count the following events: Successful Clearance, Successful Interception, Successful Tackle, and Successful Save.
+
+### Aalborg BK:
+- Successful Clearance: 32
+- Successful Interception: 13
+- Successful Tackle: 7
+- Successful Save: 9
+
+Total successful defensive actions for Aalborg BK: 
+32 (Clearance) + 13 (Interception) + 7 (Tackle) + 9 (Save) = **61**
+
+### Viborg FF:
+- Successful Clearance: 15
+- Successful Interception: 7
+- Successful Tackle: 6
+- Successful Save: 9
+
+Total successful defensive actions for Viborg FF: 
+15 (Clearance) + 7 (Interception) + 6 (Tackle) + 9 (Save) = **37**
+
+### Summary:
+- **Aalborg BK**: 61 successful defensive actions
+- **Viborg FF**: 37 successful defensive actions",7.671090841293335
+Which players had most successful passes between each other?,"Based on the event data provided, the players with the most successful passes between each other are:
+
+### Aalborg BK:
+1. **Milan Makaric to Mathias Ross**:
+   - 0' in zone 4C to 4C
+   - 0' in zone 6C to 6C
+
+2. **Iver Fossum to Milan Makaric**:
+   - 0' in zone 6E to 6E
+
+3. **Pedro Ferreira to Iver Fossum**:
+   - 0' in zone 4B to 4B
+
+4. **Lars Kramer to Mathias Ross**:
+   - 0' in zone 3D to 3D
+
+### Viborg FF:
+1. **Jeppe Grønning to Jakob Bonde**:
+   - 0' in zone 2D to 2D
+   - 1' in zone 3D to 3D
+
+2. **Lucas Lund to Nicolas Bürgy**:
+   - 0' in zone 1C to 1C
+   - 0' in zone 1B to 1B
+
+3. **Nicolas Bürgy to Lucas Lund**:
+   - 0' in zone 1B to 1B
+
+4. **Christian Sørensen to Jakob Bonde**:
+   - 1' in zone 4E to 4E
+
+These pairs of players had multiple successful passes between each other, indicating strong passing connections within their respective teams.",7.8939666748046875
+Which players scored the goals?,"The players who scored the goals are:
+
+- **Anders Hagelskjær** for Aalborg BK at 76' in zone 5C.
+- **Mads Lauritsen** for Viborg FF at 42' in zone 6C.
+- **Tobias Bech** for Viborg FF at 84' in zone 6C.",2.0306029319763184
+When was the goals scored?,"The goals were scored at the following times:
+
+- For Aalborg BK:
+  - 76' by Anders Hagelskjær in zone 5C to 5C
+
+- For Viborg FF:
+  - 42' by Mads Lauritsen in zone 6C to 6C
+  - 84' by Tobias Bech in zone 6C to 6C",2.166860818862915
+In which zones were the goals scored for each team?,"For Aalborg BK, the goal was scored in zone 5C.
+
+For Viborg FF, the goals were scored in zone 6C.",1.2281420230865479
+In which zones were the chances created for each team?,"To determine the zones where chances were created for each team, we need to look at the events that typically lead to scoring opportunities. These events include ""Successful Shot saved,"" ""Successful Shot off target,"" ""Successful Shot on post,"" and ""Successful Goal.""
+
+### Aalborg BK
+- **Successful Shot saved:**
+  - Zone 5D
+  - Zone 5C (twice)
+  - Zone 6C (twice)
+  - Zone 6D
+  - Zone 5B
+  - Zone 6B
+
+- **Successful Shot off target:**
+  - Zone 5C
+  - Zone 5B
+  - Zone 6D
+
+- **Successful Goal:**
+  - Zone 5C
+
+### Viborg FF
+- **Successful Shot saved:**
+  - Zone 6D
+  - Zone 5C
+  - Zone 6B
+  - Zone 6C (three times)
+
+- **Successful Shot off target:**
+  - Zone 6C (four times)
+  - Zone 5D
+
+- **Successful Shot on post:**
+  - Zone 5B
+  - Zone 5C
+
+- **Successful Goal:**
+  - Zone 6C (twice)
+
+### Summary of Zones where Chances were Created:
+- **Aalborg BK:**
+  - Zone 5D
+  - Zone 5C
+  - Zone 6C
+  - Zone 6D
+  - Zone 5B
+  - Zone 6B
+
+- **Viborg FF:**
+  - Zone 6D
+  - Zone 5C
+  - Zone 6B
+  - Zone 6C
+  - Zone 5D
+  - Zone 5B
+
+These zones indicate where each team was able to create significant scoring opportunities during the match.",7.782337188720703
+Which players created the chances for each team?,"To determine which players created the chances for each team, we need to look at the ""Successful Shot saved,"" ""Successful Shot off target,"" ""Successful Shot on post,"" and ""Successful Goal"" events, as these are the events that typically represent goal-scoring opportunities.
+
+### Aalborg BK
+1. **Successful Shot saved:**
+   - 5' by Malthe Højholt with assist by Allan Sousa
+   - 8' by Louka Prip with assist by Jakob Ahlmann
+   - 36' by Iver Fossum with assist by Milan Makaric
+   - 49' by Allan Sousa with assist by Malthe Højholt
+   - 65' by Jakob Ahlmann with assist by Allan Sousa
+   - 94' by Kristoffer Pallesen with assist by Lucas Andersen
+
+2. **Successful Shot off target:**
+   - 37' by Pedro Ferreira with assist by Allan Sousa
+   - 83' by Lucas Andersen with assist by Iver Fossum
+
+3. **Successful Goal:**
+   - 76' by Anders Hagelskjær
+
+### Viborg FF
+1. **Successful Shot saved:**
+   - 41' by Jakob Bonde with assist by Christian Sørensen
+   - 54' by Marokhy Ndione with assist by Justin Lonwijk
+   - 73' by Mads Lauritsen with assist by Christian Sørensen
+
+2. **Successful Shot off target:**
+   - 13' by Clint Leemans with assist by Jakob Bonde
+   - 19' by Jakob Bonde with assist by Nicolas Bürgy
+   - 74' by Jakob Bonde with assist by Tobias Bech
+   - 78' by Ibrahim Said with assist by Jan Zamburek
+
+3. **Successful Shot on post:**
+   - 46' by Jeppe Grønning with assist by Nicolas Bürgy
+
+4. **Successful Goal:**
+   - 42' by Mads Lauritsen
+   - 84' by Tobias Bech
+
+### Summary of Players Creating Chances
+
+**Aalborg BK:**
+- Allan Sousa (3 assists)
+- Jakob Ahlmann (2 assists)
+- Iver Fossum (1 assist)
+- Milan Makaric (1 assist)
+- Lucas Andersen (1 assist)
+
+**Viborg FF:**
+- Christian Sørensen (2 assists)
+- Jakob Bonde (2 assists)
+- Nicolas Bürgy (2 assists)
+- Justin Lonwijk (1 assist)
+- Tobias Bech (1 assist)
+- Jan Zamburek (1 assist)",11.06003212928772
+How many goals were scored in the first half of the match?,"In the first half of the match, there was 1 goal scored. It was scored by Mads Lauritsen of Viborg FF at the 42nd minute.",1.741135835647583
+How many goals were scored in the second half of the match?,"In the second half of the match, there was 1 goal scored. This goal was scored by Anders Hagelskjær of Aalborg BK at the 76th minute.",1.4338369369506836
+"In a time period of 15 minutes, when was the most shots taken?","In the time period of 15 minutes, the most shots were taken between the 36th and 50th minutes. During this period, the following shots were recorded:
+
+1. 36' by Iver Fossum (Aalborg BK) - Successful Shot saved
+2. 37' by Pedro Ferreira (Aalborg BK) - Successful Shot off target
+3. 40' by Milan Makaric (Aalborg BK) - Successful Shot saved
+4. 41' by Jakob Bonde (Viborg FF) - Successful Shot saved
+5. 41' by Jakob Bonde (Viborg FF) - Successful Corner Awarded
+6. 42' by Mads Lauritsen (Viborg FF) - Successful Goal
+7. 46' by Jeppe Grønning (Viborg FF) - Successful Shot on post
+8. 46' by Justin Lonwijk (Viborg FF) - Successful Corner Awarded
+9. 46' by Jeppe Grønning (Viborg FF) - Successful Shot saved
+10. 49' by Allan Sousa (Aalborg BK) - Successful Shot saved
+11. 49' by Marokhy Ndione (Viborg FF) - Successful Save
+
+This period saw a total of 11 shots taken.",5.392186164855957
+How did Aalborg BK perform?,"Aalborg BK's performance can be analyzed based on the provided event data:
+
+1. **Passing:**
+   - **Successful Passes:** Aalborg BK completed 333 successful passes.
+   - **Unsuccessful Passes:** Aalborg BK had 101 unsuccessful passes.
+   - **Pass Success Rate:** The pass success rate can be calculated as follows:
+     \[
+     \text{Pass Success Rate} = \frac{\text{Successful Passes}}{\text{Total Passes}} \times 100 = \frac{333}{333 + 101} \times 100 \approx 76.7\%
+     \]
+
+2. **Shooting:**
+   - **Successful Shots Saved:** 9 events.
+   - **Successful Shots Off Target:** 3 events.
+   - **Successful Goal:** 1 event.
+   - **Total Shots:** 13 (9 saved + 3 off target + 1 goal).
+
+3. **Defensive Actions:**
+   - **Successful Clearances:** 32 events.
+   - **Successful Interceptions:** 13 events.
+   - **Successful Tackles:** 7 events.
+   - **Successful Saves:** 9 events.
+
+4. **Fouls:**
+   - **Successful Fouls:** 11 events.
+   - **Unsuccessful Fouls:** 7 events.
+
+5. **Other Notable Events:**
+   - **Successful Corner Awarded:** 3 events.
+   - **Unsuccessful Corner Awarded:** 8 events.
+   - **Successful Card Events:** 2 events.
+   - **Successful Offside Pass:** 1 event.
+
+**Summary:**
+- Aalborg BK had a decent pass success rate of approximately 76.7%.
+- They managed to score 1 goal and had a total of 13 shots, indicating some offensive efforts.
+- Defensively, they were active with 32 clearances, 13 interceptions, and 7 tackles.
+- They committed 11 successful fouls and 7 unsuccessful fouls, showing a moderate level of physical play.
+- They had a few corner opportunities but were not very successful in converting them.
+
+Overall, Aalborg BK showed a balanced performance with a solid passing game, some offensive attempts, and active defensive actions. However, their ability to convert corner opportunities and reduce unsuccessful fouls could be areas for improvement.",9.65887188911438
+How did Viborg FF perform?,"Viborg FF had a strong performance based on the event data provided. Here are the key highlights:
+
+1. **Successful Passes**: Viborg FF completed 410 successful passes, indicating good ball control and effective passing among team members.
+
+2. **Unsuccessful Passes**: They had 97 unsuccessful passes, which is relatively low compared to their successful passes, showing a high pass completion rate.
+
+3. **Successful Tackles**: The team made 6 successful tackles, demonstrating their ability to regain possession.
+
+4. **Successful Clearances**: Viborg FF successfully cleared the ball 15 times, which is crucial for defensive stability.
+
+5. **Successful Saves**: The goalkeeper and defenders made 9 successful saves, highlighting their defensive resilience.
+
+6. **Successful Interceptions**: They intercepted the ball 7 times, disrupting the opponent's play.
+
+7. **Successful Shots**: Viborg FF had 5 successful shots off target, 2 shots on the post, and 6 successful shots saved, indicating they were creating scoring opportunities.
+
+8. **Goals**: They scored 2 goals, which is a direct measure of their offensive effectiveness.
+
+9. **Successful Fouls**: The team committed 7 successful fouls, which can be seen as a tactical approach to disrupt the opponent's play.
+
+10. **Successful Corner Awards**: They earned 6 corners, showing their ability to pressure the opponent's defense.
+
+Overall, Viborg FF demonstrated a balanced performance with strong passing, defensive actions, and offensive efforts, leading to scoring opportunities and goals.",6.450976848602295
+Which player was most involved in the events?,"To determine which player was most involved in the events, we need to count the number of events each player participated in. Here is the breakdown for the most involved players from both teams:
+
+### Aalborg BK:
+- **Milan Makaric**: 
+  - Successful Pass: 2
+  - Successful Shot saved: 2
+  - Successful Clearance: 1
+  - Successful Foul: 2
+  - Successful Interception: 1
+  - Successful Save: 1
+  - Successful Goal: 1
+  - Total: 10
+
+- **Iver Fossum**:
+  - Successful Pass: 3
+  - Successful Shot saved: 2
+  - Successful Clearance: 1
+  - Successful Foul: 2
+  - Successful Interception: 1
+  - Total: 9
+
+- **Pedro Ferreira**:
+  - Successful Pass: 1
+  - Successful Clearance: 1
+  - Successful Foul: 2
+  - Successful Interception: 3
+  - Successful Save: 1
+  - Successful Tackle: 1
+  - Total: 9
+
+### Viborg FF:
+- **Jeppe Grønning**:
+  - Successful Pass: 5
+  - Successful Tackle: 3
+  - Successful Clearance: 1
+  - Successful Interception: 1
+  - Successful Foul: 1
+  - Successful Card: 1
+  - Successful Shot saved: 1
+  - Successful Offside Pass: 2
+  - Total: 15
+
+- **Lucas Lund**:
+  - Successful Pass: 2
+  - Successful Save: 6
+  - Successful Corner Awarded: 1
+  - Total: 9
+
+- **Nicolas Bürgy**:
+  - Successful Pass: 3
+  - Successful Tackle: 1
+  - Successful Clearance: 1
+  - Successful Interception: 1
+  - Successful Foul: 1
+  - Successful Card: 1
+  - Successful Shot on post: 1
+  - Total: 9
+
+### Conclusion:
+The player most involved in the events is **Jeppe Grønning** from Viborg FF, with a total of 15 events.",9.051740884780884
+Which player had most shots?,"Based on the event data provided, the player with the most shots is Iver Fossum from Aalborg BK. He had a total of 3 shots:
+
+1. Successful Shot saved event at 36' in zone 6D.
+2. Successful Shot off target event at 83' in zone 5B.
+3. Successful Shot off target event at 83' in zone 6D.",2.201359987258911
+In which half were the most chances created?,"To determine in which half the most chances were created, we need to look at events that typically lead to scoring opportunities. These events include successful shots saved, successful shots off target, successful shots on post, and successful goals.
+
+### First Half (0' - 45'):
+- **Aalborg BK:**
+  - Successful Shot saved: 4 (0', 5', 8', 36')
+  - Successful Shot off target: 0
+  - Successful Shot on post: 0
+  - Successful Goal: 0
+
+- **Viborg FF:**
+  - Successful Shot saved: 1 (41')
+  - Successful Shot off target: 3 (13', 19', 26')
+  - Successful Shot on post: 1 (18')
+  - Successful Goal: 1 (42')
+
+### Second Half (46' - 90'+):
+- **Aalborg BK:**
+  - Successful Shot saved: 5 (40', 49', 65', 92', 94')
+  - Successful Shot off target: 3 (37', 83', 83')
+  - Successful Shot on post: 0
+  - Successful Goal: 1 (76')
+
+- **Viborg FF:**
+  - Successful Shot saved: 5 (46', 54', 71', 73', 78')
+  - Successful Shot off target: 2 (74', 78')
+  - Successful Shot on post: 1 (46')
+  - Successful Goal: 1 (84')
+
+### Summary:
+- **First Half Total Chances:**
+  - Aalborg BK: 4 (shots saved) + 0 (shots off target) + 0 (shots on post) + 0 (goals) = 4 chances
+  - Viborg FF: 1 (shots saved) + 3 (shots off target) + 1 (shots on post) + 1 (goals) = 6 chances
+  - **Total First Half Chances:** 4 (Aalborg BK) + 6 (Viborg FF) = 10 chances
+
+- **Second Half Total Chances:**
+  - Aalborg BK: 5 (shots saved) + 3 (shots off target) + 0 (shots on post) + 1 (goals) = 9 chances
+  - Viborg FF: 5 (shots saved) + 2 (shots off target) + 1 (shots on post) + 1 (goals) = 9 chances
+  - **Total Second Half Chances:** 9 (Aalborg BK) + 9 (Viborg FF) = 18 chances
+
+### Conclusion:
+The most chances were created in the **second half** with a total of 18 chances compared to 10 chances in the first half.",10.558344841003418
+In which zone did Jeppe Grønning have most actions?,"Jeppe Grønning had the most actions in zone 1C. Here is the breakdown of his actions in that zone:
+
+- Successful Pass events: 2 (1', 1')
+- Unsuccessful Pass events: 1 (0')
+- Successful Save events: 1 (87')
+- Successful Clearance events: 1 (29')
+- Unsuccessful Foul events: 1 (90')
+
+Total actions in zone 1C: 6",2.0478708744049072

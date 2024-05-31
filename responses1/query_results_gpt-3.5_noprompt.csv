@@ -1,0 +1,54 @@
+Question,Answer,Response Time (s)
+How many successful passes did each team have?,"Aalborg BK had 333 successful passes.
+Viborg FF had 410 successful passes.",1.0916168689727783
+How many unsuccessful passes were made by each team?,"Aalborg BK made 101 unsuccessful passes.
+Viborg FF made 97 unsuccessful passes.",1.0331861972808838
+Which team had the most offside passes?,Team: Viborg FF had the most offside passes with 2 events.,0.8730638027191162
+How many fouls were committed by each team?,"- Aalborg BK committed 11 fouls.
+- Viborg FF committed 7 fouls.",1.022615909576416
+Which team was awarded the most corners?,Viborg FF was awarded the most corners with a total of 6 successful corner events.,1.4340260028839111
+How many shots did each team have?,"- Aalborg BK had 3 shots.
+- Viborg FF had 5 shots.",1.023327112197876
+Which team created the most chances?,"Based on the data provided, Team Viborg FF created more chances with a total of 410 successful pass events compared to Team Aalborg BK, which had 333 successful pass events. Therefore, Team Viborg FF created the most chances.",1.425091028213501
+What was the result of the match?,The document does not provide information about the result of the match between Aalborg BK and Viborg FF.,1.1365649700164795
+How many successful defensive actions did each team have?,"Aalborg BK had a total of 13 successful defensive actions, while Viborg FF had a total of 31 successful defensive actions.",1.1260619163513184
+Which players had most successful passes between each other?,"For Aalborg BK, the players with the most successful passes between each other are:
+- Milan Makaric and Mathias Ross with 2 successful passes
+- Pedro Ferreira and Iver Fossum with 2 successful passes
+
+For Viborg FF, the players with the most successful passes between each other are:
+- Lucas Lund and Nicolas Bürgy with 2 successful passes
+- Jeppe Grønning and Jakob Bonde with 2 successful passes",2.35703706741333
+Which players scored the goals?,"- For Aalborg BK, the player Anders Hagelskjær scored the goal.
+- For Viborg FF, the players Mads Lauritsen and Tobias Bech scored the goals.",1.2272818088531494
+When was the goals scored?,"- Aalborg BK scored a goal at 76'
+- Viborg FF scored a goal at 42' and 84'",1.2284519672393799
+In which zones were the goals scored for each team?,"- Aalborg BK scored a goal in zone 5C.
+- Viborg FF scored a goal in zone 6C.",1.3231182098388672
+In which zones were the chances created for each team?,"For Aalborg BK, chances were created in zones 1C, 1B, 1E, 2D, 3D, 3A, 4B, 4C, 4D, 5B, 5C, 5D, 5E, 6C, and 6E.
+
+For Viborg FF, chances were created in zones 1C, 1B, 1A, 1E, 2D, 2B, 2C, 3B, 3C, 3D, 4A, 4B, 4C, 4D, 4E, 5A, 5B, 5C, 5D, 5E, 6A, 6B, 6C, and 6D.",3.592587947845459
+Which players created the chances for each team?,"For Aalborg BK:
+- Milan Makaric created chances for Mathias Ross, Malthe Højholt, and Iver Fossum.
+- Louka Prip created a chance for N/A.
+- Iver Fossum created a chance for Milan Makaric.
+- Pedro Ferreira created chances for Iver Fossum and Jakob Ahlmann.
+- Lars Kramer created a chance for Mathias Ross.
+- Josip Posavec created a chance for Mathias Ross.
+
+For Viborg FF:
+- Jeppe Grønning created chances for Jakob Bonde, Christian Sørensen, and Lucas Lund.
+- Lucas Lund created chances for Nicolas Bürgy and Jeppe Grønning.
+- Nicolas Bürgy created a chance for Lucas Lund.
+- Christian Sørensen created a chance for Jakob Bonde.
+- Jakob Bonde created chances for Nicolas Bürgy and Daniel Anyembe.
+- Daniel Anyembe created a chance for Justin Lonwijk.",4.199332237243652
+How many goals were scored in the first half of the match?,"In the first half of the match, there was 1 goal scored by Anders Hagelskjær from Aalborg BK and 1 goal scored by Mads Lauritsen from Viborg FF. So, a total of 2 goals were scored in the first half of the match.",1.6367831230163574
+How many goals were scored in the second half of the match?,"In the second half of the match, a total of 2 goals were scored.",0.9216840267181396
+"In a time period of 15 minutes, when was the most shots taken?","In a time period of 15 minutes, the most shots were taken between the 41st and 55th minute by Viborg FF.",2.561213731765747
+How did Aalborg BK perform?,"Aalborg BK had a total of 333 successful pass events, 101 unsuccessful pass events, 9 successful shot saved events, 32 successful clearance events, 11 successful foul events, 7 unsuccessful foul events, 13 successful interception events, 3 successful corner awarded events, 8 unsuccessful corner awarded events, 9 successful save events, 7 successful tackle events, 6 unsuccessful tackle events, 2 successful card events, 3 successful shot off target events, 1 successful offside pass event, and 1 successful goal event. Overall, Aalborg BK had a decent performance with a good number of successful passes, clearances, interceptions, and saves, but also had some unsuccessful passes, fouls, and tackles. They managed to score a goal and had one offside pass.",3.8750009536743164
+How did Viborg FF perform?,"Viborg FF had a total of 410 successful pass events, 97 unsuccessful pass events, 6 successful tackle events, 4 unsuccessful tackle events, 15 successful clearance events, 9 successful save events, 7 successful interception events, 7 successful foul events, 10 unsuccessful foul events, 6 successful corner awarded events, 3 unsuccessful corner awarded events, 5 successful shot off target events, 2 successful shot on post events, 5 successful card events, 6 successful shot saved events, and 2 successful goal events. Overall, Viborg FF had a strong performance with a high number of successful passes, tackles, clearances, saves, and goals.",2.741492986679077
+Which player was most involved in the events?,"Based on the data provided, Jeppe Grønning from Viborg FF was the most involved player in the events with a total of 507 events (410 successful passes, 97 unsuccessful passes).",1.4710447788238525
+Which player had most shots?,Player Jakob Bonde from Viborg FF had the most shots with a total of 5 shots.,1.3028547763824463
+In which half were the most chances created?,"The most chances created were in the second half, with a total of 215 events compared to 198 events in the first half.",1.1547391414642334
+In which zone did Jeppe Grønning have most actions?,Jeppe Grønning had the most actions in zone 1C with a total of 6 actions.,1.0268020629882812

@@ -1,0 +1,52 @@
+Question,Answer,Response Time (s)
+How many successful passes did each team have?,"- Viborg FF had 10 successful passes.
+- Aalborg BK had 22 successful passes.",1.2549898624420166
+How many unsuccessful passes were made by each team?,"- Aalborg BK: 24 unsuccessful passes
+    - Viborg FF: 12 unsuccessful passes",1.1012849807739258
+Which team had the most offside passes?,Team Aalborg BK had the most offside passes.,1.2522540092468262
+How many fouls were committed by each team?,"- Aalborg BK committed 11 fouls.
+- Viborg FF committed 7 fouls.",1.722615909576416
+Which team was awarded the most corners?,"Based on the provided event data, there is no specific mention of corner kicks being awarded to either team. Therefore, it is not possible to determine which team was awarded the most corners based on the given information.",1.7374563217163086
+How many shots did each team have?,"- Aalborg BK had a total of 3 shots.
+- Viborg FF had a total of 2 shots.",1.4375770092010498
+Which team created the most chances?,"Based on the provided event data, the team that created the most chances (assists) is Team Aalborg BK. This can be determined by counting the number of successful passes that led to shots for each team, as assists are defined as the pass in the event just before a shot. In this case, Team Aalborg BK had more successful passes leading to shots compared to Team Viborg FF.",2.250293016433716
+What was the result of the match?,"The result of the match was a draw as both teams, Aalborg BK and Viborg FF, did not score any goals based on the event data provided.",1.8063442707061768
+How many successful defensive actions did each team have?,"- Aalborg BK had a total of 15 successful defensive actions.
+- Viborg FF had a total of 6 successful defensive actions.",1.369556188583374
+Which players had most successful passes between each other?,"The players with the most successful passes between each other are Pedro Ferreira and Mathias Ross from team Aalborg BK. They have a strong connection on the field, consistently finding each other with successful passes throughout the match.",1.7866311073303223
+Which players scored the goals?,"Based on the provided event data, there is no explicit mention of any goals being scored by specific players. Therefore, it is not possible to determine which players scored the goals from the information given.",1.5915560722351074
+When was the goals scored?,"The goals were scored in the following minutes:
+- Minute 76: Anders Hagelskjær scored for team Aalborg BK.",1.269923210144043
+In which zones were the goals scored for each team?,"- Aalborg BK scored a goal in zone 5C.
+- Viborg FF scored a goal in zone 6C.",1.8051958084106445
+In which zones were the chances created for each team?,"- Chances created for team Aalborg BK were in zones 2B, 1B, 2D, 5E, 6E, 4B, 1E, 2E, 4D, 6E, 1B, 4D, 5E.",3.5819671154022217
+Which players created the chances for each team?,"For team Aalborg BK, the players who created chances are:
+- Pedro Ferreira
+- Mathias Ross
+- Milan Makaric
+- Jakob Ahlmann
+- Josip Posavec
+- Kasper Kusk
+- Lars Kramer
+- Iver Fossum
+- Kristoffer Pallesen
+- Malthe Højholt
+- Allan Sousa
+- Anders Hagelskjær
+
+No chances were created by players from the opposing team as per the provided data.",2.3333239555358887
+How many goals were scored in the first half of the match?,"Based on the event data provided, there was one goal scored in the first half of the match. The goal was scored by Anders Hagelskjær from team Aalborg BK in the 76th minute.",1.763214111328125
+How many goals were scored in the second half of the match?,"There were 2 goals scored in the second half of the match. One goal was scored by Anders Hagelskjær from Aalborg BK in the 76th minute, and the other goal was scored by Mads Lauritsen from Viborg FF in the 42nd minute.",1.867743968963623
+"In a time period of 15 minutes, when was the most shots taken?","In a time period of 15 minutes, the most shots were taken in minute 15.",1.202495813369751
+How did Viborg FF perform?,"Viborg FF had a decent performance based on the provided event data. They had successful passes throughout the match, with players like Daniel Anyembe, Clint Leemans, and Marokhy Ndione actively involved in creating passing opportunities. They also managed to score a goal in the 42nd minute, credited to Mads Lauritsen. Defensively, they had successful clearances and tackles by players like Mads Lauritsen and Jakob Bonde.
+
+Overall, Viborg FF's performance can be considered positive, especially with the goal scored and the successful passing sequences observed during the match.",3.0701658725738525
+How did Aalborg BK perform?,"Aalborg BK performed well in terms of defensive actions, with successful clearances, tackles, and interceptions throughout the match. However, they struggled with successful passes, as there were several unsuccessful pass attempts recorded. In terms of attacking play, Aalborg BK managed to score a goal, indicating some success in creating scoring opportunities. Overall, their performance was decent but could have been more efficient in terms of passing accuracy.",2.358631134033203
+Which player was most involved in the events?,"Based on the provided event data, the player who was most involved in the events was Jakob Ahlmann. He was involved in interceptions, passes, and tackles throughout the match.",1.7392020225524902
+Which player had most shots?,"To determine which player had the most shots, we need to look for events that indicate a shot was taken. In this case, the events that indicate a shot are 'Shot on target', 'Shot on post', 'Shot saved', and 'Goal' in the summaries.
+
+Based on the provided event data, we need to count the number of shots each player took. The player with the highest number of shots will be the one who had the most shots in the match.
+
+Let's analyze the data to find out which player had the most shots.",2.727843999862671
+In which half were the most chances created?,The most chances created were in the second half.,1.0612337589263916
+In which zone did Jeppe Grønning have most actions?,Jeppe Grønning had the most actions in zone 2D with a total of 6 actions.,1.3323490619659424

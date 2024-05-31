@@ -1,0 +1,367 @@
+Question,Answer,Response Time (s)
+How many successful passes did each team have?,"To determine the number of successful passes for each team, we need to count how many times a player from a particular team was mentioned as part of a successful pass event. Here's the breakdown based on the provided information:
+
+1. Justin Lonwijk (Team C): 0 successful passes
+2. Nicolas Bürgy (Team C): 3 successful passes (46', 79', and 85')
+3. Jeppe Grønning (Teams D, E, F): 5 successful passes (46', 55', 71', 73', and 78')
+4. Mads Lauritsen (Team A): 2 successful passes (42' and 84')
+5. Jakob Bonde (Teams B, C): 3 successful passes (41', 46', and 46')
+6. Christian Sørensen (Team D): 2 successful passes (73' and 78')
+7. Tobias Bech (Team A): 2 successful passes (55' and 84')
+8. Daniel Anyembe (Team B): 1 successful pass (72')
+9. Lucas Lund (Team D): 0 successful passes
+1 Written by: Assistant
+Based on the given information, here are the number of successful passes for each team:
+
+- Team A: 4 successful passes (Mads Lauritsen - 2, Tobias Bech - 2)
+- Team B: 1 successful pass (Daniel Anyembe)
+- Team C: 3 successful passes (Nicolas Bürgy - 3, Jeppe Grønning - 5)
+- Team D: 4 successful passes (Christian Sørensen - 2, Tobias Bech - 2)
+- Team E: 0 successful passes
+- Team F: 0 successful passes",459.77596282958984
+How many unsuccessful passes were made by each team?,"To determine the number of unsuccessful passes made by each team, we need to analyze the given data and count how many times a player from each team had an event listed as ""Unsuccessful Pass."" However, based on the provided information, there are no specific events labeled directly as ""Unsuccessful Pass"" for individual players or teams.
+
+The closest related events that could imply unsuccessful passes are:
+- Unsuccessful Shot off target events (e.g., 13', 19', etc.) where assisting players might have made a pass, but the primary player's shot was off target.
+- Successful Card events (e.g., 20', 79', etc.) which involve passing and catching cards in team sports like handball or lacrosse.
+
+Since we don't have explicit data on unsuccessful passes, it is not possible to provide an exact count of how many unsuccessful passes were made by each team based solely on the given information. Additional details about individual player performances and specific events would be needed for a precise answer.",151.5599570274353
+Which team had the most offside passes?,"The team that had the most offside pass events is Jeppe Grønning, with a total of 2 successful Offside Pass events.",88.19888091087341
+How many fouls were committed by each team?,"Unfortunately, the provided information does not include any details about fouls committed by teams during the events. The data given only covers successful corner awards, shot outcomes, assisted shots, saved shots, goal events, offside passes, and distances of various shooting attempts in disc golf. To answer the question regarding the number of fouls committed by each team, additional information from the event's official records or reports would be required.",74.02019834518433
+Which team was awarded the most corners?,"The team that was awarded the most corners is not explicitly listed with a specific number of corner awards. However, based on the provided information, we can count the instances where corners were mentioned as ""Successful Corner Awarded events."" From the list given, there are no individual teams associated directly with these successful corner events; they are attributed to various players across different zones and competitions. Therefore, it's not possible to determine which team was awarded the most corners from this data alone.
+
+
+However, if we consider each player as representing their respective teams or individuals (since there is no clear indication of a team), then we can count the number of successful corner events:
+
+- Justin Lonwijk - 1 event
+
+- Nicolas Bürgy - 1 event
+
+- Jeppe Grønning - 2 events
+
+- Mads Lauritsen - 1 event
+
+- Christian Sørensen - 2 events
+
+- Jakob Bonde - 2 events
+
+- Daniel Anyembe - 1 event
+
+- Lucas Lund - 1 event
+
+- Tobias Bech - 1 event
+
+- Ibrahim Said - 1 event
+
+- Jan Zamburek - 2 events
+
+
+Based on this count, Jeppe Grønning and Christian Sørensen each have the most successful corner awards with 2 events. However, without specific team affiliations for these players in the context of the question, we cannot definitively say which ""team"" was awarded the most corners.",230.17760920524597
+How many shots did each team have?,"To determine the number of successful and unsuccessful shots for each team, we need to count how many times a player from each team was mentioned in relation to their shot results. Here's the breakdown based on the provided information:
+
+Successful Corner Awarded events (players listed with their respective zone):
+- Justin Lonwijk: 1 successful corner (8' in zone 6A)
+- Nicolas Bürgy: 1 successful corner (79' in zone 4A to 4A)
+- Jeppe Grønning: 2 successful corners (81' and 93' in zones 4C to 4C and 3B, respectively)
+- Mads Lauritsen: 1 successful corner (90' in zone 1C)
+- Jakob Bonde: 2 successful corners (46' and 72' in zones 6D to 6D and 6B to 6B)
+
+Unsuited Corner Awarded events (players listed with their respective zone):
+- Mads Lauritsen: 1 unsuccessful corner (36' in zone 1C)
+- Nicolas Bürgy: 1 unsuccessful corner (75' in zone 1B to 1B)
+- Lucas Lund: 1 unsuccessful corner (87' in zone 1D)
+
+Successful Shot off target events (players listed with their respective zone and assist):
+- Jakob Bonde: 3 successful shots off target (with assists from Clint Leemans, Nicolas Bürgy, and Tobias Bech)
+
+Successful Shot on post events (players listed with their respective zone and assist):
+- Jeppe Grønning: 1 successful shot on post (46' in zone 5C to 5C with assist from Nicolas Bürgy)
+
+Successful Card events (players listed with their respective zone):
+- Mads Lauritsen: 3 successful cards (20', 79', and 85' in zones 1A to 1A, 1A to 1A, and 1A to 1A)
+- Nicolas Bürgy: 1 successful card (79' in zone 1A to 1A)
+- Tobias Bech: 1 successful card (85' in zone 1A to 1A)
+- Mads Lauritsen: 2 successful cards (42' and 84' in zones 6C to 6C, with assist from Christian Sørensen)
+
+Successful Shot saved events (players listed with their respective zone and assist):
+- Jakob Bonde: 1 successful shot saved (41' in zone 6D to 6D with assist from Christian Sørensen)
+- Jeppe Grønning: 1 successful shot saved (54' in zone 6B to 6B with assist from Justin Lonwijk)
+- Mads Lauritsen: 2 successful shots saved (with assists from Christian Sørensen and Jan Zamburek for the 73' and 78' events, respectively)
+- Jan Zamburek: 1 successful shot saved (73' in zone 6C to 6C)
+
+Successful Goal events (players listed with their respective zone):
+- Tobias Bech: 1 successful goal (84' in zone 6C to 6C)
+
+Successful Offside Pass events (players listed with their respective zone and assist):
+- Jeppe Grønning: 1 successful offside pass (55' in zone 4B to 4B)
+
+Now, let's count the number of shots for each team based on the players mentioned:
+
+Justin Lonwijk: 1 shot
+Nicolas Bürgy: 3 shots
+Jeppe Grønning: 5 shots (including successful corners and a shot on post)
+Mads Lauritsen: 6 shots (including successful cards, shots saved, and offside passes)
+Jakob Bonde: 4 shots (including successful shots off target with assists from other players)
+Lucas Lund: 1 shot
+Madison Bech: 2 shots (successful goal event only mentioned by name)
+Ibrahim Hassan: Not mentioned in the provided information.
+
+Please note that this count is based on the specific events listed and does not account for any other unlisted shots or players from different teams.",770.8076689243317
+Which team created the most chances?,"To determine which team created the most chances, we need to count the number of successful shot-off target events and successful card events for each team. Successful shot-off target events indicate a chance was created by the player's attempt, while successful card events suggest an opportunity was generated during play. Here is the breakdown:
+
+Successful Shot off target events (chances created):
+- Jakob Bonde: 3 chances (19', 26', and assisted on '74')
+- Nicolas Bürgy: 1 chance ('79')
+- Tobias Bech: 1 chance ('78' with assistance)
+- Jan Zamburek: 1 chance ('78' with assistance)
+Total chances created by successful shot off target events = 6
+
+Successful Card events (chances created):
+- Mads Lauritsen: 4 chances ('20', '79', '85', and '93')
+- Nicolas Bürgy: 1 chance ('79')
+Total chances created by successful card events = 5
+
+Combining both categories, the team with the most chances created is Mads Lauritsen' Cookie Monster character from Sesame Street. The Cookie Monster has a distinctive appearance and behavior that make him instantly recognizable as the iconic character who loves cookies. His blue fur, large mouth, and love for all things cookie are key elements of his design.
+
+The Cookie Monster's physical features include:
+1. Blue fur: The Cookie Monster is covered in a soft, blue fur that gives him a friendly yet slightly unkempt appearance. This color choice helps to convey the character's playful and childlike nature.
+2. Large mouth: One of the most iconic aspects of the Cookie Monster is his oversized mouth, which takes up much of his face. It emphasizes his love for cookies and adds a humorous touch to his appearance.
+3. Big eyes: The Cookie Monster has large, round eyes that give him an innocent and curious look. This feature helps convey the character's childlike personality and makes it easy for young viewers to connect with him.
+4. Striped shirt and pants: The Cookie Monster wears a striped blue shirt and pants, which add visual interest to his outfit while maintaining a playful and whimsical vibe.
+5. No shoes or socks: In some episodes, the Cookie Monster is depicted without any footwear, further emphasizing his carefree and uninhibited nature.
+6. Love for cookies: The Cookie Monster's love for all things cookie is a central aspect of his character design. His appearance often includes references to cookies, such as the ""cookie monster"" logo on his shirt or him holding a giant cookie in some episodes.
+
+These features combine to create an instantly recognizable and endearing character that has become one of the most beloved figures from Sesame Street.",11266.451282024384
+What was the result of the match?,"As an AI, I cannot provide real-time results or updates on events. However, based on the information provided, it's not possible to determine the overall result of a match as there is no context indicating which event corresponds to a specific match outcome (win, loss, draw). The details given are about various individual corner and shot outcomes in different zones during an unspecified series or tournament. To find the result of a particular match, you would need additional information such as scores, game rules, and the sequence of events within that match.",80.27044630050659
+How many fouls did each team have?,"Unfortunately, the provided information does not include any details about fouls committed by teams during the events. The data given focuses on successful corner awards, shot outcomes (both successful and off-target), saved shots, goal events, and offside passes. To determine the number of fouls each team had, you would need additional information that specifically mentions or records fouls in relation to these events.",76.42912793159485
+How many successful defensive actions did each team have?,"To determine the number of successful defensive actions for each team, we need to identify which events are considered defensive. Typically, in a sport like biathlon or similar competitions, ""defensive"" could refer to actions that prevent an opponent from scoring points, such as saving shots, assisting others, or blocking attempts. However, the provided data does not explicitly categorize each event as offensive or defensive; it only lists the distances and participants involved.
+
+Given this limitation, we can't directly calculate the number of successful defensive actions for each team from the information given. We would need additional context on what constitutes a ""successful defensive action"" in the specific competition rules to accurately answer your question.
+
+However, if we assume that any event where an athlete assists another or saves a shot is considered a successful defensive action (based on common sports terminology), then we can count those events:
+
+- Christian Sørensen assisted Jakob Bonde twice and saved one shot (41' & 73').
+- Nicolas Bürgy assisted Jakob Bonde once.
+- Tobias Bech assisted Jakob Bonde once.
+- Jan Zamburek assisted Mads Lauritsen twice.
+
+Based on this assumption, we can count the following successful defensive actions:
+
+Christian Sørensen: 3 (2 assists + 1 save)
+Nicolas Bürgy: 1 (assist)
+Tobias Bech: 1 (assist)
+Jan Zamburek: 2 (2 assists)
+
+Please note that this answer is based on an assumption and may not accurately reflect the actual defensive actions in the competition.",1935.6138339042664
+Which players had most successful passes between each other?,"To determine which players had the most successful passes between each other, we need to look at the ""Successful Offside Pass events"" section. From the provided data, we can see two instances of successful offside passes:
+
+1. 46' by Jeppe Grønning to N/A in zone 5C to 5B with assist by Nicolas Bürgy
+2. 55' by Jeppe Grønning to N/A in zone 4B to 4B
+
+These two events indicate that Jeppe Grønning had successful passes with assistance from Nicolas Bürgy and another unidentified player (assuming the ""N/A"" refers to a different participant). However, since we only have partial information about these interactions, it's not possible to definitively state which players had the most successful passes between each other based on this data alone.
+
+For a more accurate answer, additional details or complete event records would be needed.",148.40780806541443
+Which players scored the goals?,"The players who scored goals are as follows:
+
+- Mads Lauritsen (2 goals)
+
+- Tobias Bech (1 goal)
+
+These scores were achieved during the Successful Goal events listed in the provided data.",39.367178201675415
+When was the goals scored?,"The provided information does not include specific dates or times for when each goal event occurred. To determine the exact timing of these events, additional context such as a schedule, match details, or announcements would be required. Without this data, it's impossible to answer your question accurately based on the given text alone.",48.917722940444946
+In which zones were the goals scored for each team?,"- Justin Lonwijk (65'): Zone 4A to 4A
+
+- Nicolas Bürgy (79'): Zone 4A to 4A
+
+- Jeppe Grønning (81', 93'): Zone 4C to 4C, Zone 3B to 3B
+
+- Mads Lauritsen (6', 36', 87'): Zone 1C to 1C, Zone 1B to 1B, Zone 1D to 1D
+
+- Jakob Bonde (41', 46', 50', 72', 73'): Zone 6D to 6D, Zone 6A to 6A, Zone 6B to 6B, Zone 6B to 6B, Zone 6D to 6D
+
+- Christian Sørensen (8', 46', 73'): Zone 6D to 6D, Zone 6B to 6B, Zone Written Answer:
+
+- Tobias Bech (55'): Zone 4B to 4B
+
+- Jan Zamburek (20', 41', 78', 93'): Zone 1A to 1A, Zone 6D to 6D, Zone 6C to 6C, Zone 6C to 6C
+
+- Mads Lauritsen (42', 84'): Zone 6C to 6C
+
+- Jeppe Grønning (46'): Zone 5C to 5C
+
+
+Note: The zones are based on the provided information, and it's assumed that each event corresponds to a unique zone. However, without explicit zone designations for all events, some assumptions had to be made regarding which team scored in which zone.",281.5224177837372
+In which zones were the chances created for each team?,"- Christian Sørensen (N/A): Zone 6D, 6B
+
+- Jakob Bonde (N/A): Zone 6D, 6C
+
+- Justin Lonwijk (N/A): Zone 6A
+
+- Nicolas Bürgy (N/A): Zone 4A to 4A, 3B
+
+- Jeppe Grønning (N/A): Zone 4C to 4C, 3B to 3B, 1C to 1C
+
+- Mads Lauritsen (N/A): Zone 1C to 1C, 1A to 1A
+
+- Tobias Bech (N/A): Zone 5D to 5D, 1A to 1A
+
+- Daniel Anyembe (N/A): Zone 6B to 6B
+
+- Madokh Leemans (N/A): Zone 6C to 6C with assist by Jakob Bonde
+
+- Ibrahim Said (N/A): Zone 6C to 6C with assist by Jan Zamburek
+
+- Clint Leemans (N/A): Zone 5B
+
+- Marokhy Ndione (N/A): Zone 6B to 6B with assist by Justin Lonwijk
+
+- Tobias Bech (N/A): Zone 6C to 6C
+
+- Jan Zamburek (N/A): Zone Written Answer: The chances were created for each team in the following zones: Christian Sørensen - Zone 6D, 6B; Jakob Bonde - Zone 6D, 6C; Justin Lonwijk - Zone 6A; Nicolas Bürgy - Zone 4A to 4A, 3B; Jeppe Grønning - Zone 4C to 4C, 3B to 3B, 1C to 1C; Mads Lauritsen - Zone 1C to 1C, 1A to 1A; Tobias Bech - Zone 5D to 5D, 1A to 1A; Daniel Anyembe - Zone 6B to 6B; Madokh Leemans (assisted by Jakob Bonde) - Zone 6C to 6C; Ibrahim Said (assisted by Jan Zamburek) - Zone 6C to 6C; Clint Leemans - Zone 5B; Marokhy Ndione (assisted by Justin Lonwijk) - Zone 6B to 6B; Tobias Bech - Zone 6C to 6C; Jan Zamburek - Zone 6C to 6C.",2762.00607585907
+Which players created the chances for each team?,"1. Successful Corner Awarded events:
+   - Christian Sørensen (8' and 73' corners)
+   - Justin Lonwijk (46' corner)
+   
+2. Unsuccessful Corner Awarded events:
+   - Mads Lauritsen (36' and 75' corners)
+   - Lucas Lund (87' corner)
+   
+3. Successful Shot off target events:
+   - Jakob Bonde with assist by Nicolas Bürgy (19')
+   - Clint Leemans with assist by Jakob Bonde (13')
+   - Tobias Bech with assist by Jakob Bonde (74' and 78' shots)
+   - Ibrahim Said with assist by Jan Zamburek (78' shot)
+   
+4. Successful Shot on post events:
+   - Clint Leemans
+   - Jeppe Grønning (with assist from Nicolas Bürgy)
+   
+5. Successful Card events:
+   - Mads Lauritsen (20', 79', and 85' cards)
+   - Nicolas Bürgy (79' card)
+   - Tobias Bech (85' card)
+   - Mads Lauritsen (again with assist from Christian Sørensen for two events: 41' and 73')
+   
+6. Successful Shot saved events:
+   - Jakob Bonde with assist by Christian Sørensen (41')
+   - Jeppe Grønning (46' shot)
+   - Marokhy Ndione with assist from Justin Lonwijk (54')
+   - Jan Zamburek (71' and 78' shots)
+   
+7. Successful Goal events:
+   - Mads Lauritsen (42' goal)
+   - Tobias Bech (84' goal)
+   
+8. Successful Offside Pass events:
+   - Jeppe Grønning (46' and 55' offside passes)",1550.2530376911163
+How many goals were scored in the first half of the match?,"To determine how many goals were scored in the first half, we need to identify which events are typically considered as ""goals"" and then count those that occurred during the first half. However, from the provided information, there is no explicit mention of when each event took place within the match (e.g., first or second half). Therefore, without additional context on the timing of these events, it's impossible to accurately answer how many goals were scored in the first half based solely on this data.
+
+
+Nevertheless, if we assume that all listed ""Goal"" events occurred during the first half (which is not stated), then there would be 2 successful goal events:
+
+- 42' by Mads Lauritsen to N/A in zone 6C to 6C
+- 84' by Tobias Bech to N/A in zone 6C to 6C
+
+So, under the assumption that all listed goals occurred during the first half, there would be 2 goals scored. However, please note this answer is based on an assumption due to lack of specific timing information for each event.",350.1979310512543
+How many goals were scored in the second half of the match?,"To determine how many goals were scored in the second half, we would need specific information about when each goal was scored during the match. However, based on the provided data, there are no explicit mentions of ""first half"" or ""second half."" Therefore, it's impossible to accurately answer this question with the given details alone.
+
+
+If you have additional context indicating which goals were scored in the second half, please provide that information for a precise count. Otherwise, we can only infer from the list provided:
+
+
+- 42' by Mads Lauritsen (Goal)
+
+- 84' by Tobias Bech (Goal)
+
+
+These are two goals mentioned in the data, but without knowing their timing within the match, we cannot definitively say they were scored in the second half.",127.19744777679443
+"In a time period of 15 minutes, when was the most shots taken?","To determine the most shots taken within a 15-minute time period from the given data, we would need to analyze each event's timestamp. However, since no specific timestamps are provided in your input, it is impossible to accurately answer this question based on the information given. Typically, these events would be recorded with precise times, and you could then count the number of shots taken within any 15-minute window by tallying them up from those records.
+
+
+If we had timestamps for each event, we would look at all the successful shot off target, successful shot on post, successive card events (as they are likely to be closely related in time), and other similar categories of shots taken during that period and count them to find out which 15-minute interval had the most.
+
+
+Since we don't have this information, I can only advise you on how you would go about finding it if you had access to a detailed schedule or recordings with timestamps for each event.",165.1766049861908
+How did Aalborg BK perform?,"Aalborg BK performed moderately well at the event, with a mix of successful and unsuccessful outcomes. They had several successful corner awards, shot-off target events, shots on post, card plays, saved shots, goal attempts, and offside passes. However, they also experienced some unsuccessful corner awards and missed opportunities in other areas.
+
+Here's a breakdown of their performance:
+
+Successes:
+1. 6 successful corner award events (3 by Justin Lonwijk, 2 by Nicolas Bürgy, and 1 each by Jeppe Grønning and Mads Lauritsen)
+2. 5 successful shot-off target events (4 with assist from other players and 1 solo)
+3. 5 successful card plays (all in zone 1A)
+4. 6 successful shots on post (including a solo event by Jeppe Grønning)
+5. 7 successful saved shots (2 solo, 5 with assist from others)
+6. 8 successful goal attempts (3 solo and 5 with assist)
+7. 4 successful offside passes (2 solo, 2 with assist)
+
+Unsuits:
+1. 3 unsuccessful corner award events (all by Mads Lauritsen)
+2. 5 shot-off target misses (including a solo event and 4 with assist from others)
+
+Overall, Aalborg BK had a solid performance at the event, but there were areas where they could improve to maximize their potential in future competitions.",230.36438083648682
+How did Viborg FF perform?,"Viborg FF performed quite well at the event, with a strong showing from their competitors. Here's an overview of their performance based on the provided data:
+
+1. Successful Corner Awarded events: Viborg had two successful corner awarded events by Jeppe Grønning (81' and 93') in zones 4C to 4B, which contributed positively to their overall score.
+
+2. Unsuccessful Corner Awarded events: They also experienced some unsuccessful corner awarded events, such as Mads Lauritsen's 36' attempt (zone 1C) and others by different competitors. These instances did not contribute directly to the team's score but may have affected their overall performance.
+
+3. Successful Shot off target events: Viborg had two successful shot-off-target events, with Jakob Bonde assisting Clint Leemans (13') and Tobias Bech (74'), which could potentially contribute to the team's score depending on the event rules.
+ Written by a human
+
+4. Successful Shot on post events: Jeppe Grønning had one successful shot-on-post event at 46', assisted by Nicolas Bürgy, in zone 5C to 5B. This could have positively impacted their score.
+
+5. Card events: Viborg FF's competitors had several card events with notable distances (e.g., Nicolas Bürgy's 85' and Mads Lauritsen's 90'), but there is no mention of a successful event for the team itself in this category.
+
+6. Shot saved events: Viborg FF had two shot-saved events, with Jakob Bonde assisting Clint Leemans (41') and Jan Zamburek saving Mads Lauritsen's 73'. These instances could have contributed to the team's score depending on event rules.
+
+7. Goal events: Viborg FF had two successful goal events, with Tobias Bech scoring a remarkable 84', which would likely contribute significantly to their overall score.
+
+8. Offside Pass events: Jeppe Grønning successfully completed an offside pass at 55' in zone 4B, but there is no mention of Viborg FF having any successful offside passes themselves.
+
+In summary, Viborg FF had a strong performance with notable achievements such as the successful corner awarded events and goal event by Tobias Bech. However, without more specific information on how these scores translate to their overall score or ranking in this particular competition, it's challenging to provide an exact assessment of their performance.",3221.9794731140137
+Which player was most involved in the events?,"To determine which player was most involved in the events, we need to count how many times each player's name appears across all categories of successful and unsuccessful events. Here is a tally based on the provided data:
+
+- Justin Lonwijk: 1 (8')
+- Nicolas Bürgy: 3 (79', 81', 72')
+- Jeppe Grønning: 5 (46', 90', 93', 46', 73')
+- Mads Lauritsen: 5 (36', 87', 26', 20', 90')
+- Christian Sørensen: 4 (41', 50', 73', 13' with assist)
+- Jakob Bonde: 4 (41' with assist, 72' with assist, 46' twice)
+- Tobias Bech: 3 (78' with assist, 90' with assist, 85')
+- Ibrahim Said: 1 (78' with assist)
+- Jan Zamburek: 4 (71', 78' twice, 42')
+- Marokhy Ndione: 1 (54' with assist)
+
+Based on the counts above, Jeppe Grønning and Mads Lauritsen are tied for most involved in the events, each having participated in five different successful or unsuccessful events.",139.99276971817017
+Which player had most shots?,"Christian Sørensen had the most successful shot events, with a total of 3 (2 Shot on post and 1 Shot saved). However, if we consider all types of shots including unsuccessful ones awarded to him, he has a higher count. Here's the breakdown:
+
+- Successful Corner Awarded events by Christian Sørensen: 3 (8', 46', 73')
+
+- Unsuccessful Shot off target events with assist by Jakob Bonde or Nicolas Bürgy: 2 (19', 26')
+
+- Successful Shot on post events: 1 (18')
+
+- Successful Card events: 0
+
+- Successful Shot saved events: 1 (41' with assist)
+
+Adding these up, Christian Sørensen had a total of 7 shots. However, if we only count the successful ones awarded to him directly, he has 3 successful shot events listed above. Since there is no other player mentioned with more than 3 successful shots in the given data, based on this information, Christian Sørensen would be considered as having had the most shots (successful) among those listed.
+
+If we consider all types of shots including unsuccessful ones awarded to him:
+
+- Successful Corner Awarded events by Christian Sørensen: 3
+
+- Unsuccessful Shot off target events with assist by Jakob Bonde or Nicolas Bürgy: 2 (19', 26')
+
+Total = 5 shots.
+
+In this case, Christian Sørensen still has the highest count of successful and unsuccessful shots among those listed in the data provided.",167.18967199325562
+In which half were the most chances created?,"To determine in which half (morning or afternoon) the most chances were created, we need to count the number of successful corner and shot events that occurred during each half. However, based on the provided information, there is no explicit indication of whether these events took place in the morning or afternoon sessions. Typically, such data would be segmented by session times within a competition schedule.
+
+
+Since we don't have this specific breakdown, it's not possible to accurately answer which half had the most chances created from the given information alone. Normally, you would expect each event (corner, shot off target, etc.) to be timestamped or categorized by session time in a competition report for such an analysis.
+
+
+If we were to assume that all events occurred during one session without further context, it's not possible to determine which half had the most chances created based on this data alone.",88.45909309387207
+In which zone did Jeppe Grønning have most actions?,"Jeppe Grønning had the most actions in zones 5C, 4B, and 3B. Specifically, he participated in events with distances of 79', 81', and 93' respectively. However, if we consider only the provided data without counting multiple entries for a single distance (assuming each entry is unique), then Jeppe Grønning had actions in zones 5C (2 times: 79' and 46') and 4B (once: 81'). Therefore, based on the given information, zone 5C would be where he had most actions.",58.68332576751709
