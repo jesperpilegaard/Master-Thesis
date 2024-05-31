@@ -1,0 +1,669 @@
+Question,Answer,Response Time (s)
+How many successful passes did each team have?,"Based on the provided event data, here is the count of successful passes for each team:
+
+- **Viborg FF**: 27 successful passes
+- **Aalborg BK**: 78 successful passes
+
+This count is derived by tallying all the events labeled as ""Pass: successful"" for each respective team.",2.675215244293213
+How many unsuccessful passes were made by each team?,"Based on the event data provided, here is the count of unsuccessful passes made by each team:
+
+- **Aalborg BK**: 85 unsuccessful passes
+- **Viborg FF**: 61 unsuccessful passes",2.151625871658325
+Which team had the most offside passes?,"To determine which team had the most offside passes, we need to count the number of unsuccessful passes for each team. Based on the provided event data, here is the count of unsuccessful passes for each team:
+
+### Aalborg BK:
+1. Minute 71 - Oliver Ross
+2. Minute 57 - Iver Fossum
+3. Minute 88 - Oliver Ross
+4. Minute 68 - Iver Fossum
+5. Minute 93 - Anosike Ementa
+6. Minute 85 - Iver Fossum
+7. Minute 22 - Josip Posavec
+8. Minute 3 - Josip Posavec
+9. Minute 26 - Josip Posavec
+10. Minute 47 - Mathias Ross
+11. Minute 75 - Anosike Ementa
+12. Minute 4 - Milan Makaric
+13. Minute 95 - Iver Fossum
+14. Minute 29 - Louka Prip
+15. Minute 80 - Oliver Ross
+16. Minute 47 - Allan Sousa
+17. Minute 82 - Allan Sousa
+18. Minute 93 - Oliver Ross
+19. Minute 10 - Iver Fossum
+20. Minute 45 - Iver Fossum
+21. Minute 15 - Mathias Ross
+22. Minute 1 - Josip Posavec
+23. Minute 52 - Louka Prip
+24. Minute 2 - Allan Sousa
+25. Minute 77 - Kristoffer Pallesen
+26. Minute 66 - Anders Hagelskjær
+27. Minute 88 - Anosike Ementa
+28. Minute 78 - Lucas Andersen
+29. Minute 48 - Malthe Højholt
+30. Minute 6 - Louka Prip
+31. Minute 82 - Jakob Ahlmann
+32. Minute 57 - Anders Hagelskjær
+33. Minute 2 - Jakob Ahlmann
+34. Minute 75 - Jakob Ahlmann
+35. Minute 82 - Kristoffer Pallesen
+
+### Viborg FF:
+1. Minute 86 - Ibrahim Said
+2. Minute 78 - Christian Sørensen
+3. Minute 78 - Christian Sørensen
+4. Minute 48 - Marokhy Ndione
+5. Minute 9 - Christian Sørensen
+
+### Summary:
+- **Aalborg BK**: 35 unsuccessful passes
+- **Viborg FF**: 5 unsuccessful passes
+
+Based on the counts, **Aalborg BK** had the most offside passes with a total of 35 unsuccessful passes.",10.863253116607666
+How many fouls were committed by each team?,"Based on the provided event data, here is the count of fouls committed by each team:
+
+### Aalborg BK:
+1. Foul: successful minute 44 Iver Fossum
+2. Foul: unsuccessful minute 16 Louka Prip
+3. Foul: unsuccessful minute 80 Allan Sousa
+4. Foul: unsuccessful minute 17 Malthe Højholt
+5. Foul: successful minute 79 Anosike Ementa
+6. Foul: successful minute 27 Milan Makaric
+7. Foul: unsuccessful minute 17 Malthe Højholt
+8. Foul: successful minute 90 Iver Fossum
+9. Foul: successful minute 93 Anosike Ementa
+10. Foul: successful minute 81 Anosike Ementa
+11. Foul: unsuccessful minute 24 Malthe Højholt
+12. Foul: unsuccessful minute 22 Malthe Højholt
+13. Foul: successful minute 2 Milan Makaric
+14. Foul: unsuccessful minute 35 Jakob Ahlmann
+15. Foul: successful minute 60 Pedro Ferreira
+16. Foul: successful minute 65 Lucas Andersen
+17. Foul: unsuccessful minute 87 Anders Hagelskjær
+
+Total fouls committed by Aalborg BK: **17**
+
+### Viborg FF:
+1. Foul: unsuccessful minute 79 Nicolas Bürgy
+2. Foul: successful minute 80 Daniel Anyembe
+3. Foul: successful minute 35 Justin Lonwijk
+4. Foul: successful minute 17 Marokhy Ndione
+5. Foul: successful minute 16 Daniel Anyembe
+6. Foul: successful minute 24 Jakob Bonde
+7. Foul: successful minute 22 Marokhy Ndione
+8. Foul: unsuccessful minute 20 Mads Lauritsen
+9. Foul: unsuccessful minute 27 Mads Lauritsen
+10. Foul: unsuccessful minute 2 Nicolas Bürgy
+11. Foul: unsuccessful minute 44 Jeppe Grønning
+12. Foul: unsuccessful minute 62 Mads Lauritsen
+13. Foul: unsuccessful minute 81 Jeppe Grønning
+14. Foul: successful minute 87 Jeppe Grønning
+15. Foul: unsuccessful minute 93 Jeppe Grønning
+
+Total fouls committed by Viborg FF: **15**
+
+In summary:
+- **Aalborg BK** committed 17 fouls.
+- **Viborg FF** committed 15 fouls.",11.963937044143677
+Which team was awarded the most corners?,"The provided event data does not include any information about corners. Therefore, I cannot determine which team was awarded the most corners based on the given data. If you have any other queries or need analysis on different aspects of the match, please let me know!",2.9859111309051514
+How many shots did each team have?,"To determine the number of shots each team had, we need to count the events identified as 'Shot on target', 'Shot on post', 'Shot saved', and 'Goal'. Here are the relevant events from the provided data:
+
+1. **Goal: successful minute 84 Tobias Bech zone 6C N/A zone 6C team Viborg FF**
+2. **Goal: successful minute 76 Anders Hagelskjær zone 5C N/A zone 5C team Aalborg BK**
+
+From the provided data, we have the following shot events:
+
+- **Viborg FF**: 1 shot (Goal by Tobias Bech)
+- **Aalborg BK**: 1 shot (Goal by Anders Hagelskjær)
+
+Therefore, each team had 1 shot.",4.097947120666504
+Which team created the most chances?,"To determine which team created the most chances, we need to count the number of assists for each team. An assist is defined as the pass in the event just before a shot.
+
+Let's identify all the shot events and the passes immediately preceding them:
+
+1. **Shot Events:**
+   - Save: minute 46 Milan Makaric (Aalborg BK)
+   - Save: minute 54 Pedro Ferreira (Aalborg BK)
+   - Save: minute 26 Josip Posavec (Aalborg BK)
+   - Save: minute 11 Josip Posavec (Aalborg BK)
+   - Save: minute 41 Josip Posavec (Aalborg BK)
+   - Goal: minute 76 Anders Hagelskjær (Aalborg BK)
+   - Save: minute 78 Josip Posavec (Aalborg BK)
+   - Save: minute 62 Josip Posavec (Aalborg BK)
+   - Goal: minute 84 Tobias Bech (Viborg FF)
+   - Save: minute 71 Anders Hagelskjær (Aalborg BK)
+   - Save: minute 92 Lucas Lund (Viborg FF)
+   - Save: minute 94 Lucas Lund (Viborg FF)
+   - Save: minute 5 Lucas Lund (Viborg FF)
+   - Save: minute 49 Lucas Lund (Viborg FF)
+   - Save: minute 40 Lucas Lund (Viborg FF)
+   - Save: minute 65 Lucas Lund (Viborg FF)
+
+2. **Passes Immediately Before Shots:**
+   - Minute 46: No preceding pass recorded.
+   - Minute 54: No preceding pass recorded.
+   - Minute 26: No preceding pass recorded.
+   - Minute 11: No preceding pass recorded.
+   - Minute 41: No preceding pass recorded.
+   - Minute 76: No preceding pass recorded.
+   - Minute 78: No preceding pass recorded.
+   - Minute 62: No preceding pass recorded.
+   - Minute 84: No preceding pass recorded.
+   - Minute 71: No preceding pass recorded.
+   - Minute 92: No preceding pass recorded.
+   - Minute 94: No preceding pass recorded.
+   - Minute 5: No preceding pass recorded.
+   - Minute 49: No preceding pass recorded.
+   - Minute 40: No preceding pass recorded.
+   - Minute 65: No preceding pass recorded.
+
+From the data provided, there are no explicit passes recorded immediately before the shot events. Therefore, based on the available data, we cannot determine any assists or chances created for either team.
+
+**Conclusion:**
+Based on the provided event data, neither Aalborg BK nor Viborg FF created any explicit chances (assists) as there are no recorded passes immediately preceding the shot events.",15.358644008636475
+What was the result of the match?,"To determine the result of the match, we need to count the number of goals scored by each team. Based on the provided event data, we have the following goal events:
+
+1. **Goal: successful minute 76 Anders Hagelskjær zone 5C N/A zone 5C team Aalborg BK**
+
+From this data, we can see that only Aalborg BK scored a goal. There are no goal events recorded for Viborg FF.
+
+Therefore, the result of the match is:
+- **Aalborg BK: 1 goal**
+- **Viborg FF: 0 goals**
+
+**Aalborg BK won the match.**",4.197764158248901
+How many successful defensive actions did each team have?,"To determine the number of successful defensive actions for each team, we need to count the events labeled as ""Interception,"" ""Tackle,"" and ""Clearance"" that are marked as successful. Here is the breakdown:
+
+### Aalborg BK
+- **Interceptions:**
+  - Mathias Ross (minute 52, zone 2C)
+  - Jakob Ahlmann (minute 81, zone 2D)
+  - Anders Hagelskjær (minute 71, zone 2D)
+  - Jakob Ahlmann (minute 84, zone 4E)
+  - Jakob Ahlmann (minute 61, zone 4E)
+  - Anders Hagelskjær (minute 93, zone 5E)
+  - Louka Prip (minute 52, zone 1E)
+  - Lars Kramer (minute 48, zone 3C)
+  - Jakob Ahlmann (minute 6, zone 3D)
+  - Malthe Højholt (minute 70, zone 3C)
+  - Pedro Ferreira (minute 58, zone 2D)
+  - Pedro Ferreira (minute 49, zone 5B)
+  - Pedro Ferreira (minute 26, zone 1C)
+
+- **Tackles:**
+  - Lucas Andersen (minute 81, zone 2D)
+  - Anders Hagelskjær (minute 83, zone 4D)
+  - Jakob Ahlmann (minute 32, zone 5E)
+  - Allan Sousa (minute 29, zone 4C)
+  - Lars Kramer (minute 66, zone 4B)
+  - Allan Sousa (minute 30, zone 2C)
+  - Pedro Ferreira (minute 28, zone 2B)
+
+- **Clearances:**
+  - Jakob Ahlmann (minute 18, zone 1D)
+  - Jakob Ahlmann (minute 78, zone 1D)
+  - Jakob Ahlmann (minute 46, zone 1D)
+  - Jakob Ahlmann (minute 62, zone 1C)
+  - Jakob Ahlmann (minute 73, zone 1D)
+  - Jakob Ahlmann (minute 9, zone 1C)
+  - Jakob Ahlmann (minute 44, zone 1C)
+  - Kristoffer Pallesen (minute 9, zone 1C)
+
+**Total Successful Defensive Actions for Aalborg BK:**
+- Interceptions: 13
+- Tackles: 7
+- Clearances: 8
+- **Total: 28**
+
+### Viborg FF
+- **Interceptions:**
+  - Mads Lauritsen (minute 38, zone 4E)
+  - Mads Lauritsen (minute 2, zone 5D)
+  - Daniel Anyembe (minute 93, zone 2B)
+  - Jeppe Grønning (minute 43, zone 4B)
+  - Nicolas Bürgy (minute 60, zone 4B)
+  - Justin Lonwijk (minute 32, zone 2A)
+  - Daniel Anyembe (minute 93, zone 1A)
+
+- **Tackles:**
+  - Jeppe Grønning (minute 51, zone 4E)
+  - Christian Sørensen (minute 86, zone 1E)
+  - Mads Lauritsen (minute 0, zone 1C)
+  - Jeppe Grønning (minute 74, zone 4B)
+  - Nicolas Bürgy (minute 0, zone 1B)
+  - Jeppe Grønning (minute 29, zone 2C)
+  - Jeppe Grønning (minute 66, zone 3D)
+
+- **Clearances:**
+  - Mads Lauritsen (minute 82, zone 1D)
+  - Mads Lauritsen (minute 34, zone 1D)
+
+**Total Successful Defensive Actions for Viborg FF:**
+- Interceptions: 7
+- Tackles: 7
+- Clearances: 2
+- **Total: 16**
+
+### Summary
+- **Aalborg BK:** 28 successful defensive actions
+- **Viborg FF:** 16 successful defensive actions",17.716551065444946
+Which players had most successful passes between each other?,"To determine which players had the most successful passes between each other, we need to count the number of successful passes for each pair of players. Here is the analysis based on the provided event data:
+
+1. **Pedro Ferreira and Mathias Ross**:
+   - Minute 33: Pedro Ferreira to Mathias Ross
+   - Minute 40: Pedro Ferreira to Mathias Ross
+   - Minute 30: Pedro Ferreira to Mathias Ross
+   - Minute 3: Pedro Ferreira to Mathias Ross
+   - Minute 53: Pedro Ferreira to Mathias Ross
+   - Minute 22: Mathias Ross to Pedro Ferreira
+   - Minute 28: Mathias Ross to Pedro Ferreira
+   - Minute 22: Mathias Ross to Pedro Ferreira
+   - Minute 53: Mathias Ross to Pedro Ferreira
+   - Minute 15: Mathias Ross to Pedro Ferreira
+
+   Total: **10 successful passes**
+
+2. **Pedro Ferreira and Jakob Ahlmann**:
+   - Minute 64: Pedro Ferreira to Jakob Ahlmann
+   - Minute 33: Pedro Ferreira to Jakob Ahlmann
+   - Minute 43: Pedro Ferreira to Jakob Ahlmann
+   - Minute 93: Kasper Kusk to Jakob Ahlmann
+   - Minute 93: Oliver Ross to Jakob Ahlmann
+   - Minute 64: Jakob Ahlmann to Pedro Ferreira
+   - Minute 6: Jakob Ahlmann to Pedro Ferreira
+   - Minute 25: Jakob Ahlmann to Pedro Ferreira
+   - Minute 43: Jakob Ahlmann to Pedro Ferreira
+   - Minute 94: Lucas Andersen to Jakob Ahlmann
+
+   Total: **10 successful passes**
+
+3. **Pedro Ferreira and Lars Kramer**:
+   - Minute 23: Pedro Ferreira to Lars Kramer
+   - Minute 25: Pedro Ferreira to Lars Kramer
+   - Minute 2: Pedro Ferreira to Lars Kramer
+   - Minute 32: Pedro Ferreira to Lars Kramer
+   - Minute 7: Pedro Ferreira to Lars Kramer
+   - Minute 33: Lars Kramer to Pedro Ferreira
+   - Minute 40: Lars Kramer to Pedro Ferreira
+   - Minute 22: Lars Kramer to Pedro Ferreira
+   - Minute 59: Kristoffer Pallesen to Lars Kramer
+   - Minute 10: Lars Kramer to Mathias Ross
+
+   Total: **10 successful passes**
+
+4. **Pedro Ferreira and Iver Fossum**:
+   - Minute 49: Pedro Ferreira to Iver Fossum
+   - Minute 32: Pedro Ferreira to Iver Fossum
+   - Minute 0: Pedro Ferreira to Iver Fossum
+   - Minute 59: Iver Fossum to Pedro Ferreira
+   - Minute 10: Louka Prip to Iver Fossum
+   - Minute 60: Iver Fossum to Jakob Ahlmann
+   - Minute 48: Jakob Ahlmann to Louka Prip
+   - Minute 47: Louka Prip to Iver Fossum
+   - Minute 48: Mathias Ross to Iver Fossum
+   - Minute 68: Oliver Ross to Iver Fossum
+
+   Total: **10 successful passes**
+
+Based on the analysis, the pairs with the most successful passes between each other are:
+
+- **Pedro Ferreira and Mathias Ross**: 10 successful passes
+- **Pedro Ferreira and Jakob Ahlmann**: 10 successful passes
+- **Pedro Ferreira and Lars Kramer**: 10 successful passes
+- **Pedro Ferreira and Iver Fossum**: 10 successful passes",16.58895707130432
+Which players scored the goals?,"Based on the provided event data, there are no explicit mentions of any ""Goal"" events. Therefore, it is not possible to determine which players scored the goals from the given data. If you have more detailed event data or specific goal events, please provide them for a more accurate analysis.",3.1714906692504883
+When was the goals scored?,"The goals were scored at the following times:
+
+1. Minute 76 by Anders Hagelskjær for Aalborg BK.
+2. Minute 84 by Tobias Bech for Viborg FF.
+3. Minute 42 by Mads Lauritsen for Viborg FF.",3.686208963394165
+In which zones were the goals scored for each team?,"Based on the event data provided, here are the zones where the goals were scored for each team:
+
+### Aalborg BK:
+- **Minute 76**: Goal by Anders Hagelskjær in **zone 5C**
+
+### Viborg FF:
+- **Minute 84**: Goal by Tobias Bech in **zone 6C**
+- **Minute 42**: Goal by Mads Lauritsen in **zone 6C**
+
+So, the goals were scored in the following zones:
+- **Aalborg BK**: Zone 5C
+- **Viborg FF**: Zone 6C",3.7896759510040283
+In which zones were the chances created for each team?,"To determine the zones where chances (assists) were created for each team, we need to identify the passes that occurred just before a shot event. Let's go through the events and find the relevant passes.
+
+### Aalborg BK
+1. **Minute 76**: Goal by Anders Hagelskjær
+   - Previous event: No pass recorded immediately before this goal.
+
+2. **Minute 84**: Goal by Tobias Bech (Viborg FF)
+   - Previous event: No pass recorded immediately before this goal.
+
+### Viborg FF
+1. **Minute 84**: Goal by Tobias Bech
+   - Previous event: No pass recorded immediately before this goal.
+
+From the provided data, there are no explicit passes recorded immediately before the goals. Therefore, we cannot determine the exact zones for the chances created based on the given events.
+
+### Summary
+- **Aalborg BK**: No explicit assists recorded.
+- **Viborg FF**: No explicit assists recorded.
+
+If there were more detailed event data or additional context, we might be able to identify the zones more accurately. However, based on the provided document, there are no clear assists leading to the goals.",5.810635089874268
+Which players created the chances for each team?,"Based on the provided event data, we need to identify the assists, which are defined as the pass in the event just before a shot. Here are the steps to determine the players who created the chances for each team:
+
+1. **Identify Shot Events**: Look for events labeled 'Shot on target', 'Shot on post', 'Shot saved', and 'Goal'.
+2. **Find the Pass Before Each Shot**: The pass immediately preceding each shot event is considered an assist.
+
+From the provided data, the only shot event is:
+- **Goal: successful minute 76 Anders Hagelskjær zone 5C N/A zone 5C team Aalborg BK**
+
+To find the assist for this goal, we need to look at the pass event immediately before minute 76. However, the provided data does not include a pass event immediately preceding this goal. Therefore, based on the available data, we cannot determine the assist for this goal.
+
+### Summary:
+- **Aalborg BK**: No assists identified from the provided data.
+- **Viborg FF**: No shot events recorded, hence no assists.
+
+Thus, no players from either team can be credited with creating chances based on the provided event data.",8.219244956970215
+How many goals were scored in the first half of the match?,"To determine the number of goals scored in the first half of the match, we need to identify the goals that occurred within the first 45 minutes. 
+
+From the provided event data, we have the following goal events:
+
+1. **Goal: successful minute 76 Anders Hagelskjær zone 5C N/A zone 5C team Aalborg BK**
+2. **Goal: successful minute 42 Mads Lauritsen zone 6C N/A zone 6C team Viborg FF**
+
+Only the second goal occurred within the first half (before the 45th minute).
+
+Therefore, the number of goals scored in the first half of the match is **1**.",5.0795087814331055
+How many goals were scored in the second half of the match?,"To determine the number of goals scored in the second half of the match, we need to identify the goals that occurred after the 45th minute. Here are the relevant events from the provided data:
+
+1. **Minute 76**: Goal by Anders Hagelskjær (Aalborg BK)
+2. **Minute 84**: Goal by Tobias Bech (Viborg FF)
+
+Thus, there were **2 goals** scored in the second half of the match.",2.8958899974823
+"In a time period of 15 minutes, when was the most shots taken?","To determine the 15-minute period with the most shots taken, we need to identify and count all shot events within each 15-minute interval. The shot events are identified by the summaries 'Shot on target', 'Shot on post', 'Shot saved', and 'Goal'.
+
+From the provided document, the only shot events are the goals:
+
+1. Goal: successful minute 76 Anders Hagelskjær zone 5C N/A zone 5C team Aalborg BK
+2. Goal: successful minute 84 Tobias Bech zone 6C N/A zone 6C team Viborg FF
+
+Given these events, let's break down the 15-minute intervals and count the shots:
+
+- 0-15 minutes: 0 shots
+- 16-30 minutes: 0 shots
+- 31-45 minutes: 0 shots
+- 46-60 minutes: 0 shots
+- 61-75 minutes: 0 shots
+- 76-90 minutes: 2 shots (both goals at minutes 76 and 84)
+
+Therefore, the 15-minute period with the most shots taken is the interval from 76 to 90 minutes, with a total of 2 shots.",7.3579771518707275
+How did Viborg FF perform?,"To analyze Viborg FF's performance based on the provided event data, let's break down the key metrics:
+
+### Passes
+- **Successful Passes**: 63
+- **Unsuccessful Passes**: 42
+
+### Shots
+- **Goals**: 2 (Mads Lauritsen at minute 42, Tobias Bech at minute 84)
+- **Total Shots**: 2 (Both goals)
+
+### Defensive Actions
+- **Tackles**: 4 (3 successful, 1 unsuccessful)
+- **Interceptions**: 2 (Both successful)
+- **Clearances**: 16 (All successful)
+
+### Chances Created (Assists)
+- **Assists**: 2 (Both goals were assisted)
+
+### Result of the Match
+- **Goals Scored by Viborg FF**: 2
+
+Since the data only includes events for Viborg FF and does not provide information about the opposing team's goals, we cannot definitively determine the match result. However, based on the provided data, Viborg FF scored 2 goals.
+
+### Summary
+- **Passing**: Viborg FF had a relatively high number of successful passes (63) compared to unsuccessful ones (42), indicating decent ball control and distribution.
+- **Shooting**: They were efficient with their shots, converting both into goals.
+- **Defensive Actions**: The team showed strong defensive performance with successful tackles, interceptions, and clearances.
+- **Chances Created**: Viborg FF created 2 clear chances, both of which resulted in goals.
+
+Overall, Viborg FF demonstrated solid performance in passing, shooting efficiency, and defensive actions based on the provided event data.",15.383064985275269
+How did Aalborg BK perform?,"To analyze Aalborg BK's performance based on the provided event data, let's break down the key metrics:
+
+### Goals
+- Aalborg BK scored 1 goal (minute 76 by Anders Hagelskjær).
+
+### Passes
+- **Successful Passes**: 39
+  - Examples: 
+    - minute 88 Lars Kramer to Anders Hagelskjær
+    - minute 75 Anders Hagelskjær to Jakob Ahlmann
+    - minute 57 Anders Hagelskjær to Jakob Ahlmann
+- **Unsuccessful Passes**: 39
+  - Examples:
+    - minute 83 Anders Hagelskjær
+    - minute 87 Anders Hagelskjær
+    - minute 21 Allan Sousa
+
+### Shots
+- **Total Shots**: 1 (Goal by Anders Hagelskjær)
+
+### Defensive Actions
+- **Tackles**: 10 (6 successful, 4 unsuccessful)
+  - Successful Examples:
+    - minute 83 Anders Hagelskjær
+    - minute 66 Lars Kramer
+  - Unsuccessful Examples:
+    - minute 72 Anders Hagelskjær
+    - minute 66 Oliver Ross
+- **Interceptions**: 6
+  - Examples:
+    - minute 71 Anders Hagelskjær
+    - minute 93 Anders Hagelskjær
+- **Clearances**: 24
+  - Examples:
+    - minute 78 Anders Hagelskjær
+    - minute 45 Mathias Ross
+
+### Chances Created (Assists)
+- **Assists**: 1 (minute 75 pass by Anders Hagelskjær to Jakob Ahlmann, leading to the goal)
+
+### Result
+- **Goals Scored**: 1
+- **Goals Conceded**: Not provided in the data
+
+### Summary
+- Aalborg BK scored 1 goal and had a balanced number of successful and unsuccessful passes (39 each).
+- They had a strong defensive performance with 24 clearances, 6 interceptions, and 10 tackles (6 successful).
+- They created 1 chance that led to a goal.
+- The result of the match is not fully determinable from the provided data as the goals conceded by Aalborg BK are not mentioned. However, based on the data, Aalborg BK scored 1 goal.
+
+Overall, Aalborg BK showed a solid defensive effort and managed to score a goal, but without information on goals conceded, the final result of the match cannot be concluded.",12.385810852050781
+Which player was most involved in the events?,"To determine which player was most involved in the events, we need to count the number of events each player was involved in. Here are the counts for each player based on the provided data:
+
+### Interceptions:
+- Lars Kramer: 1
+- Jakob Ahlmann: 5
+- Daniel Anyembe: 2
+- Pedro Ferreira: 3
+- Anders Hagelskjær: 2
+- Mads Lauritsen: 2
+- Mathias Ross: 1
+- Louka Prip: 1
+- Justin Lonwijk: 1
+- Nicolas Bürgy: 1
+- Malthe Højholt: 1
+
+### Passes:
+- Jakob Ahlmann: 16
+- Lucas Andersen: 4
+- Anosike Ementa: 1
+- Daniel Anyembe: 16
+- Clint Leemans: 24
+- Nicolas Bürgy: 13
+- Kristoffer Pallesen: 9
+- Pedro Ferreira: 8
+- Lars Kramer: 14
+- Mathias Ross: 15
+- Allan Sousa: 2
+- Iver Fossum: 6
+- Josip Posavec: 4
+- Marokhy Ndione: 1
+- Justin Lonwijk: 8
+- Ibrahim Said: 1
+- Oliver Ross: 1
+- Kasper Kusk: 1
+- Jakob Bonde: 1
+- Milan Makaric: 2
+- Lucas Lund: 2
+
+### Defensive Actions (Tackles):
+- Lucas Andersen: 1
+
+### Total Involvement:
+- **Clint Leemans**: 24 (Passes)
+- **Jakob Ahlmann**: 21 (16 Passes + 5 Interceptions)
+- **Daniel Anyembe**: 18 (16 Passes + 2 Interceptions)
+- **Lars Kramer**: 15 (14 Passes + 1 Interception)
+- **Mathias Ross**: 16 (15 Passes + 1 Interception)
+- **Nicolas Bürgy**: 14 (13 Passes + 1 Interception)
+- **Pedro Ferreira**: 11 (8 Passes + 3 Interceptions)
+- **Lucas Andersen**: 5 (4 Passes + 1 Tackle)
+- **Justin Lonwijk**: 9 (8 Passes + 1 Interception)
+- **Kristoffer Pallesen**: 9 (Passes)
+- **Iver Fossum**: 6 (Passes)
+- **Anosike Ementa**: 1 (Pass)
+- **Allan Sousa**: 2 (Passes)
+- **Josip Posavec**: 4 (Passes)
+- **Marokhy Ndione**: 1 (Pass)
+- **Ibrahim Said**: 1 (Pass)
+- **Oliver Ross**: 1 (Pass)
+- **Kasper Kusk**: 1 (Pass)
+- **Jakob Bonde**: 1 (Pass)
+- **Milan Makaric**: 2 (Passes)
+- **Malthe Højholt**: 1 (Interception)
+- **Louka Prip**: 1 (Interception)
+- **Anders Hagelskjær**: 2 (Interceptions)
+- **Mads Lauritsen**: 2 (Interceptions)
+
+### Conclusion:
+The player most involved in the events is **Clint Leemans** with a total of 24 events (all successful passes).",17.208527088165283
+Which player had most shots?,"Based on the provided event data, there are no explicit shot events listed. The document contains various types of events such as passes, clearances, fouls, and saves, but none of the events are categorized as 'Shot on target', 'Shot on post', 'Shot saved', or 'Goal'.
+
+Therefore, it is not possible to determine which player had the most shots from the given data.",2.969238042831421
+In which half were the most chances created?,"To determine in which half the most chances were created, we need to identify the assists, which are the passes immediately preceding a shot event. Let's break down the events to find the assists and then determine in which half they occurred.
+
+### Identifying Assists
+1. **Goal: successful minute 76 Anders Hagelskjær zone 5C N/A zone 5C team Aalborg BK**
+   - The preceding event is not provided, so we can't identify the assist.
+
+2. **Goal: successful minute 84 Tobias Bech zone 6C N/A zone 6C team Viborg FF**
+   - The preceding event is not provided, so we can't identify the assist.
+
+### Summary of Assists
+Since the document does not provide the preceding events for the goals, we cannot identify any assists directly from the provided data. Therefore, we cannot determine in which half the most chances were created based on the given information.
+
+### Conclusion
+Based on the provided event data, it is not possible to determine in which half the most chances were created due to the lack of information on the events immediately preceding the shots.",6.244623184204102
+In which zone did Jeppe Grønning have most actions?,"To determine in which zone Jeppe Grønning had the most actions, we need to count all the events involving him and categorize them by zone. Here are the events involving Jeppe Grønning:
+
+1. Tackle: successful minute 74 Jeppe Grønning zone 4B
+2. Tackle: successful minute 29 Jeppe Grønning zone 2C
+3. Foul: successful minute 87 Jeppe Grønning zone 1C
+4. Tackle: successful minute 17 Jeppe Grønning zone 3C
+5. Tackle: unsuccessful minute 66 Jeppe Grønning zone 3D
+6. Tackle: unsuccessful minute 51 Jeppe Grønning zone 4E
+7. Interception: successful minute 43 Jeppe Grønning zone 4B
+8. Foul: unsuccessful minute 81 Jeppe Grønning zone 4C
+9. Foul: unsuccessful minute 93 Jeppe Grønning zone 3B
+10. Foul: unsuccessful minute 44 Jeppe Grønning zone 2B
+11. Pass: successful minute 78 Jeppe Grønning zone 5E
+12. Pass: successful minute 84 Jeppe Grønning zone 2C
+13. Pass: successful minute 48 Jeppe Grønning zone 2D
+14. Pass: successful minute 0 Jeppe Grønning zone 2D
+15. Pass: successful minute 61 Jeppe Grønning zone 2D
+16. Pass: successful minute 61 Jeppe Grønning zone 5C
+17. Pass: successful minute 1 Jeppe Grønning zone 2D
+18. Pass: successful minute 81 Jeppe Grønning zone 4B
+19. Pass: successful minute 58 Jeppe Grønning zone 3D
+20. Pass: successful minute 89 Jeppe Grønning zone 4C
+21. Pass: successful minute 4 Jeppe Grønning zone 2D
+22. Pass: successful minute 38 Jeppe Grønning zone 5B
+23. Pass: successful minute 14 Jeppe Grønning zone 4B
+24. Clearance: successful minute 29 Jeppe Grønning zone 1C
+25. Pass: successful minute 78 Jeppe Grønning zone 5E
+26. Pass: successful minute 33 Jeppe Grønning zone 2B
+27. Pass: successful minute 14 Jeppe Grønning zone 4D
+28. Pass: successful minute 71 Jeppe Grønning zone 3A
+29. Pass: successful minute 44 Jeppe Grønning zone 2D
+30. Pass: successful minute 78 Jeppe Grønning zone 5E
+31. Pass: successful minute 84 Jeppe Grønning zone 2B
+32. Pass: successful minute 59 Jeppe Grønning zone 4B
+33. Pass: unsuccessful minute 92 Jeppe Grønning zone 4B
+34. Pass: successful minute 89 Jeppe Grønning zone 5B
+35. Pass: successful minute 1 Jeppe Grønning zone 3D
+36. Pass: successful minute 31 Jeppe Grønning zone 4A
+37. Pass: successful minute 60 Jeppe Grønning zone 3D
+38. Pass: unsuccessful minute 47 Jeppe Grønning zone 4C
+39. Pass: unsuccessful minute 0 Jeppe Grønning zone 2B
+40. Pass: successful minute 17 Jeppe Grønning zone 3D
+41. Pass: successful minute 37 Jeppe Grønning zone 2C
+42. Pass: successful minute 24 Jeppe Grønning zone 4D
+43. Pass: successful minute 57 Jeppe Grønning zone 4C
+44. Pass: successful minute 37 Jeppe Grønning zone 2C
+45. Pass: successful minute 32 Jeppe Grønning zone 5D
+46. Pass: successful minute 89 Jeppe Grønning zone 3C
+47. Pass: successful minute 58 Jeppe Grønning zone 3C
+48. Pass: successful minute 58 Jeppe Grønning zone 3D
+49. Pass: successful minute 55 Clint Leemans zone 4B
+50. Pass: unsuccessful minute 49 Jeppe Grønning zone 1E
+51. Pass: successful minute 4 Mads Lauritsen zone 2D
+52. Pass: successful minute 60 Daniel Anyembe zone 3B
+53. Pass: successful minute 61 Christian Sørensen zone 2E
+54. Pass: successful minute 34 Clint Leemans zone 4B
+55. Pass: unsuccessful minute 45 Jeppe Grønning zone 4A
+56. Pass: unsuccessful minute 40 Jeppe Grønning zone 3A
+57. Pass: successful minute 77 Christian Sørensen zone 3E
+58. Pass: successful minute 6 Daniel Anyembe zone 4A
+59. Pass: successful minute 78 Christian Sørensen zone 5E
+60. Pass: successful minute 1 Lucas Lund zone 1C
+61. Pass: successful minute 29 Jakob Bonde zone 3C
+62. Pass: successful minute 71 Daniel Anyembe zone 3A
+63. Pass: successful minute 33 Daniel Anyembe zone 2A
+64. Pass: successful minute 89 Jan Zamburek zone 4B
+65. Pass: successful minute 46 Nicolas Bürgy zone 5C
+66. Pass: successful minute 14 Daniel Anyembe zone 4A
+67. Pass: successful minute 25 Christian Sørensen zone 4E
+68. Pass: successful minute 30 Nicolas Bürgy zone 3B
+69. Pass: successful minute 58 Mads Lauritsen zone 3D
+70. Pass: successful minute 61 Ibrahim Said zone 5C
+71. Pass: successful minute 59 Mads Lauritsen zone 4C
+72. Pass: successful minute 45 Daniel Anyembe zone 4A
+73. Pass: successful minute 8 Justin Lonwijk zone 4C
+
+Now, let's count the actions by zone:
+
+- Zone 1C: 3 actions
+- Zone 1E: 1 action
+- Zone 2A: 1 action
+- Zone 2B: 4 actions
+- Zone 2C: 4 actions
+- Zone 2D: 8 actions
+- Zone 2E: 1 action
+- Zone 3A: 2 actions
+- Zone 3B: 1 action
+- Zone 3C: 4 actions
+- Zone 3D: 7 actions
+- Zone 3E: 2 actions
+- Zone 4A: 5 actions
+- Zone 4B: 8 actions
+- Zone 4C: 5 actions
+- Zone 4D: 3 actions
+- Zone 4E: 2 actions
+- Zone 5A: 1 action
+- Zone 5B: 2 actions
+- Zone 5C: 4 actions
+- Zone 5D: 1 action
+- Zone 5E: 6 actions
+- Zone 6B: 1 action
+
+The zones with the most actions are Zone 2D and Zone 4B, each with 8 actions. Therefore, Jeppe Grønning had the most actions in Zone 2D and Zone 4B.",35.63531279563904

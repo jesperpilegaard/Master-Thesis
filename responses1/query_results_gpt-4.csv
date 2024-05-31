@@ -1,0 +1,40 @@
+Question,Answer,Response Time (s)
+How many successful passes did each team have?,Aalborg BK had 333 successful pass events while Viborg FF had 410 successful pass events.,1.863304853439331
+How many unsuccessful passes were made by each team?,"Aalborg BK made 101 unsuccessful passes, while Viborg FF made 97 unsuccessful passes.",2.1489689350128174
+Which team had the most offside passes?,Viborg FF had the most offside passes with 2 events. Aalborg BK had only 1 offside pass event.,2.059767007827759
+How many fouls were committed by each team?,Aalborg BK committed a total of 18 fouls (11 successful and 7 unsuccessful). Viborg FF committed a total of 17 fouls (7 successful and 10 unsuccessful).,2.4445292949676514
+Which team was awarded the most corners?,Viborg FF was awarded the most corners with a total of 6.,1.3316099643707275
+How many shots did each team have?,"Aalborg BK had a total of 13 shots (9 successful shots saved, 3 successful shots off target, and 1 successful goal). 
+
+Viborg FF had a total of 15 shots (6 successful shots saved, 5 successful shots off target, 2 successful shots on post, and 2 successful goals).",4.059895992279053
+Which team created the most chances?,"Viborg FF created the most chances. They had 13 shots (6 saved, 5 off target, 2 on post) and 2 successful goals. In contrast, Aalborg BK had 12 shots (9 saved, 3 off target) and 1 successful goal.",4.029080152511597
+What was the result of the match?,The result of the match is not explicitly provided in the data.,1.534132957458496
+How many successful defensive actions did each team have?,"Aalborg BK had a total of 61 successful defensive actions. This includes 32 successful clearances, 13 successful interceptions, 9 successful saves, and 7 successful tackles.
+
+Viborg FF had a total of 36 successful defensive actions. This includes 15 successful clearances, 9 successful saves, 7 successful interceptions, and 6 successful tackles.",4.918385028839111
+Which players had most successful passes between each other?,"The players from Aalborg BK who had the most successful passes between each other were Milan Makaric and Iver Fossum. From Viborg FF, the players with the most successful passes between each other were Jeppe Grønning and Jakob Bonde.",3.6856791973114014
+Which players scored the goals?,The goals were scored by Anders Hagelskjær from Aalborg BK and Mads Lauritsen and Tobias Bech from Viborg FF.,2.441398859024048
+When was the goals scored?,"The goals were scored at the following times:
+
+For Aalborg BK:
+- 76' by Anders Hagelskjær in zone 5C
+
+For Viborg FF:
+- 42' by Mads Lauritsen in zone 6C
+- 84' by Tobias Bech in zone 6C",7.286206007003784
+In which zones were the goals scored for each team?,"For Aalborg BK, the goal was scored in zone 5C. For Viborg FF, the goals were scored in zone 6C.",6.250553131103516
+In which zones were the chances created for each team?,"For Aalborg BK, chances were created in the following zones: 5D, 5C, 6C, 6D, 5B, 6B, 5C, 6D, 5B, 6D, 5C.
+
+For Viborg FF, chances were created in the following zones: 6C, 6C, 5B, 5C, 6D, 5C, 6B, 6C, 6C, 6C.",9.10894227027893
+Which players created the chances for each team?,"For Aalborg BK, the players who created chances (assisted shots) were Allan Sousa, Jakob Ahlmann, Milan Makaric, and Lucas Andersen. 
+
+For Viborg FF, the players who created chances were Jakob Bonde, Nicolas Bürgy, Justin Lonwijk, Tobias Bech, Christian Sørensen, and Jan Zamburek.",6.594023942947388
+How many goals were scored in the first half of the match?,There was 1 goal scored in the first half of the match.,4.771038055419922
+How many goals were scored in the second half of the match?,There were 2 goals scored in the second half of the match. One was scored by Anders Hagelskjær of Aalborg BK at 76' and the other was scored by Tobias Bech of Viborg FF at 84'.,6.862278938293457
+"In a time period of 15 minutes, when was the most shots taken?","The data provided does not specify the exact time intervals for each event, making it impossible to determine when the most shots were taken in a 15-minute period.",3.990774631500244
+How did Aalborg BK perform?,"Aalborg BK had a mixed performance. They had a total of 333 successful passes, but also 101 unsuccessful ones. They had 9 successful shots saved, and 32 successful clearances. They committed 11 successful fouls and 7 unsuccessful ones. They intercepted the ball successfully 13 times. They were awarded 3 successful corners and 8 unsuccessful ones. They made 9 successful saves and 7 successful tackles, but also 6 unsuccessful ones. They received 2 cards. They had 3 successful shots off target, 1 successful offside pass, and scored 1 goal.",9.525145053863525
+How did Viborg FF perform?,"Viborg FF had a strong performance in terms of passing, with 410 successful pass events and only 97 unsuccessful ones. They also had a solid defensive performance with 15 successful clearance events, 6 successful tackle events, and 7 successful interception events. However, they committed a significant number of fouls, with 7 successful and 10 unsuccessful foul events. In terms of shooting, they had 5 successful shot off target events, 6 successful shot saved events, and 2 successful goal events. They were awarded 6 successful corners but also had 3 unsuccessful ones. They also had 2 successful offside pass events. Overall, Viborg FF showed a strong performance, especially in passing and defensive actions.",9.576717138290405
+Which player was most involved in the events?,"For Aalborg BK, the player most involved in the events was Iver Fossum, appearing in 7 events. For Viborg FF, the player most involved in the events was Jeppe Grønning, appearing in 15 events.",5.728776931762695
+Which player had most shots?,"The player with the most shots for Aalborg BK was Milan Makaric with 2 shots. For Viborg FF, Jakob Bonde had the most shots with 4.",6.300079822540283
+In which half were the most chances created?,"The first half had the most chances created. This is based on the number of successful shots, successful shots saved, and successful shots off target.",3.8915481567382812
+In which zone did Jeppe Grønning have most actions?,Jeppe Grønning had most actions in zone 1C.,4.403357982635498

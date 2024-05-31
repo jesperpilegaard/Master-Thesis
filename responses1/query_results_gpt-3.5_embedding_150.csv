@@ -1,0 +1,60 @@
+Question,Answer,Response Time (s)
+How many successful passes did each team have?,"- Viborg FF had 27 successful passes.
+- Aalborg BK had 38 successful passes.",1.8010246753692627
+How many unsuccessful passes were made by each team?,"- Aalborg BK: 43 unsuccessful passes
+    - Viborg FF: 37 unsuccessful passes",1.5243549346923828
+Which team had the most offside passes?,Team Aalborg BK had the most offside passes.,1.0276391506195068
+How many fouls were committed by each team?,"- Aalborg BK committed 11 fouls.
+- Viborg FF committed 7 fouls.",2.422615909576416
+Which team was awarded the most corners?,"Based on the provided event data, there is no specific mention of corner kicks being awarded to either team. Therefore, it is not possible to determine which team was awarded the most corners based on the given information.",3.653782606124878
+How many shots did each team have?,"Aalborg BK had a total of 5 shots, while Viborg FF had a total of 3 shots.",1.6604819297790527
+Which team created the most chances?,"Based on the provided event data, the team that created the most chances (assists) is Aalborg BK. This can be determined by counting the number of successful passes that led to shots for each team, as assists are defined as the pass in the event just before a shot. Aalborg BK had a higher number of successful passes leading to shots compared to Viborg FF, indicating that they created more chances during the match.",2.8762869834899902
+What was the result of the match?,The result of the match was a victory for Aalborg BK as they scored more goals than Viborg FF.,1.5363140106201172
+How many successful defensive actions did each team have?,"- Aalborg BK had a total of 23 successful defensive actions.
+- Viborg FF had a total of 13 successful defensive actions.",1.5231130123138428
+Which players had most successful passes between each other?,"To determine which players had the most successful passes between each other, we need to analyze the data provided. We will look for pairs of players who successfully passed the ball to each other multiple times.
+
+Based on the data provided, the pair of players with the most successful passes between each other are Pedro Ferreira and Mathias Ross from team Aalborg BK. They successfully passed the ball to each other multiple times throughout the match. Other notable pairs with successful passes include Pedro Ferreira and Jakob Ahlmann, Pedro Ferreira and Louka Prip, and Pedro Ferreira and Kristoffer Pallesen.
+
+Therefore, Pedro Ferreira and Mathias Ross had the most successful passes between each other in the match.",3.1862127780914307
+Which players scored the goals?,"Based on the provided event data, the players who scored the goals are not explicitly mentioned in the events. To determine which players scored the goals, we would need additional information or events specifically related to goals being scored.",1.8018741607666016
+When was the goals scored?,"The goals were scored in the following minutes:
+- Minute 76: Anders Hagelskjær for team Aalborg BK
+- Minute 84: Tobias Bech for team Viborg FF
+- Minute 42: Mads Lauritsen for team Viborg FF",2.088361978530884
+In which zones were the goals scored for each team?,"- Aalborg BK scored a goal in zone 5C.
+- Viborg FF scored a goal in zone 6C.",1.4328150749206543
+In which zones were the chances created for each team?,"- Chances created for Aalborg BK:
+    - Mathias Ross created chances in zones 2B, 4B, 2D, 1B, 2B, 2B, 1B, 2B, 2B, 1B, 2B, 2B, 2B, 2B, 2B, 1B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2B, 2",73.31554102897644
+Which players created the chances for each team?,"- For Aalborg BK:
+    - Pedro Ferreira created chances with passes to Louka Prip, Kristoffer Pallesen, Mathias Ross, Jakob Ahlmann, Iver Fossum, Lars Kramer, Allan Sousa, Malthe Højholt, and Josip Posavec.
+    - Mathias Ross created chances with passes to Pedro Ferreira, Josip Posavec, and Malthe Højholt.
+    - Milan Makaric created chances with passes to Louka Prip.
+    - Kasper Kusk created a chance with a pass to Jakob Ahlmann.
+    - Anders Hagelskjær created a chance with a pass to Kristoffer Pallesen.
+    - Josip Posavec created chances with passes to Kristoffer Pallesen, Jakob Ahlmann, and Iver Fossum.
+    
+- For Viborg FF:
+    - Marokhy Ndione created a chance with a pass to N/A.
+    - Jakob Bonde created a chance with a pass to Christian Sørensen.",3.792728900909424
+How many goals were scored in the first half of the match?,"To determine how many goals were scored in the first half of the match, we need to look for events that are identified as goals. In the provided data, the events related to goals are labeled as 'Goal'. We also need to consider the minute in which the goals were scored to determine if they were in the first half of the match.
+
+Based on the data provided, the following goals were scored in the first half of the match:
+
+1. Goal: successful minute 42 Mads Lauritsen zone 6C N/A zone 6C team Viborg FF
+
+Therefore, there was 1 goal scored in the first half of the match.",3.2044990062713623
+How many goals were scored in the second half of the match?,"Based on the event data provided, there were 2 goals scored in the second half of the match.",1.3095412254333496
+"In a time period of 15 minutes, when was the most shots taken?","Based on the event data provided, the most shots taken in a 15-minute time period occurred in the following minutes:
+- Minute 76: Anders Hagelskjær scored a goal for Aalborg BK
+- Minute 84: Tobias Bech scored a goal for Viborg FF
+
+Therefore, the most shots were taken in the 15-minute time period between minutes 76 and 84, with a total of 2 shots resulting in goals.",2.7400319576263428
+How did Viborg FF perform?,"Viborg FF had a decent performance based on the provided event data. They had successful passes throughout the match, with players like Daniel Anyembe, Clint Leemans, and others contributing to the team's passing game. They also had defensive actions such as tackles, interceptions, and clearances to prevent the opponent from scoring. Additionally, Viborg FF managed to create chances through successful passes that led to shots, with players like Daniel Anyembe and Clint Leemans being involved in creating opportunities. In terms of goals, Viborg FF scored at least one goal during the match, which indicates some level of offensive effectiveness. Overall, based on the data provided, Viborg FF had a solid performance with a mix of good passing, defensive actions, chance creation, and goal-scoring opportunities.",3.7000370025634766
+How did Aalborg BK perform?,"Aalborg BK performed well in the match. They scored at least one goal, as indicated by the ""Goal"" event in the data. Additionally, they had successful clearances, tackles, interceptions, and passes throughout the game. The team also created chances through successful passes that led to shots, even though not all of them resulted in goals. Overall, Aalborg BK showed a strong performance in terms of both offensive and defensive actions during the match.",2.3522398471832275
+Which player was most involved in the events?,"Based on the provided event data, the player who was most involved in the events is Jakob Ahlmann. He was involved in interceptions, passes, and tackles throughout the match. His active participation in various events on the field showcases his importance in the game.",2.047658920288086
+Which player had most shots?,"To determine which player had the most shots, we need to look for events related to shots in the provided data. Shots are identified by 'Shot on target', 'Shot on post', 'Shot saved', and 'Goal' in the summaries.
+
+Based on the data provided, we need to count all shot events for each player. Let's analyze the data to find out which player had the most shots.",2.4290928840637207
+In which half were the most chances created?,"To determine in which half the most chances were created, we need to look for the number of assists (successful passes leading to shots) in each half. From the provided data, we can count the number of successful passes that led to shots in the first half and the second half separately. The half with the highest number of chances created (assists) will be the one where the most chances were created.",2.3745501041412354
+In which zone did Jeppe Grønning have most actions?,Jeppe Grønning had the most actions in zone 2D with a total of 9 actions.,2.3645050525665283
