@@ -1,0 +1,71 @@
+Question,Answer,Response Time (s)
+Which team has scored most goals from Matchday 1 to Matchday 3?,The team that has scored the most goals from Matchday 1 to Matchday 3 is Viborg FF with a total of 7 goals scored.,1.140653133392334
+Which player has had most shots from Matchday 1 to Matchday 3?,"To determine which player has had the most shots from Matchday 1 to Matchday 3, we need to count all shot events for each team across the three matchdays.
+
+Here are the total shot events for each team:
+
+- Randers FC: 4 + 6 + 5 + 1 + 1 = 17 shots
+- FC Midtjylland: 9 + 6 + 4 + 1 + 5 + 1 = 26 shots
+- Viborg FF: 2 + 1 + 1 + 4 + 3 + 2 = 13 shots
+- Aalborg BK: 3 + 1 + 1 + 7 + 5 = 17 shots
+- Silkeborg IF: 2 + 3 + 2 + 1 + 2 = 10 shots
+- Lyngby BK: 2 + 1 + 1 + 4 + 3 = 11 shots
+- AC Horsens: 1 + 1 + 1 + 5 + 4 = 12 shots
+- FC København: 3 + 4 + 2 + 6 + 6 + 2 = 23 shots
+- AGF Aarhus: 3 + 4 + 3 + 5 + 4 = 19 shots
+- Brøndby IF: 1 + 5 + 1 + 9 + 9 = 25 shots
+- FC Nordsjælland: 2 + 3 + 2 + 2 + 2 = 11 shots
+- Odense Boldklub: 2 + 1 + 2 = 5 shots
+
+Therefore, the player from Brøndby IF has had the most shots from Matchday 1 to Matchday 3 with a total of 25 shots.",6.6659510135650635
+Which team has most saves from Matchday 1 to Matchday 3?,"Team: Odense Boldklub
+Total Saves: 24",0.8199820518493652
+Which player has most interceptions from Matchday 1 to Matchday 3?,The player with the most interceptions from Matchday 1 to Matchday 3 is from FC Nordsjælland with a total of 30 successful interceptions.,1.2288389205932617
+Which team has most corners awarded from Matchday 1 to Matchday 3?,The team with the most corners awarded from Matchday 1 to Matchday 3 is FC København with a total of 32 corners awarded.,1.0455827713012695
+Which player received most cards from Matchday 1 to Matchday 3?,The player who received the most cards from Matchday 1 to Matchday 3 is the one from FC Nordsjælland with a total of 6 cards (2 yellow cards).,1.3085167407989502
+Which 10 players received most cards from Matchday 1 to Matchday 3?,"To determine the 10 players who received the most cards from Matchday 1 to Matchday 3, we need to look at the number of ""Successful Card events"" each player received across all matchdays. Here are the top 10 players:
+
+1. Player A - X cards
+2. Player B - X cards
+3. Player C - X cards
+4. Player D - X cards
+5. Player E - X cards
+6. Player F - X cards
+7. Player G - X cards
+8. Player H - X cards
+9. Player I - X cards
+10. Player J - X cards
+
+Please note that the actual player names and the corresponding number of cards they received would need to be extracted from the provided data to provide an accurate answer.",3.072715997695923
+Which teams played each other in Matchday 1?,"In Matchday 1, the teams that played against each other were:
+- Randers FC
+- FC Midtjylland
+
+Therefore, Randers FC played against FC Midtjylland in Matchday 1.",1.2607378959655762
+How did FC Midtjylland perform from Matchday 1 to Matchday 3?,"FC Midtjylland had a strong performance from Matchday 1 to Matchday 3. They scored a total of 7 goals over the three matchdays, with 1 goal in Matchday 1, 5 goals in Matchday 2, and 1 goal in Matchday 3. They also had a total of 8 successful shots on target over the three matchdays, with 2 shots on target in Matchday 1, 6 shots on target in Matchday 2, and 0 shots on target in Matchday 3. Additionally, they created a total of 3 chances (assists) over the three matchdays, with 1 chance created in Matchday 1, 0 chances created in Matchday 2, and 2 chances created in Matchday 3. Overall, FC Midtjylland had a consistent performance in terms of goal-scoring and creating chances over the three matchdays.",4.371471166610718
+Which team had the most offside passes from Matchday 1 to Matchday 3?,Team: FC København had the most offside passes with a total of 5 from Matchday 1 to Matchday 3.,1.3321287631988525
+Which team had the most successful passes from Matchday 1 to Matchday 3?,"To determine which team had the most successful passes from Matchday 1 to Matchday 3, we need to look at the number of successful passes made by each team across all matchdays.
+
+Here are the total number of successful passes for each team:
+
+- Randers FC: Not provided
+- FC Midtjylland: Not provided
+- Viborg FF: Not provided
+- Aalborg BK: Not provided
+- Silkeborg IF: Not provided
+- Lyngby BK: Not provided
+- AC Horsens: Not provided
+- FC København: Not provided
+- AGF Aarhus: Not provided
+- Brøndby IF: Not provided
+- FC Nordsjælland: Not provided
+- Odense Boldklub: Not provided
+
+Since the data for successful passes is not provided in the event data, we are unable to determine which team had the most successful passes from Matchday 1 to Matchday 3.",3.8120789527893066
+How many chances did Odense Boldklub create from Matchday 1 to Matchday 3?,Odense Boldklub created a total of 2 chances from Matchday 1 to Matchday 3.,0.8979511260986328
+What was the result of Brøndby IF's matches from Matchday 1 to Matchday 3?,"Brøndby IF's results from Matchday 1 to Matchday 3 were as follows:
+- Matchday 1: 1 Goal
+- Matchday 2: 1 Goal
+- Matchday 3: 2 Goals
+
+Therefore, Brøndby IF scored a total of 4 goals in these three matches.",1.9446861743927002
