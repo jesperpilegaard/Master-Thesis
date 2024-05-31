@@ -6,12 +6,13 @@ We will be working with Event Data from OPTA, which is a sports analytics compan
 
 Event data bear information about who is involved and when and where the event took place. Moreover there are a posteriori statistics such as how much thread a cross made,
 the probability of scoring, etc. A match has 1.5MB of data plus the lineup of the players.
-Additionally, we willll include precomputed statistics such as goals scored by each team
+
+Additionally, we will include precomputed statistics such as goals scored by each team
 and the player responsible, assists, shots on and off target, saves by goalkeepers, free
 kicks awarded and taken, corner kicks, offsides, yellow and red cards issued, ball pos
 session time for each team, and pass accuracy.
+
 The goal is to provide valuable insights in the form of text responses and/or data visual
 izations for football coaches and analysts. Examples are small questions of a descriptive
 nature, player comparison, or question about the location of certain events (eg, crosses).
 In our tests we will use historical data from the last season.
-Chatbotdriven Football Analysis: 1
